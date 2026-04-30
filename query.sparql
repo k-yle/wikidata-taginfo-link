@@ -1,0 +1,22 @@
+SELECT
+  ?item
+  ?itemLabel
+  ?prop
+  ?value
+  (SAMPLE(?flag) AS ?flag)
+  (SAMPLE(?logo) AS ?logo)
+WHERE {
+  VALUES ?prop { wdt:P13786 wdt:P1282 }
+
+  ?item ?prop ?value .
+
+  # P18 isn't suitable for an icon, so it isn't included
+  OPTIONAL { ?item wdt:P41  ?flag }
+  OPTIONAL { ?item wdt:P154 ?logo }
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "mul,en,*".
+  }
+}
+GROUP BY ?item ?itemLabel ?prop ?value
+ORDER BY ?value ?item
