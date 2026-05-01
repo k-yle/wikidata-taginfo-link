@@ -5549,7 +5549,7 @@
     {
       "key": "cuisine",
       "value": "bagel",
-      "description": "[Q272502] bagel",
+      "description": "[Q272502] bejgl",
       "doc_url": "http://www.wikidata.org/entity/Q272502#P1282"
     },
     {
@@ -11262,11 +11262,6 @@
       "key": "inscription",
       "description": "[P1684] inscription",
       "doc_url": "http://www.wikidata.org/entity/P1684#P13786"
-    },
-    {
-      "key": "inscription",
-      "description": "[Q1640824] inscription",
-      "doc_url": "http://www.wikidata.org/entity/Q1640824#P13786"
     },
     {
       "key": "instagram",
