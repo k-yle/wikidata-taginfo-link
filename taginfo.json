@@ -2753,7 +2753,7 @@
     {
       "key": "bridge",
       "value": "aqueduct",
-      "description": "[Q18870689] aqueduct bridge",
+      "description": "[Q18870689] aqueduct",
       "doc_url": "http://www.wikidata.org/entity/Q18870689#P1282"
     },
     {
@@ -20471,9 +20471,21 @@
     },
     {
       "key": "railway:signal:main_repeated",
+      "value": "CH-FDV:559",
+      "description": "[Q139602908] Q139602908",
+      "doc_url": "http://www.wikidata.org/entity/Q139602908#P1282"
+    },
+    {
+      "key": "railway:signal:main_repeated",
       "value": "DE-ESO:fahrtanzeiger",
       "description": "[Q1392692] Fahrtanzeiger",
       "doc_url": "http://www.wikidata.org/entity/Q1392692#P1282"
+    },
+    {
+      "key": "railway:signal:main_repeated",
+      "value": "LU-CFL:SFID",
+      "description": "[Q139601795] signal fixe indicateur de départ",
+      "doc_url": "http://www.wikidata.org/entity/Q139601795#P1282"
     },
     {
       "key": "railway:signal:minor",
