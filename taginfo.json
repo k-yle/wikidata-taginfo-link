@@ -5549,7 +5549,7 @@
     {
       "key": "cuisine",
       "value": "bagel",
-      "description": "[Q272502] bejgl",
+      "description": "[Q272502] bagel",
       "doc_url": "http://www.wikidata.org/entity/Q272502#P1282"
     },
     {
@@ -24348,7 +24348,7 @@
     },
     {
       "key": "species",
-      "value": "Tilia_cordata",
+      "value": "Tilia cordata",
       "description": "[Q158746] Tilia cordata",
       "doc_url": "http://www.wikidata.org/entity/Q158746#P1282"
     },
