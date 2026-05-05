@@ -6341,13 +6341,6 @@
     },
     {
       "key": "denomination",
-      "value": "adventist",
-      "description": "[Q104319] Seventh-day Adventist Church",
-      "doc_url": "http://www.wikidata.org/entity/Q104319#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Adventist%20Symbol.svg"
-    },
-    {
-      "key": "denomination",
       "value": "ahmadiyya",
       "description": "[Q171764] Ahmadiyya",
       "doc_url": "http://www.wikidata.org/entity/Q171764#P1282",
@@ -19578,7 +19571,7 @@
     },
     {
       "key": "position",
-      "description": "[Q14565197] body relative direction",
+      "description": "[Q14565197] body-relative direction",
       "doc_url": "http://www.wikidata.org/entity/Q14565197#P13786"
     },
     {
