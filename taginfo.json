@@ -18157,6 +18157,17 @@
       "doc_url": "http://www.wikidata.org/entity/Q29358#P13786"
     },
     {
+      "key": "origin",
+      "description": "[P495] country of origin",
+      "doc_url": "http://www.wikidata.org/entity/P495#P13786"
+    },
+    {
+      "key": "origin",
+      "value": "local",
+      "description": "[Q2185963] regional product",
+      "doc_url": "http://www.wikidata.org/entity/Q2185963#P1282"
+    },
+    {
       "key": "outdoor_seating",
       "description": "[Q98642678] outdoor seating",
       "doc_url": "http://www.wikidata.org/entity/Q98642678#P13786"
@@ -20461,6 +20472,12 @@
       "value": "FR:S",
       "description": "[Q135822316] Sémaphore",
       "doc_url": "http://www.wikidata.org/entity/Q135822316#P1282"
+    },
+    {
+      "key": "railway:signal:main",
+      "value": "LU-CFL:SFA",
+      "description": "[Q139672530] signal fixe d’autorisation",
+      "doc_url": "http://www.wikidata.org/entity/Q139672530#P1282"
     },
     {
       "key": "railway:signal:main_repeated",
