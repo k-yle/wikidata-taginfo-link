@@ -67,6 +67,11 @@
       "doc_url": "http://www.wikidata.org/entity/P300#P13786"
     },
     {
+      "key": "Japan, Hong Kong, Italy, United States",
+      "description": "[Q139701267] MadisonDia",
+      "doc_url": "http://www.wikidata.org/entity/Q139701267#P1282"
+    },
+    {
       "key": "Key:addr:country",
       "description": "[P17] country",
       "doc_url": "http://www.wikidata.org/entity/P17#P13786"
@@ -13722,6 +13727,11 @@
     },
     {
       "key": "museum",
+      "description": "[Q139458670] Veer Surendra Sai Museum, Sambalpur",
+      "doc_url": "http://www.wikidata.org/entity/Q139458670#P13786"
+    },
+    {
+      "key": "museum",
       "description": "[Q33506] museum",
       "doc_url": "http://www.wikidata.org/entity/Q33506#P13786"
     },
@@ -16260,6 +16270,12 @@
     },
     {
       "key": "network",
+      "value": "US:AZ:Mohave",
+      "description": "[Q139700598] Mohave County routes",
+      "doc_url": "http://www.wikidata.org/entity/Q139700598#P1282"
+    },
+    {
+      "key": "network",
       "value": "US:AZ:Scenic",
       "description": "[Q122619526] Arizona Parkways, Historic and Scenic Roads",
       "doc_url": "http://www.wikidata.org/entity/Q122619526#P1282"
@@ -17361,6 +17377,12 @@
       "value": "US:US",
       "description": "[Q408192] United States Numbered Highway System",
       "doc_url": "http://www.wikidata.org/entity/Q408192#P1282"
+    },
+    {
+      "key": "network",
+      "value": "US:US:Business",
+      "description": "[Q139700638] Business routes of the United States Numbered Highway System",
+      "doc_url": "http://www.wikidata.org/entity/Q139700638#P1282"
     },
     {
       "key": "network",
@@ -20514,6 +20536,12 @@
       "value": "DE-ESO:sh2",
       "description": "[Q135659011] Sh 2",
       "doc_url": "http://www.wikidata.org/entity/Q135659011#P1282"
+    },
+    {
+      "key": "railway:signal:minor",
+      "value": "LU-CFL:SFVb",
+      "description": "[Q139700034] signal fixe de voie barrée",
+      "doc_url": "http://www.wikidata.org/entity/Q139700034#P1282"
     },
     {
       "key": "railway:signal:position",
