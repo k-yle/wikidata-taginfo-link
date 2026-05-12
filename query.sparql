@@ -1,10 +1,14 @@
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
 SELECT
   ?item
   ?itemLabel
   ?prop
   ?value
-  (SAMPLE(?flag) AS ?flag)
-  (SAMPLE(?logo) AS ?logo)
+  (SAMPLE(?flag) AS ?flagg)
+  (SAMPLE(?logo) AS ?logoo)
 WHERE {
   VALUES ?prop { wdt:P13786 wdt:P1282 }
 
@@ -14,8 +18,10 @@ WHERE {
   OPTIONAL { ?item wdt:P41  ?flag }
   OPTIONAL { ?item wdt:P154 ?logo }
 
-  SERVICE wikibase:label {
-    bd:serviceParam wikibase:language "mul,en,*".
+
+  OPTIONAL {
+    ?item rdfs:label ?itemLabel .
+    FILTER(LANG(?itemLabel) = "en")
   }
 }
 GROUP BY ?item ?itemLabel ?prop ?value

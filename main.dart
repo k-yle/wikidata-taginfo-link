@@ -15,13 +15,18 @@ Future<void> main() async {
 
   final response = await http.get(
     Uri.parse(
-      'https://query.wikidata.org/sparql?query=${Uri.encodeComponent(query)}',
+      'https://qlever.cs.uni-freiburg.de/api/wikidata?query=${Uri.encodeComponent(query)}',
     ),
     headers: {
       'Accept': 'application/sparql-results+json',
       'User-Agent': REPO_URL,
     },
   );
+
+  if (!response.body.startsWith("{")) {
+    print(response.body);
+    exit(1);
+  }
 
   final tags = (jsonDecode(response.body)['results']['bindings'] as List)
       .map((item) {
@@ -32,10 +37,11 @@ Future<void> main() async {
         final struct = <String, String>{};
         struct.put('key', kv[0]);
         struct.put('value', kv.length == 2 ? kv[1] : null);
-        struct.put('description', '[${qID}] ${item['itemLabel']['value']}');
+        struct.put('description',
+            '[${qID}] ${item['itemLabel']?['value'] ?? ''}'.trim());
         struct.put('doc_url', '${item['item']['value']}#$pID');
         struct.put('icon_url',
-            item['logo']?['value'] ?? item['flag']?['value'] ?? null);
+            item['logoo']?['value'] ?? item['flagg']?['value'] ?? null);
         return struct;
       })
       .whereType<Map<String, dynamic>>()
