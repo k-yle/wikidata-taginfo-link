@@ -67,11 +67,6 @@
       "doc_url": "http://www.wikidata.org/entity/P300#P13786"
     },
     {
-      "key": "Japan, Hong Kong, Italy, United States",
-      "description": "[Q139701267] MadisonDia",
-      "doc_url": "http://www.wikidata.org/entity/Q139701267#P1282"
-    },
-    {
       "key": "Key:addr:country",
       "description": "[P17] country",
       "doc_url": "http://www.wikidata.org/entity/P17#P13786"
@@ -2367,8 +2362,7 @@
     {
       "key": "boat",
       "description": "[Q35872] boat",
-      "doc_url": "http://www.wikidata.org/entity/Q35872#P13786",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Children%20paddling%20the%20proa%20of%20protestant%20missionary%20Van%20Hasselt%2C%20...%20-%20Collectie%20stichting%20Nationaal%20Museum%20van%20Wereldculturen%20-%20TM-10009234.jpg"
+      "doc_url": "http://www.wikidata.org/entity/Q35872#P13786"
     },
     {
       "key": "boat:tours",
@@ -7731,7 +7725,7 @@
     {
       "key": "elevator:type",
       "value": "paternoster",
-      "description": "[Q836968] paternoster",
+      "description": "[Q836968] páternoster",
       "doc_url": "http://www.wikidata.org/entity/Q836968#P1282"
     },
     {
@@ -8179,7 +8173,7 @@
     {
       "key": "flag:type",
       "value": "military",
-      "description": "[Q2912707] military colours",
+      "description": "[Q2912707] military flag",
       "doc_url": "http://www.wikidata.org/entity/Q2912707#P1282"
     },
     {
@@ -13724,11 +13718,6 @@
       "key": "mtb",
       "description": "[Q223705] mountain bike",
       "doc_url": "http://www.wikidata.org/entity/Q223705#P13786"
-    },
-    {
-      "key": "museum",
-      "description": "[Q139458670] Veer Surendra Sai Museum, Sambalpur",
-      "doc_url": "http://www.wikidata.org/entity/Q139458670#P13786"
     },
     {
       "key": "museum",
@@ -21443,6 +21432,11 @@
       "doc_url": "http://www.wikidata.org/entity/P9372#P13786"
     },
     {
+      "key": "ref:GB:ukprn",
+      "description": "[P4971] UK Provider Reference Number",
+      "doc_url": "http://www.wikidata.org/entity/P4971#P13786"
+    },
+    {
       "key": "ref:GB:uprn",
       "description": "[P8399] Unique Property Reference Number",
       "doc_url": "http://www.wikidata.org/entity/P8399#P13786"
@@ -24312,7 +24306,8 @@
       "key": "source",
       "value": "pmsp",
       "description": "[Q10351025] Military Police of São Paulo State",
-      "doc_url": "http://www.wikidata.org/entity/Q10351025#P1282"
+      "doc_url": "http://www.wikidata.org/entity/Q10351025#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/EscudoPMESP.png"
     },
     {
       "key": "source",
@@ -25574,6 +25569,12 @@
       "value": "concrete",
       "description": "[Q2534206] concrete surface",
       "doc_url": "http://www.wikidata.org/entity/Q2534206#P1282"
+    },
+    {
+      "key": "surface",
+      "value": "fibre_reinforced_polymer_grate",
+      "description": "[Q263125] fibre-reinforced plastic",
+      "doc_url": "http://www.wikidata.org/entity/Q263125#P1282"
     },
     {
       "key": "surface",
