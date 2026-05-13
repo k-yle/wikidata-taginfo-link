@@ -1211,7 +1211,7 @@
     {
       "key": "amenity",
       "value": "pharmacy",
-      "description": "[Q13107184] pharmacy",
+      "description": "[Q13107184] Pharmacy",
       "doc_url": "http://www.wikidata.org/entity/Q13107184#P1282"
     },
     {
@@ -3616,6 +3616,12 @@
       "value": "industrial",
       "description": "[Q1662011] industrial building",
       "doc_url": "http://www.wikidata.org/entity/Q1662011#P1282"
+    },
+    {
+      "key": "building",
+      "value": "kiln",
+      "description": "[Q1724341] kiln",
+      "doc_url": "http://www.wikidata.org/entity/Q1724341#P1282"
     },
     {
       "key": "building",
@@ -6105,7 +6111,7 @@
     },
     {
       "key": "currency",
-      "description": "[Q8142] currency",
+      "description": "[Q8142] Mosol",
       "doc_url": "http://www.wikidata.org/entity/Q8142#P13786"
     },
     {
@@ -7779,7 +7785,7 @@
     },
     {
       "key": "emergency",
-      "description": "[Q5070802] emergency",
+      "description": "[Q5070802] Emergency",
       "doc_url": "http://www.wikidata.org/entity/Q5070802#P13786"
     },
     {
@@ -20533,6 +20539,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q139700034#P1282"
     },
     {
+      "key": "railway:signal:minor",
+      "value": "LU-CFL:SMA",
+      "description": "[Q139769067] signal mobile d'arrêt",
+      "doc_url": "http://www.wikidata.org/entity/Q139769067#P1282"
+    },
+    {
       "key": "railway:signal:position",
       "value": "bridge",
       "description": "[Q98940060] railway signal gantry",
@@ -22999,7 +23011,7 @@
     {
       "key": "shop",
       "value": "cannabis",
-      "description": "[Q24140788] cannabis shop",
+      "description": "[Q24140788] dar dispensary",
       "doc_url": "http://www.wikidata.org/entity/Q24140788#P1282"
     },
     {
