@@ -1211,7 +1211,7 @@
     {
       "key": "amenity",
       "value": "pharmacy",
-      "description": "[Q13107184] Pharmacy",
+      "description": "[Q13107184] pharmacy",
       "doc_url": "http://www.wikidata.org/entity/Q13107184#P1282"
     },
     {
@@ -6111,7 +6111,7 @@
     },
     {
       "key": "currency",
-      "description": "[Q8142] Mosol",
+      "description": "[Q8142] currency",
       "doc_url": "http://www.wikidata.org/entity/Q8142#P13786"
     },
     {
@@ -7276,7 +7276,7 @@
     },
     {
       "key": "diet:halal",
-      "description": "[Q177823] halal",
+      "description": "[Q177823] ḥalāl",
       "doc_url": "http://www.wikidata.org/entity/Q177823#P13786"
     },
     {
@@ -7785,7 +7785,7 @@
     },
     {
       "key": "emergency",
-      "description": "[Q5070802] Emergency",
+      "description": "[Q5070802] emergency",
       "doc_url": "http://www.wikidata.org/entity/Q5070802#P13786"
     },
     {
@@ -13265,6 +13265,16 @@
       "doc_url": "http://www.wikidata.org/entity/P4135#P13786"
     },
     {
+      "key": "maxheight",
+      "description": "[P14433] maximum vehicle height",
+      "doc_url": "http://www.wikidata.org/entity/P14433#P13786"
+    },
+    {
+      "key": "maxlength",
+      "description": "[P14430] maximum vehicle length",
+      "doc_url": "http://www.wikidata.org/entity/P14430#P13786"
+    },
+    {
       "key": "maxspeed",
       "description": "[Q1077350] speed limit",
       "doc_url": "http://www.wikidata.org/entity/Q1077350#P13786"
@@ -13276,6 +13286,11 @@
     },
     {
       "key": "maxweight",
+      "description": "[P14432] maximum vehicle weight",
+      "doc_url": "http://www.wikidata.org/entity/P14432#P13786"
+    },
+    {
+      "key": "maxweight",
       "description": "[Q99773426] traffic weight restriction",
       "doc_url": "http://www.wikidata.org/entity/Q99773426#P13786"
     },
@@ -13283,6 +13298,11 @@
       "key": "maxweightrating",
       "description": "[Q228895] gross vehicle weight rating",
       "doc_url": "http://www.wikidata.org/entity/Q228895#P13786"
+    },
+    {
+      "key": "maxwidth",
+      "description": "[P14431] maximum vehicle width",
+      "doc_url": "http://www.wikidata.org/entity/P14431#P13786"
     },
     {
       "key": "megalith_type",
@@ -13864,6 +13884,11 @@
       "key": "name:carnaval",
       "description": "[Q54888391] nickname during carnival",
       "doc_url": "http://www.wikidata.org/entity/Q54888391#P13786"
+    },
+    {
+      "key": "name:en-boont",
+      "description": "[Q4943708] Boontling",
+      "doc_url": "http://www.wikidata.org/entity/Q4943708#P13786"
     },
     {
       "key": "name:eo",
@@ -21972,7 +21997,8 @@
       "key": "religion",
       "value": "hindy",
       "description": "[Q9089] Hinduism",
-      "doc_url": "http://www.wikidata.org/entity/Q9089#P1282"
+      "doc_url": "http://www.wikidata.org/entity/Q9089#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Om%20symbol.svg"
     },
     {
       "key": "religion",
@@ -23011,7 +23037,7 @@
     {
       "key": "shop",
       "value": "cannabis",
-      "description": "[Q24140788] dar dispensary",
+      "description": "[Q24140788] cannabis shop",
       "doc_url": "http://www.wikidata.org/entity/Q24140788#P1282"
     },
     {
@@ -25144,8 +25170,8 @@
     {
       "key": "sport",
       "value": "running",
-      "description": "[Q21467672] running discipline of track",
-      "doc_url": "http://www.wikidata.org/entity/Q21467672#P1282"
+      "description": "[Q10572883] running discipline of track",
+      "doc_url": "http://www.wikidata.org/entity/Q10572883#P1282"
     },
     {
       "key": "sport",
