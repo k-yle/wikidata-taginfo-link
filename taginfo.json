@@ -3619,12 +3619,6 @@
     },
     {
       "key": "building",
-      "value": "kiln",
-      "description": "[Q1724341] kiln",
-      "doc_url": "http://www.wikidata.org/entity/Q1724341#P1282"
-    },
-    {
-      "key": "building",
       "value": "kiosk",
       "description": "[Q693369] kiosk",
       "doc_url": "http://www.wikidata.org/entity/Q693369#P1282"
@@ -7276,7 +7270,7 @@
     },
     {
       "key": "diet:halal",
-      "description": "[Q177823] ḥalāl",
+      "description": "[Q177823] halal",
       "doc_url": "http://www.wikidata.org/entity/Q177823#P13786"
     },
     {
@@ -13265,16 +13259,6 @@
       "doc_url": "http://www.wikidata.org/entity/P4135#P13786"
     },
     {
-      "key": "maxheight",
-      "description": "[P14433] maximum vehicle height",
-      "doc_url": "http://www.wikidata.org/entity/P14433#P13786"
-    },
-    {
-      "key": "maxlength",
-      "description": "[P14430] maximum vehicle length",
-      "doc_url": "http://www.wikidata.org/entity/P14430#P13786"
-    },
-    {
       "key": "maxspeed",
       "description": "[Q1077350] speed limit",
       "doc_url": "http://www.wikidata.org/entity/Q1077350#P13786"
@@ -13286,11 +13270,6 @@
     },
     {
       "key": "maxweight",
-      "description": "[P14432] maximum vehicle weight",
-      "doc_url": "http://www.wikidata.org/entity/P14432#P13786"
-    },
-    {
-      "key": "maxweight",
       "description": "[Q99773426] traffic weight restriction",
       "doc_url": "http://www.wikidata.org/entity/Q99773426#P13786"
     },
@@ -13298,11 +13277,6 @@
       "key": "maxweightrating",
       "description": "[Q228895] gross vehicle weight rating",
       "doc_url": "http://www.wikidata.org/entity/Q228895#P13786"
-    },
-    {
-      "key": "maxwidth",
-      "description": "[P14431] maximum vehicle width",
-      "doc_url": "http://www.wikidata.org/entity/P14431#P13786"
     },
     {
       "key": "megalith_type",
@@ -13884,11 +13858,6 @@
       "key": "name:carnaval",
       "description": "[Q54888391] nickname during carnival",
       "doc_url": "http://www.wikidata.org/entity/Q54888391#P13786"
-    },
-    {
-      "key": "name:en-boont",
-      "description": "[Q4943708] Boontling",
-      "doc_url": "http://www.wikidata.org/entity/Q4943708#P13786"
     },
     {
       "key": "name:eo",
@@ -20564,12 +20533,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q139700034#P1282"
     },
     {
-      "key": "railway:signal:minor",
-      "value": "LU-CFL:SMA",
-      "description": "[Q139769067] signal mobile d'arrêt",
-      "doc_url": "http://www.wikidata.org/entity/Q139769067#P1282"
-    },
-    {
       "key": "railway:signal:position",
       "value": "bridge",
       "description": "[Q98940060] railway signal gantry",
@@ -21997,8 +21960,7 @@
       "key": "religion",
       "value": "hindy",
       "description": "[Q9089] Hinduism",
-      "doc_url": "http://www.wikidata.org/entity/Q9089#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Om%20symbol.svg"
+      "doc_url": "http://www.wikidata.org/entity/Q9089#P1282"
     },
     {
       "key": "religion",
@@ -25170,8 +25132,8 @@
     {
       "key": "sport",
       "value": "running",
-      "description": "[Q10572883] running discipline of track",
-      "doc_url": "http://www.wikidata.org/entity/Q10572883#P1282"
+      "description": "[Q21467672] running discipline of track",
+      "doc_url": "http://www.wikidata.org/entity/Q21467672#P1282"
     },
     {
       "key": "sport",
