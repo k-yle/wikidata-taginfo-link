@@ -1481,7 +1481,7 @@
     {
       "key": "amenity",
       "value": "studio",
-      "description": "[Q19364326] مرفق استوديو إعلامي",
+      "description": "[Q19364326] media studio facility",
       "doc_url": "http://www.wikidata.org/entity/Q19364326#P1282"
     },
     {
@@ -3616,6 +3616,12 @@
       "value": "industrial",
       "description": "[Q1662011] industrial building",
       "doc_url": "http://www.wikidata.org/entity/Q1662011#P1282"
+    },
+    {
+      "key": "building",
+      "value": "kiln",
+      "description": "[Q1724341] kiln",
+      "doc_url": "http://www.wikidata.org/entity/Q1724341#P1282"
     },
     {
       "key": "building",
@@ -7270,7 +7276,7 @@
     },
     {
       "key": "diet:halal",
-      "description": "[Q177823] halal",
+      "description": "[Q177823] ḥalāl",
       "doc_url": "http://www.wikidata.org/entity/Q177823#P13786"
     },
     {
@@ -8552,6 +8558,12 @@
       "value": "1524",
       "description": "[Q19750814] 1524 mm track gauge",
       "doc_url": "http://www.wikidata.org/entity/Q19750814#P1282"
+    },
+    {
+      "key": "gauge",
+      "value": "1588",
+      "description": "[Q19750832] 1588 mm track gauge",
+      "doc_url": "http://www.wikidata.org/entity/Q19750832#P1282"
     },
     {
       "key": "gauge",
@@ -10581,7 +10593,7 @@
     {
       "key": "historic:period",
       "value": "new_kingdom",
-      "description": "[Q180568] New Kingdom of Egypt",
+      "description": "[Q180568] Egyptian Empire",
       "doc_url": "http://www.wikidata.org/entity/Q180568#P1282"
     },
     {
@@ -13259,6 +13271,16 @@
       "doc_url": "http://www.wikidata.org/entity/P4135#P13786"
     },
     {
+      "key": "maxheight",
+      "description": "[P14433] maximum vehicle height",
+      "doc_url": "http://www.wikidata.org/entity/P14433#P13786"
+    },
+    {
+      "key": "maxlength",
+      "description": "[P14430] maximum vehicle length",
+      "doc_url": "http://www.wikidata.org/entity/P14430#P13786"
+    },
+    {
       "key": "maxspeed",
       "description": "[Q1077350] speed limit",
       "doc_url": "http://www.wikidata.org/entity/Q1077350#P13786"
@@ -13270,6 +13292,11 @@
     },
     {
       "key": "maxweight",
+      "description": "[P14432] maximum vehicle weight",
+      "doc_url": "http://www.wikidata.org/entity/P14432#P13786"
+    },
+    {
+      "key": "maxweight",
       "description": "[Q99773426] traffic weight restriction",
       "doc_url": "http://www.wikidata.org/entity/Q99773426#P13786"
     },
@@ -13277,6 +13304,11 @@
       "key": "maxweightrating",
       "description": "[Q228895] gross vehicle weight rating",
       "doc_url": "http://www.wikidata.org/entity/Q228895#P13786"
+    },
+    {
+      "key": "maxwidth",
+      "description": "[P14431] maximum vehicle width",
+      "doc_url": "http://www.wikidata.org/entity/P14431#P13786"
     },
     {
       "key": "megalith_type",
@@ -13435,6 +13467,12 @@
     },
     {
       "key": "memorial",
+      "value": "remembrance_stone",
+      "description": "[Q139830418] Remembrance Stone",
+      "doc_url": "http://www.wikidata.org/entity/Q139830418#P1282"
+    },
+    {
+      "key": "memorial",
       "value": "statue",
       "description": "[Q179700] statue",
       "doc_url": "http://www.wikidata.org/entity/Q179700#P1282"
@@ -13590,6 +13628,12 @@
       "key": "mimics",
       "description": "[Q98158660] building camouflage",
       "doc_url": "http://www.wikidata.org/entity/Q98158660#P13786"
+    },
+    {
+      "key": "mimics",
+      "value": "tree",
+      "description": "[Q139829436] antenna towers and masts camouflaged as trees",
+      "doc_url": "http://www.wikidata.org/entity/Q139829436#P1282"
     },
     {
       "key": "min_age",
@@ -13858,6 +13902,11 @@
       "key": "name:carnaval",
       "description": "[Q54888391] nickname during carnival",
       "doc_url": "http://www.wikidata.org/entity/Q54888391#P13786"
+    },
+    {
+      "key": "name:en-boont",
+      "description": "[Q4943708] Boontling",
+      "doc_url": "http://www.wikidata.org/entity/Q4943708#P13786"
     },
     {
       "key": "name:eo",
@@ -16154,6 +16203,12 @@
       "value": "Sarmiento",
       "description": "[Q1055213] Ferrocarril Domingo Faustino Sarmiento",
       "doc_url": "http://www.wikidata.org/entity/Q1055213#P1282"
+    },
+    {
+      "key": "network",
+      "value": "TH:motorway",
+      "description": "[Q1829474] Thai motorway network",
+      "doc_url": "http://www.wikidata.org/entity/Q1829474#P1282"
     },
     {
       "key": "network",
@@ -20533,6 +20588,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q139700034#P1282"
     },
     {
+      "key": "railway:signal:minor",
+      "value": "LU-CFL:SMA",
+      "description": "[Q139769067] signal mobile d'arrêt",
+      "doc_url": "http://www.wikidata.org/entity/Q139769067#P1282"
+    },
+    {
       "key": "railway:signal:position",
       "value": "bridge",
       "description": "[Q98940060] railway signal gantry",
@@ -21960,7 +22021,8 @@
       "key": "religion",
       "value": "hindy",
       "description": "[Q9089] Hinduism",
-      "doc_url": "http://www.wikidata.org/entity/Q9089#P1282"
+      "doc_url": "http://www.wikidata.org/entity/Q9089#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Om%20symbol.svg"
     },
     {
       "key": "religion",
@@ -25132,8 +25194,8 @@
     {
       "key": "sport",
       "value": "running",
-      "description": "[Q21467672] running discipline of track",
-      "doc_url": "http://www.wikidata.org/entity/Q21467672#P1282"
+      "description": "[Q10572883] running discipline of track",
+      "doc_url": "http://www.wikidata.org/entity/Q10572883#P1282"
     },
     {
       "key": "sport",
@@ -26994,6 +27056,16 @@
       "value": "yes",
       "description": "[Q24192067] wheelchair accessible",
       "doc_url": "http://www.wikidata.org/entity/Q24192067#P1282"
+    },
+    {
+      "key": "whitewater:rapid_grade",
+      "description": "[Q1898028] International Scale of River Difficulty",
+      "doc_url": "http://www.wikidata.org/entity/Q1898028#P13786"
+    },
+    {
+      "key": "whitewater:section_grade",
+      "description": "[Q1898028] International Scale of River Difficulty",
+      "doc_url": "http://www.wikidata.org/entity/Q1898028#P13786"
     },
     {
       "key": "wholesale",
