@@ -2806,8 +2806,8 @@
     {
       "key": "bridge",
       "value": "yes",
-      "description": "[Q2502622] bicycle bridge",
-      "doc_url": "http://www.wikidata.org/entity/Q2502622#P1282"
+      "description": "[Q12280] bridge",
+      "doc_url": "http://www.wikidata.org/entity/Q12280#P1282"
     },
     {
       "key": "bridge_type",
