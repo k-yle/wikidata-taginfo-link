@@ -4875,7 +4875,7 @@
     },
     {
       "key": "contact:tripadvisor",
-      "description": "[P3134] TripAdvisor ID",
+      "description": "[P3134] Tripadvisor ID",
       "doc_url": "http://www.wikidata.org/entity/P3134#P13786"
     },
     {
@@ -6646,7 +6646,7 @@
     {
       "key": "denomination",
       "value": "ismaili",
-      "description": "[Q230386] Isma'ilism",
+      "description": "[Q230386] Christian",
       "doc_url": "http://www.wikidata.org/entity/Q230386#P1282"
     },
     {
@@ -10773,6 +10773,12 @@
     },
     {
       "key": "historic",
+      "value": "lifting_stone",
+      "description": "[Q3997677] lifting stone",
+      "doc_url": "http://www.wikidata.org/entity/Q3997677#P1282"
+    },
+    {
+      "key": "historic",
       "value": "locomotive",
       "description": "[Q27955407] preserved locomotive",
       "doc_url": "http://www.wikidata.org/entity/Q27955407#P1282"
@@ -12123,6 +12129,12 @@
       "value": "indoor_play",
       "description": "[Q1473454] indoor play space",
       "doc_url": "http://www.wikidata.org/entity/Q1473454#P1282"
+    },
+    {
+      "key": "leisure",
+      "value": "lifting_stone",
+      "description": "[Q3997677] lifting stone",
+      "doc_url": "http://www.wikidata.org/entity/Q3997677#P1282"
     },
     {
       "key": "leisure",
