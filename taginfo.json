@@ -6646,7 +6646,7 @@
     {
       "key": "denomination",
       "value": "ismaili",
-      "description": "[Q230386] Christian",
+      "description": "[Q230386] Isma'ilism",
       "doc_url": "http://www.wikidata.org/entity/Q230386#P1282"
     },
     {
@@ -20334,6 +20334,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q111621139#P1282"
     },
     {
+      "key": "rail_ramp",
+      "value": "rail_to_rail_mobile",
+      "description": "[Q139901391] loading ramp for narrow gauge vehicles (mobile)",
+      "doc_url": "http://www.wikidata.org/entity/Q139901391#P1282"
+    },
+    {
       "key": "railway:asfa",
       "description": "[Q297630] Anuncio de Señales y Frenado Automático",
       "doc_url": "http://www.wikidata.org/entity/Q297630#P13786"
@@ -21146,6 +21152,12 @@
       "value": "rail",
       "description": "[Q160342] railway track",
       "doc_url": "http://www.wikidata.org/entity/Q160342#P1282"
+    },
+    {
+      "key": "railway",
+      "value": "rail_ramp",
+      "description": "[Q139901391] loading ramp for narrow gauge vehicles (mobile)",
+      "doc_url": "http://www.wikidata.org/entity/Q139901391#P1282"
     },
     {
       "key": "railway",
