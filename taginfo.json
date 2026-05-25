@@ -8051,7 +8051,7 @@
     },
     {
       "key": "faculty",
-      "description": "[Q180958] faculty",
+      "description": "[Q180958] academic division",
       "doc_url": "http://www.wikidata.org/entity/Q180958#P13786"
     },
     {
@@ -15810,54 +15810,6 @@
       "value": "KR:31",
       "description": "[Q55732488] Q55732488",
       "doc_url": "http://www.wikidata.org/entity/Q55732488#P1282"
-    },
-    {
-      "key": "network",
-      "value": "KR:41:Gapyeong",
-      "description": "[Q135682750] Q135682750",
-      "doc_url": "http://www.wikidata.org/entity/Q135682750#P1282"
-    },
-    {
-      "key": "network",
-      "value": "KR:41:Gimpo",
-      "description": "[Q135682713] Q135682713",
-      "doc_url": "http://www.wikidata.org/entity/Q135682713#P1282"
-    },
-    {
-      "key": "network",
-      "value": "KR:41:Guri",
-      "description": "[Q135682856] Q135682856",
-      "doc_url": "http://www.wikidata.org/entity/Q135682856#P1282"
-    },
-    {
-      "key": "network",
-      "value": "KR:41:Hanam",
-      "description": "[Q135682836] Q135682836",
-      "doc_url": "http://www.wikidata.org/entity/Q135682836#P1282"
-    },
-    {
-      "key": "network",
-      "value": "KR:41:Namyangju",
-      "description": "[Q135682732] Q135682732",
-      "doc_url": "http://www.wikidata.org/entity/Q135682732#P1282"
-    },
-    {
-      "key": "network",
-      "value": "KR:41:Namyangju:expressway",
-      "description": "[Q135682732] Q135682732",
-      "doc_url": "http://www.wikidata.org/entity/Q135682732#P1282"
-    },
-    {
-      "key": "network",
-      "value": "KR:42:Chuncheon",
-      "description": "[Q135682841] Q135682841",
-      "doc_url": "http://www.wikidata.org/entity/Q135682841#P1282"
-    },
-    {
-      "key": "network",
-      "value": "KR:45:Iksan",
-      "description": "[Q135682858] Q135682858",
-      "doc_url": "http://www.wikidata.org/entity/Q135682858#P1282"
     },
     {
       "key": "network",
