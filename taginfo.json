@@ -20141,7 +20141,7 @@
     {
       "key": "protection_title",
       "value": "Bien de Interés Patrimonial",
-      "description": "[Q29533489] Bien de interés patrimonial",
+      "description": "[Q29533489] bien de interés patrimonial",
       "doc_url": "http://www.wikidata.org/entity/Q29533489#P1282"
     },
     {
@@ -20430,6 +20430,11 @@
       "value": "DE-ESO:so19",
       "description": "[Q136085852] So 19",
       "doc_url": "http://www.wikidata.org/entity/Q136085852#P1282"
+    },
+    {
+      "key": "railway:signal:electricity",
+      "description": "[Q1392449] catenary signals",
+      "doc_url": "http://www.wikidata.org/entity/Q1392449#P13786"
     },
     {
       "key": "railway:signal:electricity",
@@ -25118,6 +25123,12 @@
       "value": "pilates",
       "description": "[Q272460] pilates",
       "doc_url": "http://www.wikidata.org/entity/Q272460#P1282"
+    },
+    {
+      "key": "sport",
+      "value": "platform_tennis",
+      "description": "[Q3906408] platform tennis",
+      "doc_url": "http://www.wikidata.org/entity/Q3906408#P1282"
     },
     {
       "key": "sport",
