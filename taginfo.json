@@ -6864,6 +6864,12 @@
     },
     {
       "key": "denomination",
+      "value": "polish_orthodox",
+      "description": "[Q463406] Polish Orthodox Church",
+      "doc_url": "http://www.wikidata.org/entity/Q463406#P1282"
+    },
+    {
+      "key": "denomination",
       "value": "presbyterian",
       "description": "[Q178169] Presbyterianism",
       "doc_url": "http://www.wikidata.org/entity/Q178169#P1282"
@@ -26872,8 +26878,8 @@
     {
       "key": "waterway",
       "value": "dam",
-      "description": "[Q56697283] hydroelectric dam",
-      "doc_url": "http://www.wikidata.org/entity/Q56697283#P1282"
+      "description": "[Q170196] hydropower",
+      "doc_url": "http://www.wikidata.org/entity/Q170196#P1282"
     },
     {
       "key": "waterway",
