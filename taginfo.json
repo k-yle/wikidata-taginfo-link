@@ -2578,7 +2578,7 @@
       "value": "Harley-Davidson",
       "description": "[Q192814] Harley-Davidson",
       "doc_url": "http://www.wikidata.org/entity/Q192814#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Harley-Davidson%20logo.svg"
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Harley%20Davidson%20orange%20logo.svg"
     },
     {
       "key": "brand",
@@ -21283,6 +21283,59 @@
       "doc_url": "http://www.wikidata.org/entity/Q19683138#P13786"
     },
     {
+      "key": "rapids",
+      "description": "[Q1898028] International Scale of River Difficulty",
+      "doc_url": "http://www.wikidata.org/entity/Q1898028#P13786"
+    },
+    {
+      "key": "rapids",
+      "value": "1",
+      "description": "[Q139965429] Class I rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139965429#P1282"
+    },
+    {
+      "key": "rapids",
+      "value": "2",
+      "description": "[Q139966163] Class II rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966163#P1282"
+    },
+    {
+      "key": "rapids",
+      "value": "3",
+      "description": "[Q139966423] Class III rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966423#P1282"
+    },
+    {
+      "key": "rapids",
+      "value": "4",
+      "description": "[Q139966580] Class IV rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966580#P1282"
+    },
+    {
+      "key": "rapids",
+      "value": "5",
+      "description": "[Q139966647] Class V rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966647#P1282"
+    },
+    {
+      "key": "rapids",
+      "value": "6",
+      "description": "[Q139966782] Class VI rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966782#P1282"
+    },
+    {
+      "key": "rapids",
+      "value": "X",
+      "description": "[Q139966994] unrunnable rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966994#P1282"
+    },
+    {
+      "key": "rapids",
+      "value": "yes",
+      "description": "[Q695793] rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q695793#P1282"
+    },
+    {
       "key": "rating",
       "description": "[Q1532594] power rating",
       "doc_url": "http://www.wikidata.org/entity/Q1532594#P13786"
@@ -26878,8 +26931,8 @@
     {
       "key": "waterway",
       "value": "dam",
-      "description": "[Q170196] hydropower",
-      "doc_url": "http://www.wikidata.org/entity/Q170196#P1282"
+      "description": "[Q56697283] hydroelectric dam",
+      "doc_url": "http://www.wikidata.org/entity/Q56697283#P1282"
     },
     {
       "key": "waterway",
@@ -27056,9 +27109,93 @@
       "doc_url": "http://www.wikidata.org/entity/Q1898028#P13786"
     },
     {
+      "key": "whitewater:rapid_grade",
+      "value": "1",
+      "description": "[Q139965429] Class I rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139965429#P1282"
+    },
+    {
+      "key": "whitewater:rapid_grade",
+      "value": "2",
+      "description": "[Q139966163] Class II rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966163#P1282"
+    },
+    {
+      "key": "whitewater:rapid_grade",
+      "value": "3",
+      "description": "[Q139966423] Class III rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966423#P1282"
+    },
+    {
+      "key": "whitewater:rapid_grade",
+      "value": "4",
+      "description": "[Q139966580] Class IV rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966580#P1282"
+    },
+    {
+      "key": "whitewater:rapid_grade",
+      "value": "5",
+      "description": "[Q139966647] Class V rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966647#P1282"
+    },
+    {
+      "key": "whitewater:rapid_grade",
+      "value": "6",
+      "description": "[Q139966782] Class VI rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966782#P1282"
+    },
+    {
+      "key": "whitewater:rapid_grade",
+      "value": "X",
+      "description": "[Q139966994] unrunnable rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966994#P1282"
+    },
+    {
       "key": "whitewater:section_grade",
       "description": "[Q1898028] International Scale of River Difficulty",
       "doc_url": "http://www.wikidata.org/entity/Q1898028#P13786"
+    },
+    {
+      "key": "whitewater:section_grade",
+      "value": "1",
+      "description": "[Q139965429] Class I rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139965429#P1282"
+    },
+    {
+      "key": "whitewater:section_grade",
+      "value": "2",
+      "description": "[Q139966163] Class II rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966163#P1282"
+    },
+    {
+      "key": "whitewater:section_grade",
+      "value": "3",
+      "description": "[Q139966423] Class III rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966423#P1282"
+    },
+    {
+      "key": "whitewater:section_grade",
+      "value": "4",
+      "description": "[Q139966580] Class IV rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966580#P1282"
+    },
+    {
+      "key": "whitewater:section_grade",
+      "value": "5",
+      "description": "[Q139966647] Class V rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966647#P1282"
+    },
+    {
+      "key": "whitewater:section_grade",
+      "value": "6",
+      "description": "[Q139966782] Class VI rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966782#P1282"
+    },
+    {
+      "key": "whitewater:section_grade",
+      "value": "X",
+      "description": "[Q139966994] unrunnable rapids",
+      "doc_url": "http://www.wikidata.org/entity/Q139966994#P1282"
     },
     {
       "key": "wholesale",
