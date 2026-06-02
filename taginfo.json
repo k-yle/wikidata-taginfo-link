@@ -772,12 +772,6 @@
     },
     {
       "key": "amenity",
-      "value": "cooking_school",
-      "description": "[Q5167149] cooking school",
-      "doc_url": "http://www.wikidata.org/entity/Q5167149#P1282"
-    },
-    {
-      "key": "amenity",
       "value": "courthouse",
       "description": "[Q1137809] courthouse",
       "doc_url": "http://www.wikidata.org/entity/Q1137809#P1282"
@@ -1255,6 +1249,12 @@
       "value": "polling_station",
       "description": "[Q335778] polling place",
       "doc_url": "http://www.wikidata.org/entity/Q335778#P1282"
+    },
+    {
+      "key": "amenity",
+      "value": "pool_chair_lift",
+      "description": "[Q140004324] Wheelchair pool lift",
+      "doc_url": "http://www.wikidata.org/entity/Q140004324#P1282"
     },
     {
       "key": "amenity",
@@ -7634,6 +7634,12 @@
     },
     {
       "key": "education",
+      "value": "cooking_school",
+      "description": "[Q5167149] cooking school",
+      "doc_url": "http://www.wikidata.org/entity/Q5167149#P1282"
+    },
+    {
+      "key": "education",
       "value": "kindergarten",
       "description": "[Q126807] kindergarten",
       "doc_url": "http://www.wikidata.org/entity/Q126807#P1282"
@@ -8376,6 +8382,11 @@
       "key": "fruit",
       "description": "[Q3314483] fruit",
       "doc_url": "http://www.wikidata.org/entity/Q3314483#P13786"
+    },
+    {
+      "key": "fuel:e15",
+      "description": "[Q2331175] E15",
+      "doc_url": "http://www.wikidata.org/entity/Q2331175#P13786"
     },
     {
       "key": "fuel:lpg",
@@ -14293,7 +14304,7 @@
     {
       "key": "natural",
       "value": "shoal",
-      "description": "[Q478251] Char (River Island)",
+      "description": "[Q478251] char",
       "doc_url": "http://www.wikidata.org/entity/Q478251#P1282"
     },
     {
@@ -20337,6 +20348,12 @@
       "value": "yes",
       "description": "[Q1408442] ballastless track",
       "doc_url": "http://www.wikidata.org/entity/Q1408442#P1282"
+    },
+    {
+      "key": "railway:bidirectional",
+      "value": "regular",
+      "description": "[Q1530583] two-way working track",
+      "doc_url": "http://www.wikidata.org/entity/Q1530583#P1282"
     },
     {
       "key": "railway:cbtc",
