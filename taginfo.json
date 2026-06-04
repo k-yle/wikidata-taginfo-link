@@ -11722,12 +11722,6 @@
     },
     {
       "key": "landuse",
-      "value": "observatory",
-      "description": "[Q62832] observatory",
-      "doc_url": "http://www.wikidata.org/entity/Q62832#P1282"
-    },
-    {
-      "key": "landuse",
       "value": "orchard",
       "description": "[Q236371] orchard",
       "doc_url": "http://www.wikidata.org/entity/Q236371#P1282"
@@ -20895,6 +20889,12 @@
       "value": "double_slip",
       "description": "[Q14905968] double crossing railway switch",
       "doc_url": "http://www.wikidata.org/entity/Q14905968#P1282"
+    },
+    {
+      "key": "railway:switch",
+      "value": "single_slip",
+      "description": "[Q111635068] single crossing railway switch",
+      "doc_url": "http://www.wikidata.org/entity/Q111635068#P1282"
     },
     {
       "key": "railway:switch",
