@@ -21585,6 +21585,11 @@
       "doc_url": "http://www.wikidata.org/entity/P12393#P13786"
     },
     {
+      "key": "ref:IFOPT",
+      "description": "[Q5988215] Identification of Fixed Objects in Public Transport",
+      "doc_url": "http://www.wikidata.org/entity/Q5988215#P13786"
+    },
+    {
       "key": "ref:INEP",
       "description": "[P11704] INEP ID",
       "doc_url": "http://www.wikidata.org/entity/P11704#P13786"
