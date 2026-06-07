@@ -21700,6 +21700,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q21040879#P13786"
     },
     {
+      "key": "ref:badkartan.se",
+      "description": "[P9615] Badkartan.se ID",
+      "doc_url": "http://www.wikidata.org/entity/P9615#P13786"
+    },
+    {
       "key": "ref:bag",
       "description": "[P5208] BAG building ID",
       "doc_url": "http://www.wikidata.org/entity/P5208#P13786"
