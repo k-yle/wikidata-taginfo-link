@@ -19461,7 +19461,7 @@
     {
       "key": "playground",
       "value": "playhouse",
-      "description": "[Q4349682] wendy house",
+      "description": "[Q4349682] Wendy house",
       "doc_url": "http://www.wikidata.org/entity/Q4349682#P1282"
     },
     {
@@ -21258,6 +21258,12 @@
       "value": "water_crane",
       "description": "[Q648145] water crane",
       "doc_url": "http://www.wikidata.org/entity/Q648145#P1282"
+    },
+    {
+      "key": "railway",
+      "value": "water_tower",
+      "description": "[Q3995481] railway water tower",
+      "doc_url": "http://www.wikidata.org/entity/Q3995481#P1282"
     },
     {
       "key": "railway",
@@ -24510,7 +24516,7 @@
     },
     {
       "key": "species",
-      "value": "Tilia_cordata",
+      "value": "Tilia cordata",
       "description": "[Q158746] Tilia cordata",
       "doc_url": "http://www.wikidata.org/entity/Q158746#P1282"
     },
