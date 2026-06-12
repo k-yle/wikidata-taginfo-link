@@ -13560,7 +13560,7 @@
     {
       "key": "military",
       "value": "airfield",
-      "description": "[Q695850] air base",
+      "description": "[Q695850] airbase",
       "doc_url": "http://www.wikidata.org/entity/Q695850#P1282"
     },
     {
@@ -17897,7 +17897,7 @@
     {
       "key": "office",
       "value": "estate_agent",
-      "description": "[Q519076] real-estate agent",
+      "description": "[Q519076] real estate agent",
       "doc_url": "http://www.wikidata.org/entity/Q519076#P1282"
     },
     {
@@ -23332,7 +23332,7 @@
     {
       "key": "shop",
       "value": "estate_agent",
-      "description": "[Q519076] real-estate agent",
+      "description": "[Q519076] real estate agent",
       "doc_url": "http://www.wikidata.org/entity/Q519076#P1282"
     },
     {
@@ -24516,7 +24516,7 @@
     },
     {
       "key": "species",
-      "value": "Tilia cordata",
+      "value": "Tilia_cordata",
       "description": "[Q158746] Tilia cordata",
       "doc_url": "http://www.wikidata.org/entity/Q158746#P1282"
     },
