@@ -13162,6 +13162,36 @@
       "doc_url": "http://www.wikidata.org/entity/Q42855995#P13786"
     },
     {
+      "key": "manufacturer:wikidata",
+      "value": "Q123690248",
+      "description": "[Q123690248] Mohácsi Vasöntöde",
+      "doc_url": "http://www.wikidata.org/entity/Q123690248#P1282"
+    },
+    {
+      "key": "manufacturer:wikidata",
+      "value": "Q124537996",
+      "description": "[Q124537996] HAWLE Kft.",
+      "doc_url": "http://www.wikidata.org/entity/Q124537996#P1282"
+    },
+    {
+      "key": "manufacturer",
+      "value": "Hawle_Kft.",
+      "description": "[Q124537996] HAWLE Kft.",
+      "doc_url": "http://www.wikidata.org/entity/Q124537996#P1282"
+    },
+    {
+      "key": "manufacturer",
+      "value": "Mohácsi Vasöntöde Kft.",
+      "description": "[Q123690248] Mohácsi Vasöntöde",
+      "doc_url": "http://www.wikidata.org/entity/Q123690248#P1282"
+    },
+    {
+      "key": "manufacturer",
+      "value": "Városszépítő_Kft.",
+      "description": "[Q136647886] Városszépítő Kft.",
+      "doc_url": "http://www.wikidata.org/entity/Q136647886#P1282"
+    },
+    {
       "key": "map_source",
       "value": "OpenStreetMap",
       "description": "[Q936] OpenStreetMap",
@@ -13677,6 +13707,12 @@
       "key": "model",
       "description": "[Q10929058] product model",
       "doc_url": "http://www.wikidata.org/entity/Q10929058#P13786"
+    },
+    {
+      "key": "model",
+      "value": "EK87-00",
+      "description": "[Q139929142] EK8700",
+      "doc_url": "http://www.wikidata.org/entity/Q139929142#P1282"
     },
     {
       "key": "mofa",
