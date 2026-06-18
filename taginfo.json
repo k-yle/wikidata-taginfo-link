@@ -4086,6 +4086,18 @@
       "doc_url": "http://www.wikidata.org/entity/Q235356#P13786"
     },
     {
+      "key": "carrier_truck_pit",
+      "value": "transporter_wagon_ramp",
+      "description": "[Q139831863] Loading ramp for transporter wagons",
+      "doc_url": "http://www.wikidata.org/entity/Q139831863#P1282"
+    },
+    {
+      "key": "carrier_truck_pit",
+      "value": "yes",
+      "description": "[Q139832038] loading pit for carrier trucks",
+      "doc_url": "http://www.wikidata.org/entity/Q139832038#P1282"
+    },
+    {
       "key": "castle",
       "value": "folly",
       "description": "[Q180174] folly",
@@ -4375,7 +4387,7 @@
     {
       "key": "club",
       "value": "freemasonry",
-      "description": "[Q1454597] Masonic Lodge",
+      "description": "[Q1454597] masonic lodge",
       "doc_url": "http://www.wikidata.org/entity/Q1454597#P1282"
     },
     {
@@ -5514,12 +5526,6 @@
       "value": "american",
       "description": "[Q126207637] American restaurant",
       "doc_url": "http://www.wikidata.org/entity/Q126207637#P1282"
-    },
-    {
-      "key": "cuisine",
-      "value": "arab",
-      "description": "[Q623970] Arab cuisine",
-      "doc_url": "http://www.wikidata.org/entity/Q623970#P1282"
     },
     {
       "key": "cuisine",
@@ -8063,7 +8069,7 @@
     },
     {
       "key": "faculty",
-      "description": "[Q180958] academic division",
+      "description": "[Q180958] faculty",
       "doc_url": "http://www.wikidata.org/entity/Q180958#P13786"
     },
     {
@@ -10431,7 +10437,7 @@
     {
       "key": "historic:civilization",
       "value": "roman_and_byzantine_egyptian",
-      "description": "[Q202311] Roman Egypt",
+      "description": "[Q202311] Aegyptus",
       "doc_url": "http://www.wikidata.org/entity/Q202311#P1282"
     },
     {
@@ -12830,6 +12836,12 @@
     {
       "key": "man_made",
       "value": "nesting_site",
+      "description": "[Q125883880] sandarium",
+      "doc_url": "http://www.wikidata.org/entity/Q125883880#P1282"
+    },
+    {
+      "key": "man_made",
+      "value": "nesting_site",
       "description": "[Q1640865] swallow tower",
       "doc_url": "http://www.wikidata.org/entity/Q1640865#P1282"
     },
@@ -13160,6 +13172,36 @@
       "key": "manufacturer",
       "description": "[Q42855995] factory owner",
       "doc_url": "http://www.wikidata.org/entity/Q42855995#P13786"
+    },
+    {
+      "key": "manufacturer:wikidata",
+      "value": "Q123690248",
+      "description": "[Q123690248] Mohácsi Vasöntöde",
+      "doc_url": "http://www.wikidata.org/entity/Q123690248#P1282"
+    },
+    {
+      "key": "manufacturer:wikidata",
+      "value": "Q124537996",
+      "description": "[Q124537996] HAWLE Kft.",
+      "doc_url": "http://www.wikidata.org/entity/Q124537996#P1282"
+    },
+    {
+      "key": "manufacturer",
+      "value": "Hawle_Kft.",
+      "description": "[Q124537996] HAWLE Kft.",
+      "doc_url": "http://www.wikidata.org/entity/Q124537996#P1282"
+    },
+    {
+      "key": "manufacturer",
+      "value": "Mohácsi Vasöntöde Kft.",
+      "description": "[Q123690248] Mohácsi Vasöntöde",
+      "doc_url": "http://www.wikidata.org/entity/Q123690248#P1282"
+    },
+    {
+      "key": "manufacturer",
+      "value": "Városszépítő_Kft.",
+      "description": "[Q136647886] Városszépítő Kft.",
+      "doc_url": "http://www.wikidata.org/entity/Q136647886#P1282"
     },
     {
       "key": "map_source",
@@ -13560,7 +13602,7 @@
     {
       "key": "military",
       "value": "airfield",
-      "description": "[Q695850] air base",
+      "description": "[Q695850] airbase",
       "doc_url": "http://www.wikidata.org/entity/Q695850#P1282"
     },
     {
@@ -13677,6 +13719,12 @@
       "key": "model",
       "description": "[Q10929058] product model",
       "doc_url": "http://www.wikidata.org/entity/Q10929058#P13786"
+    },
+    {
+      "key": "model",
+      "value": "EK87-00",
+      "description": "[Q139929142] EK8700",
+      "doc_url": "http://www.wikidata.org/entity/Q139929142#P1282"
     },
     {
       "key": "mofa",
@@ -15051,7 +15099,7 @@
     {
       "key": "network",
       "value": "GR:motorway",
-      "description": "[Q115915688] motorway in Greece",
+      "description": "[Q115915688] motorway",
       "doc_url": "http://www.wikidata.org/entity/Q115915688#P1282"
     },
     {
@@ -16286,6 +16334,12 @@
       "value": "US:AZ",
       "description": "[Q97940193] Arizona State Highway System",
       "doc_url": "http://www.wikidata.org/entity/Q97940193#P1282"
+    },
+    {
+      "key": "network",
+      "value": "US:AZ:Maricopa",
+      "description": "[Q140234163] Maricopa County routes",
+      "doc_url": "http://www.wikidata.org/entity/Q140234163#P1282"
     },
     {
       "key": "network",
@@ -17897,7 +17951,7 @@
     {
       "key": "office",
       "value": "estate_agent",
-      "description": "[Q519076] real-estate agent",
+      "description": "[Q519076] real estate agent",
       "doc_url": "http://www.wikidata.org/entity/Q519076#P1282"
     },
     {
@@ -20298,9 +20352,27 @@
     },
     {
       "key": "rail_ramp",
+      "value": "rail_to_rail",
+      "description": "[Q139831762] loading ramp for narrow gauge vehicles",
+      "doc_url": "http://www.wikidata.org/entity/Q139831762#P1282"
+    },
+    {
+      "key": "rail_ramp",
       "value": "rail_to_rail_mobile",
       "description": "[Q139901391] loading ramp for narrow gauge vehicles (mobile)",
       "doc_url": "http://www.wikidata.org/entity/Q139901391#P1282"
+    },
+    {
+      "key": "rail_ramp",
+      "value": "rail_to_road",
+      "description": "[Q139832131] road trailer rail-ramp",
+      "doc_url": "http://www.wikidata.org/entity/Q139832131#P1282"
+    },
+    {
+      "key": "rail_ramp",
+      "value": "rail_to_road_mobile",
+      "description": "[Q139853754] road trailer rail-ramp (mobile)",
+      "doc_url": "http://www.wikidata.org/entity/Q139853754#P1282"
     },
     {
       "key": "railway:asfa",
@@ -20955,6 +21027,18 @@
     },
     {
       "key": "railway",
+      "value": "carrier_truck_pit",
+      "description": "[Q139831863] Loading ramp for transporter wagons",
+      "doc_url": "http://www.wikidata.org/entity/Q139831863#P1282"
+    },
+    {
+      "key": "railway",
+      "value": "carrier_truck_pit",
+      "description": "[Q139832038] loading pit for carrier trucks",
+      "doc_url": "http://www.wikidata.org/entity/Q139832038#P1282"
+    },
+    {
+      "key": "railway",
       "value": "crossing",
       "description": "[Q109047016] pedestrian level crossing",
       "doc_url": "http://www.wikidata.org/entity/Q109047016#P1282"
@@ -21132,6 +21216,24 @@
       "value": "rail",
       "description": "[Q160342] railway track",
       "doc_url": "http://www.wikidata.org/entity/Q160342#P1282"
+    },
+    {
+      "key": "railway",
+      "value": "rail_ramp",
+      "description": "[Q139831762] loading ramp for narrow gauge vehicles",
+      "doc_url": "http://www.wikidata.org/entity/Q139831762#P1282"
+    },
+    {
+      "key": "railway",
+      "value": "rail_ramp",
+      "description": "[Q139832131] road trailer rail-ramp",
+      "doc_url": "http://www.wikidata.org/entity/Q139832131#P1282"
+    },
+    {
+      "key": "railway",
+      "value": "rail_ramp",
+      "description": "[Q139853754] road trailer rail-ramp (mobile)",
+      "doc_url": "http://www.wikidata.org/entity/Q139853754#P1282"
     },
     {
       "key": "railway",
@@ -23332,7 +23434,7 @@
     {
       "key": "shop",
       "value": "estate_agent",
-      "description": "[Q519076] real-estate agent",
+      "description": "[Q519076] real estate agent",
       "doc_url": "http://www.wikidata.org/entity/Q519076#P1282"
     },
     {
@@ -24516,7 +24618,7 @@
     },
     {
       "key": "species",
-      "value": "Tilia cordata",
+      "value": "Tilia_cordata",
       "description": "[Q158746] Tilia cordata",
       "doc_url": "http://www.wikidata.org/entity/Q158746#P1282"
     },
