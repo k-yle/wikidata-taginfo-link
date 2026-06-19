@@ -14011,6 +14011,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q37300#P13786"
     },
     {
+      "key": "name:frp",
+      "description": "[Q15087] Arpitan language",
+      "doc_url": "http://www.wikidata.org/entity/Q15087#P13786"
+    },
+    {
       "key": "name:gaceria",
       "description": "[Q5516174] Gacería",
       "doc_url": "http://www.wikidata.org/entity/Q5516174#P13786"
@@ -14021,6 +14026,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q146233#P13786"
     },
     {
+      "key": "name:li",
+      "description": "[Q102172] Limburgish",
+      "doc_url": "http://www.wikidata.org/entity/Q102172#P13786"
+    },
+    {
       "key": "name:nan",
       "description": "[Q36495] Southern Min",
       "doc_url": "http://www.wikidata.org/entity/Q36495#P13786"
@@ -14029,6 +14039,11 @@
       "key": "name:pa",
       "description": "[Q58635] Punjabi",
       "doc_url": "http://www.wikidata.org/entity/Q58635#P13786"
+    },
+    {
+      "key": "name:pcd",
+      "description": "[Q34024] Picard",
+      "doc_url": "http://www.wikidata.org/entity/Q34024#P13786"
     },
     {
       "key": "name:pnb",
@@ -14079,6 +14094,16 @@
       "key": "name:vi-Hani",
       "description": "[Q875344] chữ Nôm",
       "doc_url": "http://www.wikidata.org/entity/Q875344#P13786"
+    },
+    {
+      "key": "name:vls",
+      "description": "[Q100103] West Flemish",
+      "doc_url": "http://www.wikidata.org/entity/Q100103#P13786"
+    },
+    {
+      "key": "name:wa",
+      "description": "[Q34219] Walloon",
+      "doc_url": "http://www.wikidata.org/entity/Q34219#P13786"
     },
     {
       "key": "name:was",
