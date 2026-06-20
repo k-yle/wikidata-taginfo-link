@@ -11875,7 +11875,7 @@
     },
     {
       "key": "language:ru",
-      "description": "[Q7737] Russian",
+      "description": "[Q7737] Rus",
       "doc_url": "http://www.wikidata.org/entity/Q7737#P13786"
     },
     {
@@ -15051,6 +15051,12 @@
     },
     {
       "key": "network",
+      "value": "CY:B",
+      "description": "[Q140287703] B roads in Cyprus",
+      "doc_url": "http://www.wikidata.org/entity/Q140287703#P1282"
+    },
+    {
+      "key": "network",
       "value": "Casals i Ateneus dels Països Catalans",
       "description": "[Q119411870] Network of Social Centres from the Catalan Countries",
       "doc_url": "http://www.wikidata.org/entity/Q119411870#P1282"
@@ -15058,7 +15064,7 @@
     {
       "key": "network",
       "value": "DLR",
-      "description": "[Q18516630] Docklands Light Railway",
+      "description": "[Q18516630] Docklands Light Railway station",
       "doc_url": "http://www.wikidata.org/entity/Q18516630#P1282"
     },
     {
@@ -22473,7 +22479,7 @@
     {
       "key": "resource",
       "value": "water",
-      "description": "[Q283] H₂O",
+      "description": "[Q283] water",
       "doc_url": "http://www.wikidata.org/entity/Q283#P1282"
     },
     {
