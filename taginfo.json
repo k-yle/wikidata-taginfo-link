@@ -26150,6 +26150,12 @@
     },
     {
       "key": "tomb",
+      "value": "panteon",
+      "description": "[Q18133227] pantheon",
+      "doc_url": "http://www.wikidata.org/entity/Q18133227#P1282"
+    },
+    {
+      "key": "tomb",
       "value": "pyramid",
       "description": "[Q12516] pyramid",
       "doc_url": "http://www.wikidata.org/entity/Q12516#P1282"
