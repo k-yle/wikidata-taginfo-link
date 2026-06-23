@@ -1819,6 +1819,12 @@
     },
     {
       "key": "artwork_type",
+      "value": "pouwhenua",
+      "description": "[Q1516228] pouwhenua",
+      "doc_url": "http://www.wikidata.org/entity/Q1516228#P1282"
+    },
+    {
+      "key": "artwork_type",
       "value": "relief",
       "description": "[Q245117] relief sculpture",
       "doc_url": "http://www.wikidata.org/entity/Q245117#P1282"
@@ -5526,6 +5532,12 @@
       "value": "american",
       "description": "[Q126207637] American restaurant",
       "doc_url": "http://www.wikidata.org/entity/Q126207637#P1282"
+    },
+    {
+      "key": "cuisine",
+      "value": "arab",
+      "description": "[Q623970] Arab cuisine",
+      "doc_url": "http://www.wikidata.org/entity/Q623970#P1282"
     },
     {
       "key": "cuisine",
@@ -19703,7 +19715,7 @@
     },
     {
       "key": "population",
-      "description": "[Q1613416] number of individuals",
+      "description": "[Q1613416] population size",
       "doc_url": "http://www.wikidata.org/entity/Q1613416#P13786"
     },
     {
@@ -24649,7 +24661,7 @@
     },
     {
       "key": "species",
-      "value": "Tilia cordata",
+      "value": "Tilia_cordata",
       "description": "[Q158746] Tilia cordata",
       "doc_url": "http://www.wikidata.org/entity/Q158746#P1282"
     },
