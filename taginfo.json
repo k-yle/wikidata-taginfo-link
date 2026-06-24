@@ -14023,11 +14023,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q37300#P13786"
     },
     {
-      "key": "name:frp",
-      "description": "[Q15087] Arpitan language",
-      "doc_url": "http://www.wikidata.org/entity/Q15087#P13786"
-    },
-    {
       "key": "name:gaceria",
       "description": "[Q5516174] Gacería",
       "doc_url": "http://www.wikidata.org/entity/Q5516174#P13786"
@@ -22091,6 +22086,11 @@
       "key": "ref:sipca",
       "description": "[P3580] SIPCA code",
       "doc_url": "http://www.wikidata.org/entity/P3580#P13786"
+    },
+    {
+      "key": "ref:stockholmarchipelagotrail",
+      "description": "[P14545] Stockholm Archipelago Trail ID",
+      "doc_url": "http://www.wikidata.org/entity/P14545#P13786"
     },
     {
       "key": "ref:thw",
