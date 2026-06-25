@@ -15,7 +15,7 @@ WHERE {
   OPTIONAL { ?item wdt:P154 ?logo }
 
   SERVICE wikibase:label {
-    bd:serviceParam wikibase:language "mul,en,*".
+    bd:serviceParam wikibase:language "mul,en,de,fr,es,it,pl,ru,uk,ar,he,zh,jp,ko,*".
   }
 }
 GROUP BY ?item ?itemLabel ?prop ?value
