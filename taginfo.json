@@ -839,13 +839,13 @@
     {
       "key": "amenity",
       "value": "drinking_water",
-      "description": "[Q94631703] Q94631703",
+      "description": "[Q94631703] Trinkwasserstelle",
       "doc_url": "http://www.wikidata.org/entity/Q94631703#P1282"
     },
     {
       "key": "amenity",
       "value": "driver_training",
-      "description": "[Q995481] Q995481",
+      "description": "[Q995481] Fahrsicherheitszentrum",
       "doc_url": "http://www.wikidata.org/entity/Q995481#P1282"
     },
     {
@@ -941,7 +941,7 @@
     {
       "key": "amenity",
       "value": "fuel",
-      "description": "[Q123358029] Q123358029",
+      "description": "[Q123358029] Petro Gabon(Carburant)",
       "doc_url": "http://www.wikidata.org/entity/Q123358029#P1282"
     },
     {
@@ -2722,13 +2722,13 @@
     {
       "key": "bridge:structure",
       "value": "simple-suspension",
-      "description": "[Q135723370] Q135723370",
+      "description": "[Q135723370] Zweiseilbrücke",
       "doc_url": "http://www.wikidata.org/entity/Q135723370#P1282"
     },
     {
       "key": "bridge:structure",
       "value": "simple-suspension",
-      "description": "[Q135723593] Q135723593",
+      "description": "[Q135723593] Dreiseilbrücke",
       "doc_url": "http://www.wikidata.org/entity/Q135723593#P1282"
     },
     {
@@ -2800,13 +2800,13 @@
     {
       "key": "bridge",
       "value": "yes",
-      "description": "[Q135723370] Q135723370",
+      "description": "[Q135723370] Zweiseilbrücke",
       "doc_url": "http://www.wikidata.org/entity/Q135723370#P1282"
     },
     {
       "key": "bridge",
       "value": "yes",
-      "description": "[Q135723593] Q135723593",
+      "description": "[Q135723593] Dreiseilbrücke",
       "doc_url": "http://www.wikidata.org/entity/Q135723593#P1282"
     },
     {
@@ -3970,13 +3970,13 @@
     {
       "key": "cable_number",
       "value": "2",
-      "description": "[Q135723370] Q135723370",
+      "description": "[Q135723370] Zweiseilbrücke",
       "doc_url": "http://www.wikidata.org/entity/Q135723370#P1282"
     },
     {
       "key": "cable_number",
       "value": "3",
-      "description": "[Q135723593] Q135723593",
+      "description": "[Q135723593] Dreiseilbrücke",
       "doc_url": "http://www.wikidata.org/entity/Q135723593#P1282"
     },
     {
@@ -4563,7 +4563,7 @@
     },
     {
       "key": "communication:bos",
-      "description": "[Q796868] Q796868",
+      "description": "[Q796868] BOS-Funk",
       "doc_url": "http://www.wikidata.org/entity/Q796868#P13786"
     },
     {
@@ -5434,7 +5434,7 @@
     },
     {
       "key": "crossing",
-      "description": "[Q16040822] Q16040822",
+      "description": "[Q16040822] Passage pour piétons en France",
       "doc_url": "http://www.wikidata.org/entity/Q16040822#P13786"
     },
     {
@@ -5456,7 +5456,7 @@
     {
       "key": "crossing:on_demand",
       "value": "yes",
-      "description": "[Q568719] Q568719",
+      "description": "[Q568719] Anrufschranke",
       "doc_url": "http://www.wikidata.org/entity/Q568719#P1282"
     },
     {
@@ -7954,7 +7954,7 @@
     {
       "key": "emergency",
       "value": "rescue_equipment",
-      "description": "[Q2146460] Q2146460",
+      "description": "[Q2146460] Rettungsstange",
       "doc_url": "http://www.wikidata.org/entity/Q2146460#P1282"
     },
     {
@@ -8285,7 +8285,7 @@
     {
       "key": "footway",
       "value": "crossing",
-      "description": "[Q16040822] Q16040822",
+      "description": "[Q16040822] Passage pour piétons en France",
       "doc_url": "http://www.wikidata.org/entity/Q16040822#P1282"
     },
     {
@@ -9958,7 +9958,7 @@
     {
       "key": "highway",
       "value": "crossing",
-      "description": "[Q16040822] Q16040822",
+      "description": "[Q16040822] Passage pour piétons en France",
       "doc_url": "http://www.wikidata.org/entity/Q16040822#P1282"
     },
     {
@@ -15875,7 +15875,7 @@
     {
       "key": "network",
       "value": "KR:26",
-      "description": "[Q20948105] Q20948105",
+      "description": "[Q20948105] 부산광역시도",
       "doc_url": "http://www.wikidata.org/entity/Q20948105#P1282"
     },
     {
@@ -15893,19 +15893,19 @@
     {
       "key": "network",
       "value": "KR:29",
-      "description": "[Q135677291] Q135677291",
+      "description": "[Q135677291] 광주광역시도",
       "doc_url": "http://www.wikidata.org/entity/Q135677291#P1282"
     },
     {
       "key": "network",
       "value": "KR:30",
-      "description": "[Q135677294] Q135677294",
+      "description": "[Q135677294] 대전광역시도",
       "doc_url": "http://www.wikidata.org/entity/Q135677294#P1282"
     },
     {
       "key": "network",
       "value": "KR:31",
-      "description": "[Q55732488] Q55732488",
+      "description": "[Q55732488] 울산광역시도",
       "doc_url": "http://www.wikidata.org/entity/Q55732488#P1282"
     },
     {
@@ -15929,7 +15929,7 @@
     {
       "key": "network",
       "value": "Koziołki_Lubelskie",
-      "description": "[Q131738287] Q131738287",
+      "description": "[Q131738287] Koziołki Lubelskie",
       "doc_url": "http://www.wikidata.org/entity/Q131738287#P1282"
     },
     {
@@ -18102,7 +18102,7 @@
     {
       "key": "old_ref",
       "value": "C-6318",
-      "description": "[Q134659582] Q134659582",
+      "description": "[Q134659582] C-6318",
       "doc_url": "http://www.wikidata.org/entity/Q134659582#P1282"
     },
     {
@@ -18500,7 +18500,7 @@
     },
     {
       "key": "payment:coins:denominations",
-      "description": "[Q1530144] Q1530144",
+      "description": "[Q1530144] Münznominal",
       "doc_url": "http://www.wikidata.org/entity/Q1530144#P13786"
     },
     {
@@ -18699,7 +18699,7 @@
     },
     {
       "key": "payment:postfinance_card",
-      "description": "[Q17591173] Q17591173",
+      "description": "[Q17591173] PostFinance Card Direct",
       "doc_url": "http://www.wikidata.org/entity/Q17591173#P13786"
     },
     {
@@ -19440,7 +19440,7 @@
     {
       "key": "platform_lift",
       "value": "vertical",
-      "description": "[Q1633666] Q1633666",
+      "description": "[Q1633666] Hublift",
       "doc_url": "http://www.wikidata.org/entity/Q1633666#P1282"
     },
     {
@@ -20566,7 +20566,7 @@
     {
       "key": "railway:signal:electricity",
       "value": "DE-BOStrab:st7",
-      "description": "[Q125938919] Q125938919",
+      "description": "[Q125938919] St 7",
       "doc_url": "http://www.wikidata.org/entity/Q125938919#P1282"
     },
     {
@@ -20626,7 +20626,7 @@
     {
       "key": "railway:signal:main:function",
       "value": "exit",
-      "description": "[Q778414] Q778414",
+      "description": "[Q778414] Ausfahrsignal",
       "doc_url": "http://www.wikidata.org/entity/Q778414#P1282"
     },
     {
@@ -20650,7 +20650,7 @@
     {
       "key": "railway:signal:main_repeated",
       "value": "CH-FDV:559",
-      "description": "[Q139602908] Q139602908",
+      "description": "[Q139602908] Fahrtstellungsmelder",
       "doc_url": "http://www.wikidata.org/entity/Q139602908#P1282"
     },
     {
@@ -20739,19 +20739,19 @@
     {
       "key": "railway:signal:slope",
       "value": "CH-FDV:269",
-      "description": "[Q138827965] Q138827965",
+      "description": "[Q138827965] Beginn oder Änderung der Steigung",
       "doc_url": "http://www.wikidata.org/entity/Q138827965#P1282"
     },
     {
       "key": "railway:signal:slope",
       "value": "CH-FDV:270",
-      "description": "[Q138827966] Q138827966",
+      "description": "[Q138827966] Beginn oder Änderung des Gefälles",
       "doc_url": "http://www.wikidata.org/entity/Q138827966#P1282"
     },
     {
       "key": "railway:signal:slope",
       "value": "CH-FDV:271",
-      "description": "[Q138827967] Q138827967",
+      "description": "[Q138827967] Beginn der Horizontalen",
       "doc_url": "http://www.wikidata.org/entity/Q138827967#P1282"
     },
     {
@@ -20896,25 +20896,25 @@
     {
       "key": "railway:signal:traversable",
       "value": "DE-ESO:mastschild_rot",
-      "description": "[Q138634201] Q138634201",
+      "description": "[Q138634201] rotes Mastschild",
       "doc_url": "http://www.wikidata.org/entity/Q138634201#P1282"
     },
     {
       "key": "railway:signal:traversable",
       "value": "DE-ESO:mastschild_rot-weiss",
-      "description": "[Q138634091] Q138634091",
+      "description": "[Q138634091] weiß-rot-weißes Mastschild",
       "doc_url": "http://www.wikidata.org/entity/Q138634091#P1282"
     },
     {
       "key": "railway:signal:traversable",
       "value": "DE-ESO:mastschild_schwarz-weiss",
-      "description": "[Q138634225] Q138634225",
+      "description": "[Q138634225] weiß-schwarz-weiß-schwarz-weißes Mastschild",
       "doc_url": "http://www.wikidata.org/entity/Q138634225#P1282"
     },
     {
       "key": "railway:signal:traversable",
       "value": "DE-ESO:mastschild_schwarz-weiss-punkte",
-      "description": "[Q138634152] Q138634152",
+      "description": "[Q138634152] weißes Mastschild mit zwei schwarzen Punkten",
       "doc_url": "http://www.wikidata.org/entity/Q138634152#P1282"
     },
     {
@@ -21330,7 +21330,7 @@
     {
       "key": "railway",
       "value": "spur",
-      "description": "[Q12104949] Q12104949",
+      "description": "[Q12104949] З'єднувальна колія",
       "doc_url": "http://www.wikidata.org/entity/Q12104949#P1282"
     },
     {
@@ -22367,7 +22367,7 @@
     {
       "key": "rescue_equipment",
       "value": "rescue_pole",
-      "description": "[Q2146460] Q2146460",
+      "description": "[Q2146460] Rettungsstange",
       "doc_url": "http://www.wikidata.org/entity/Q2146460#P1282"
     },
     {
@@ -24488,7 +24488,7 @@
     {
       "key": "source",
       "value": "IGVSB",
-      "description": "[Q24961802] Q24961802",
+      "description": "[Q24961802] Instituto Geográfico de Venezuela Simón Bolívar",
       "doc_url": "http://www.wikidata.org/entity/Q24961802#P1282"
     },
     {
@@ -25424,7 +25424,7 @@
     {
       "key": "sport",
       "value": "russian_skittles",
-      "description": "[Q2177160] Q2177160",
+      "description": "[Q2177160] Russisches Kegeln",
       "doc_url": "http://www.wikidata.org/entity/Q2177160#P1282"
     },
     {
@@ -27082,11 +27082,6 @@
       "key": "waterway",
       "description": "[Q355304] watercourse",
       "doc_url": "http://www.wikidata.org/entity/Q355304#P13786"
-    },
-    {
-      "key": "waterway",
-      "description": "[Q47521] stream",
-      "doc_url": "http://www.wikidata.org/entity/Q47521#P13786"
     },
     {
       "key": "waterway",
