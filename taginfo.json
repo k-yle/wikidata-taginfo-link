@@ -4405,7 +4405,7 @@
     {
       "key": "club",
       "value": "linux",
-      "description": "[Q1138237] Linux user group",
+      "description": "[Q1138237] Linux User Group",
       "doc_url": "http://www.wikidata.org/entity/Q1138237#P1282"
     },
     {
@@ -8473,7 +8473,7 @@
     {
       "key": "garden:style",
       "value": "zen",
-      "description": "[Q244226] Japanese rock garden",
+      "description": "[Q244226] Japanese dry landscape garden",
       "doc_url": "http://www.wikidata.org/entity/Q244226#P1282"
     },
     {
@@ -11887,7 +11887,7 @@
     },
     {
       "key": "language:ru",
-      "description": "[Q7737] Rus",
+      "description": "[Q7737] Russian",
       "doc_url": "http://www.wikidata.org/entity/Q7737#P13786"
     },
     {
