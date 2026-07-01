@@ -1000,6 +1000,18 @@
     },
     {
       "key": "amenity",
+      "value": "hāngī_pit",
+      "description": "[Q1186334] hangi",
+      "doc_url": "http://www.wikidata.org/entity/Q1186334#P1282"
+    },
+    {
+      "key": "amenity",
+      "value": "hāngī_pit",
+      "description": "[Q473594] earth oven",
+      "doc_url": "http://www.wikidata.org/entity/Q473594#P1282"
+    },
+    {
+      "key": "amenity",
       "value": "ice_cream",
       "description": "[Q1311064] ice cream parlor",
       "doc_url": "http://www.wikidata.org/entity/Q1311064#P1282"
@@ -4405,7 +4417,7 @@
     {
       "key": "club",
       "value": "linux",
-      "description": "[Q1138237] Linux user group",
+      "description": "[Q1138237] Linux User Group",
       "doc_url": "http://www.wikidata.org/entity/Q1138237#P1282"
     },
     {
@@ -4565,6 +4577,12 @@
       "key": "communication:bos",
       "description": "[Q796868] BOS-Funk",
       "doc_url": "http://www.wikidata.org/entity/Q796868#P13786"
+    },
+    {
+      "key": "communication:mobile_phone",
+      "value": "yes",
+      "description": "[Q1332343] cell site",
+      "doc_url": "http://www.wikidata.org/entity/Q1332343#P1282"
     },
     {
       "key": "communication:television",
@@ -8473,7 +8491,7 @@
     {
       "key": "garden:style",
       "value": "zen",
-      "description": "[Q244226] Japanese rock garden",
+      "description": "[Q244226] Japanese dry landscape garden",
       "doc_url": "http://www.wikidata.org/entity/Q244226#P1282"
     },
     {
@@ -11887,7 +11905,7 @@
     },
     {
       "key": "language:ru",
-      "description": "[Q7737] Rus",
+      "description": "[Q7737] Russian",
       "doc_url": "http://www.wikidata.org/entity/Q7737#P13786"
     },
     {
@@ -22545,12 +22563,6 @@
     },
     {
       "key": "robot:type",
-      "value": "humanoid",
-      "description": "[Q584529] humanoid robot",
-      "doc_url": "http://www.wikidata.org/entity/Q584529#P1282"
-    },
-    {
-      "key": "robot:type",
       "value": "lawn_mower",
       "description": "[Q2131895] robotic lawn mower",
       "doc_url": "http://www.wikidata.org/entity/Q2131895#P1282"
@@ -24421,6 +24433,11 @@
       "key": "source:imagery",
       "description": "[Q725252] satellite imagery",
       "doc_url": "http://www.wikidata.org/entity/Q725252#P13786"
+    },
+    {
+      "key": "source:license",
+      "description": "[P2479] SPDX license ID",
+      "doc_url": "http://www.wikidata.org/entity/P2479#P13786"
     },
     {
       "key": "source:license",
