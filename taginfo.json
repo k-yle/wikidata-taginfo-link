@@ -3721,6 +3721,12 @@
     },
     {
       "key": "building",
+      "value": "printery",
+      "description": "[Q47003909] printery",
+      "doc_url": "http://www.wikidata.org/entity/Q47003909#P1282"
+    },
+    {
+      "key": "building",
       "value": "public",
       "description": "[Q294422] public building",
       "doc_url": "http://www.wikidata.org/entity/Q294422#P1282"
@@ -6099,6 +6105,12 @@
     },
     {
       "key": "cuisine",
+      "value": "swiss",
+      "description": "[Q140376542] swiss restaurant",
+      "doc_url": "http://www.wikidata.org/entity/Q140376542#P1282"
+    },
+    {
+      "key": "cuisine",
       "value": "taiwanese",
       "description": "[Q114839225] Taiwanese restaurant",
       "doc_url": "http://www.wikidata.org/entity/Q114839225#P1282"
@@ -7484,14 +7496,32 @@
     },
     {
       "key": "disused:building",
+      "value": "printery",
+      "description": "[Q140377773] former printery",
+      "doc_url": "http://www.wikidata.org/entity/Q140377773#P1282"
+    },
+    {
+      "key": "disused:building",
       "value": "warehouse",
       "description": "[Q39919471] former warehouse",
       "doc_url": "http://www.wikidata.org/entity/Q39919471#P1282"
     },
     {
+      "key": "disused:building",
+      "value": "water_tower",
+      "description": "[Q123782492] former water tower",
+      "doc_url": "http://www.wikidata.org/entity/Q123782492#P1282"
+    },
+    {
       "key": "disused:highway",
       "description": "[Q7897785] unused highway",
       "doc_url": "http://www.wikidata.org/entity/Q7897785#P13786"
+    },
+    {
+      "key": "disused:man_made",
+      "value": "water_tower",
+      "description": "[Q123782492] former water tower",
+      "doc_url": "http://www.wikidata.org/entity/Q123782492#P1282"
     },
     {
       "key": "disused:military",
@@ -12661,6 +12691,12 @@
     },
     {
       "key": "man_made",
+      "value": "chiller",
+      "description": "[Q1501558] chiller",
+      "doc_url": "http://www.wikidata.org/entity/Q1501558#P1282"
+    },
+    {
+      "key": "man_made",
       "value": "chimney",
       "description": "[Q170477] chimney",
       "doc_url": "http://www.wikidata.org/entity/Q170477#P1282"
@@ -12668,8 +12704,8 @@
     {
       "key": "man_made",
       "value": "clarifier",
-      "description": "[Q126926042] clarifier",
-      "doc_url": "http://www.wikidata.org/entity/Q126926042#P1282"
+      "description": "[Q17050939] clarifier",
+      "doc_url": "http://www.wikidata.org/entity/Q17050939#P1282"
     },
     {
       "key": "man_made",
@@ -12940,6 +12976,12 @@
       "value": "planter",
       "description": "[Q2994840] flower garden",
       "doc_url": "http://www.wikidata.org/entity/Q2994840#P1282"
+    },
+    {
+      "key": "man_made",
+      "value": "polder",
+      "description": "[Q106259] polder",
+      "doc_url": "http://www.wikidata.org/entity/Q106259#P1282"
     },
     {
       "key": "man_made",
@@ -19125,12 +19167,6 @@
     },
     {
       "key": "place",
-      "value": "polder",
-      "description": "[Q106259] polder",
-      "doc_url": "http://www.wikidata.org/entity/Q106259#P1282"
-    },
-    {
-      "key": "place",
       "value": "quarter",
       "description": "[Q2983893] quarter",
       "doc_url": "http://www.wikidata.org/entity/Q2983893#P1282"
@@ -21949,6 +21985,11 @@
       "doc_url": "http://www.wikidata.org/entity/P954#P13786"
     },
     {
+      "key": "ref:idescat",
+      "description": "[P4335] IDESCAT territorial code in Catalonia",
+      "doc_url": "http://www.wikidata.org/entity/P4335#P13786"
+    },
+    {
       "key": "ref:inaturalist.org",
       "description": "[P5683] iNaturalist observation ID",
       "doc_url": "http://www.wikidata.org/entity/P5683#P13786"
@@ -22560,6 +22601,12 @@
       "value": "factory",
       "description": "[Q1128980] industrial robot",
       "doc_url": "http://www.wikidata.org/entity/Q1128980#P1282"
+    },
+    {
+      "key": "robot:type",
+      "value": "humanoid",
+      "description": "[Q584529] humanoid robot",
+      "doc_url": "http://www.wikidata.org/entity/Q584529#P1282"
     },
     {
       "key": "robot:type",
