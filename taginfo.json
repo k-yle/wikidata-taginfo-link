@@ -12992,12 +12992,6 @@
     {
       "key": "man_made",
       "value": "quay",
-      "description": "[Q1153558] berth",
-      "doc_url": "http://www.wikidata.org/entity/Q1153558#P1282"
-    },
-    {
-      "key": "man_made",
-      "value": "quay",
       "description": "[Q828909] wharf",
       "doc_url": "http://www.wikidata.org/entity/Q828909#P1282"
     },
@@ -14701,7 +14695,7 @@
     },
     {
       "key": "network",
-      "value": "Bajs_Zagreb",
+      "value": "Bajs Zagreb",
       "description": "[Q137167497] Bajs",
       "doc_url": "http://www.wikidata.org/entity/Q137167497#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bajs%20Zagreb%20logo.svg"
@@ -23017,6 +23011,12 @@
       "value": "slipway",
       "description": "[Q361945] slipway",
       "doc_url": "http://www.wikidata.org/entity/Q361945#P1282"
+    },
+    {
+      "key": "seamark:type",
+      "value": "berth",
+      "description": "[Q1153558] berth",
+      "doc_url": "http://www.wikidata.org/entity/Q1153558#P1282"
     },
     {
       "key": "seamark:type",
