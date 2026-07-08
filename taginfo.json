@@ -27457,6 +27457,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q35059#P13786"
     },
     {
+      "key": "width:carriageway",
+      "description": "[Q1645474] roadway",
+      "doc_url": "http://www.wikidata.org/entity/Q1645474#P13786"
+    },
+    {
       "key": "wikidata",
       "description": "[Q2013] Wikidata",
       "doc_url": "http://www.wikidata.org/entity/Q2013#P13786",
