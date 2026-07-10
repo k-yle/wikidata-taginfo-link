@@ -4957,12 +4957,6 @@
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%202024.svg"
     },
     {
-      "key": "content",
-      "value": "water",
-      "description": "[Q6501028] water tank",
-      "doc_url": "http://www.wikidata.org/entity/Q6501028#P1282"
-    },
-    {
       "key": "conveying",
       "description": "[Q770135] belt conveyor",
       "doc_url": "http://www.wikidata.org/entity/Q770135#P13786"
