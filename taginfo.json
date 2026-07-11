@@ -14091,6 +14091,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q36495#P13786"
     },
     {
+      "key": "name:nds-nl",
+      "description": "[Q516137] Dutch Low Saxon",
+      "doc_url": "http://www.wikidata.org/entity/Q516137#P13786"
+    },
+    {
       "key": "name:pa",
       "description": "[Q58635] Punjabi",
       "doc_url": "http://www.wikidata.org/entity/Q58635#P13786"
@@ -22047,6 +22052,11 @@
       "key": "ref:nces",
       "description": "[P2484] NCES school ID",
       "doc_url": "http://www.wikidata.org/entity/P2484#P13786"
+    },
+    {
+      "key": "ref:neispuo",
+      "description": "[P9034] BG School ID",
+      "doc_url": "http://www.wikidata.org/entity/P9034#P13786"
     },
     {
       "key": "ref:nga",
