@@ -1951,6 +1951,12 @@
     },
     {
       "key": "attraction",
+      "value": "log_flume",
+      "description": "[Q1412219] log flume ride",
+      "doc_url": "http://www.wikidata.org/entity/Q1412219#P1282"
+    },
+    {
+      "key": "attraction",
       "value": "roller_coaster",
       "description": "[Q204832] roller coaster",
       "doc_url": "http://www.wikidata.org/entity/Q204832#P1282"
@@ -5478,6 +5484,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q568719#P1282"
     },
     {
+      "key": "crossing:saltire",
+      "value": "yes",
+      "description": "[Q3698126] crossbuck",
+      "doc_url": "http://www.wikidata.org/entity/Q3698126#P1282"
+    },
+    {
       "key": "crossing:signals",
       "description": "[Q12054233] pedestrian signal",
       "doc_url": "http://www.wikidata.org/entity/Q12054233#P13786"
@@ -6681,7 +6693,7 @@
     {
       "key": "denomination",
       "value": "iglesia_ni_cristo",
-      "description": "[Q1138908] Iglesia ni Cristo",
+      "description": "[Q1138908] Iglesia Ni Manalo",
       "doc_url": "http://www.wikidata.org/entity/Q1138908#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Iglesia%20ni%20Cristo%20flag.svg"
     },
@@ -18945,6 +18957,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q337912#P1282"
     },
     {
+      "key": "pipeline",
+      "value": "surge_tank",
+      "description": "[Q1368524] surge tank",
+      "doc_url": "http://www.wikidata.org/entity/Q1368524#P1282"
+    },
+    {
       "key": "piste:difficulty",
       "description": "[Q60668498] piste rating",
       "doc_url": "http://www.wikidata.org/entity/Q60668498#P13786"
@@ -21658,6 +21676,16 @@
       "doc_url": "http://www.wikidata.org/entity/P4244#P13786"
     },
     {
+      "key": "ref:BG:EIK",
+      "description": "[P8894] BG EIK",
+      "doc_url": "http://www.wikidata.org/entity/P8894#P13786"
+    },
+    {
+      "key": "ref:BG:neispuo",
+      "description": "[P9034] BG School ID",
+      "doc_url": "http://www.wikidata.org/entity/P9034#P13786"
+    },
+    {
       "key": "ref:EGID",
       "description": "[P9665] EGID",
       "doc_url": "http://www.wikidata.org/entity/P9665#P13786"
@@ -22052,11 +22080,6 @@
       "key": "ref:nces",
       "description": "[P2484] NCES school ID",
       "doc_url": "http://www.wikidata.org/entity/P2484#P13786"
-    },
-    {
-      "key": "ref:neispuo",
-      "description": "[P9034] BG School ID",
-      "doc_url": "http://www.wikidata.org/entity/P9034#P13786"
     },
     {
       "key": "ref:nga",
