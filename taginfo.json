@@ -22,6 +22,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q138338323#P1282"
     },
     {
+      "key": "475012906",
+      "description": "[Q140537994] Joiner Park",
+      "doc_url": "http://www.wikidata.org/entity/Q140537994#P1282"
+    },
+    {
       "key": "4wd_only",
       "description": "[Q214833] four-wheel drive",
       "doc_url": "http://www.wikidata.org/entity/Q214833#P13786"
@@ -3799,6 +3804,12 @@
     },
     {
       "key": "building",
+      "value": "shower",
+      "description": "[Q127251335] shower building",
+      "doc_url": "http://www.wikidata.org/entity/Q127251335#P1282"
+    },
+    {
+      "key": "building",
       "value": "shrine",
       "description": "[Q697295] shrine",
       "doc_url": "http://www.wikidata.org/entity/Q697295#P1282"
@@ -3874,6 +3885,12 @@
       "value": "terrace",
       "description": "[Q875016] terrace house",
       "doc_url": "http://www.wikidata.org/entity/Q875016#P1282"
+    },
+    {
+      "key": "building",
+      "value": "toilets",
+      "description": "[Q126127572] toilet building",
+      "doc_url": "http://www.wikidata.org/entity/Q126127572#P1282"
     },
     {
       "key": "building",
@@ -13258,6 +13275,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q124537996#P1282"
     },
     {
+      "key": "manufacturer:wikidata",
+      "value": "Q136647886",
+      "description": "[Q136647886] Városszépítő Kft.",
+      "doc_url": "http://www.wikidata.org/entity/Q136647886#P1282"
+    },
+    {
       "key": "manufacturer",
       "value": "Hawle_Kft.",
       "description": "[Q124537996] HAWLE Kft.",
@@ -21941,6 +21964,11 @@
       "doc_url": "http://www.wikidata.org/entity/P9417#P13786"
     },
     {
+      "key": "ref:canmore",
+      "description": "[P718] Canmore ID",
+      "doc_url": "http://www.wikidata.org/entity/P718#P13786"
+    },
+    {
       "key": "ref:ccg",
       "description": "[P3920] Canadian Coastguard Lighthouse ID",
       "doc_url": "http://www.wikidata.org/entity/P3920#P13786"
@@ -26215,6 +26243,36 @@
       "key": "toilets",
       "description": "[Q813966] 🚾",
       "doc_url": "http://www.wikidata.org/entity/Q813966#P13786"
+    },
+    {
+      "key": "toilets:disposal",
+      "value": "flush",
+      "description": "[Q268534] flush toilet",
+      "doc_url": "http://www.wikidata.org/entity/Q268534#P1282"
+    },
+    {
+      "key": "toilets:disposal",
+      "value": "pitlatrine",
+      "description": "[Q3097999] pit latrine",
+      "doc_url": "http://www.wikidata.org/entity/Q3097999#P1282"
+    },
+    {
+      "key": "toilets:position",
+      "value": "seated",
+      "description": "[Q268534] flush toilet",
+      "doc_url": "http://www.wikidata.org/entity/Q268534#P1282"
+    },
+    {
+      "key": "toilets:position",
+      "value": "squat",
+      "description": "[Q1363734] squat toilet",
+      "doc_url": "http://www.wikidata.org/entity/Q1363734#P1282"
+    },
+    {
+      "key": "toilets:position",
+      "value": "urinal",
+      "description": "[Q152285] urinal",
+      "doc_url": "http://www.wikidata.org/entity/Q152285#P1282"
     },
     {
       "key": "tomb",
