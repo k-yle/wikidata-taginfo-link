@@ -22,11 +22,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q138338323#P1282"
     },
     {
-      "key": "475012906",
-      "description": "[Q140537994] Joiner Park",
-      "doc_url": "http://www.wikidata.org/entity/Q140537994#P1282"
-    },
-    {
       "key": "4wd_only",
       "description": "[Q214833] four-wheel drive",
       "doc_url": "http://www.wikidata.org/entity/Q214833#P13786"
@@ -556,7 +551,7 @@
     {
       "key": "amenity",
       "value": "bbq",
-      "description": "[Q1546788] barbecue area",
+      "description": "[Q1546788] barbecue site",
       "doc_url": "http://www.wikidata.org/entity/Q1546788#P1282"
     },
     {
@@ -2376,6 +2371,12 @@
       "value": "fringing",
       "description": "[Q1999990] fringing reef",
       "doc_url": "http://www.wikidata.org/entity/Q1999990#P1282"
+    },
+    {
+      "key": "black_owned",
+      "value": "yes",
+      "description": "[Q25040717] African-American business",
+      "doc_url": "http://www.wikidata.org/entity/Q25040717#P1282"
     },
     {
       "key": "blind",
@@ -12483,6 +12484,12 @@
       "value": "primary",
       "description": "[Q64364539] LGBT place",
       "doc_url": "http://www.wikidata.org/entity/Q64364539#P1282"
+    },
+    {
+      "key": "lgbtq_owned",
+      "value": "yes",
+      "description": "[Q126264475] LGBTQ-owned business",
+      "doc_url": "http://www.wikidata.org/entity/Q126264475#P1282"
     },
     {
       "key": "lhv",
@@ -27617,6 +27624,12 @@
       "key": "woeid",
       "description": "[P1281] WOEID",
       "doc_url": "http://www.wikidata.org/entity/P1281#P13786"
+    },
+    {
+      "key": "women_owned",
+      "value": "yes",
+      "description": "[Q16939100] woman-owned business",
+      "doc_url": "http://www.wikidata.org/entity/Q16939100#P1282"
     },
     {
       "key": "xmas:feature:shop",
