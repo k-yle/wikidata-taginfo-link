@@ -839,7 +839,7 @@
     {
       "key": "amenity",
       "value": "drinking_water",
-      "description": "[Q94631703] Trinkwasserstelle",
+      "description": "[Q94631703] drinking water point",
       "doc_url": "http://www.wikidata.org/entity/Q94631703#P1282"
     },
     {
@@ -5854,7 +5854,7 @@
     {
       "key": "cuisine",
       "value": "indian",
-      "description": "[Q192087] Indian cuisine",
+      "description": "[Q192087] يمني الصنع",
       "doc_url": "http://www.wikidata.org/entity/Q192087#P1282"
     },
     {
