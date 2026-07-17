@@ -3680,7 +3680,7 @@
     {
       "key": "building",
       "value": "mosque",
-      "description": "[Q32815] mosque",
+      "description": "[Q32815] masǧid",
       "doc_url": "http://www.wikidata.org/entity/Q32815#P1282"
     },
     {
@@ -19245,7 +19245,7 @@
     {
       "key": "place",
       "value": "town",
-      "description": "[Q3957] small town",
+      "description": "[Q3957] town",
       "doc_url": "http://www.wikidata.org/entity/Q3957#P1282"
     },
     {
