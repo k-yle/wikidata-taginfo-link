@@ -467,6 +467,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q173725#P13786"
     },
     {
+      "key": "alcohol",
+      "value": "no",
+      "description": "[Q67426650] no alcoholic beverage",
+      "doc_url": "http://www.wikidata.org/entity/Q67426650#P1282"
+    },
+    {
       "key": "amenity",
       "description": "[P912] has facility",
       "doc_url": "http://www.wikidata.org/entity/P912#P13786"
@@ -3820,6 +3826,12 @@
       "value": "slurry_tank",
       "description": "[Q1560125] slurry pit",
       "doc_url": "http://www.wikidata.org/entity/Q1560125#P1282"
+    },
+    {
+      "key": "building",
+      "value": "sports_hall",
+      "description": "[Q14092] gym",
+      "doc_url": "http://www.wikidata.org/entity/Q14092#P1282"
     },
     {
       "key": "building",
@@ -12374,18 +12386,6 @@
       "value": "sports_centre",
       "description": "[Q1076486] sports venue",
       "doc_url": "http://www.wikidata.org/entity/Q1076486#P1282"
-    },
-    {
-      "key": "leisure",
-      "value": "sports_hall",
-      "description": "[Q130528096] indoor sports facility",
-      "doc_url": "http://www.wikidata.org/entity/Q130528096#P1282"
-    },
-    {
-      "key": "leisure",
-      "value": "sports_hall",
-      "description": "[Q137884973] sports hall",
-      "doc_url": "http://www.wikidata.org/entity/Q137884973#P1282"
     },
     {
       "key": "leisure",
@@ -22489,6 +22489,12 @@
       "key": "reservation",
       "description": "[Q4096995] booking",
       "doc_url": "http://www.wikidata.org/entity/Q4096995#P13786"
+    },
+    {
+      "key": "reservation",
+      "value": "required",
+      "description": "[Q11353182] reservation required",
+      "doc_url": "http://www.wikidata.org/entity/Q11353182#P1282"
     },
     {
       "key": "residential",
