@@ -995,7 +995,7 @@
     {
       "key": "amenity",
       "value": "hospital",
-      "description": "[Q16917] Hospital",
+      "description": "[Q16917] hospital",
       "doc_url": "http://www.wikidata.org/entity/Q16917#P1282"
     },
     {
@@ -4126,7 +4126,7 @@
     {
       "key": "carpenter",
       "value": "cabinetmaker",
-      "description": "[Q16868432] cabinetry",
+      "description": "[Q16868432] cabinetmaking",
       "doc_url": "http://www.wikidata.org/entity/Q16868432#P1282"
     },
     {
@@ -7626,12 +7626,6 @@
     },
     {
       "key": "disused",
-      "value": "station",
-      "description": "[Q4663385] former railway station",
-      "doc_url": "http://www.wikidata.org/entity/Q4663385#P1282"
-    },
-    {
-      "key": "disused",
       "value": "yes",
       "description": "[Q111919829] vacant house",
       "doc_url": "http://www.wikidata.org/entity/Q111919829#P1282"
@@ -9844,7 +9838,7 @@
     {
       "key": "healthcare",
       "value": "hospital",
-      "description": "[Q16917] Hospital",
+      "description": "[Q16917] hospital",
       "doc_url": "http://www.wikidata.org/entity/Q16917#P1282"
     },
     {
@@ -20719,6 +20713,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q135653826#P1282"
     },
     {
+      "key": "railway:signal:large_loading_gauge_route",
+      "value": "CH-FDV:a106",
+      "description": "[Q140640004] Huckepack-Wegtafel",
+      "doc_url": "http://www.wikidata.org/entity/Q140640004#P1282"
+    },
+    {
       "key": "railway:signal:main:function",
       "value": "exit",
       "description": "[Q778414] Ausfahrsignal",
@@ -21223,12 +21223,6 @@
       "value": "disused_blockpost",
       "description": "[Q121734750] former block post",
       "doc_url": "http://www.wikidata.org/entity/Q121734750#P1282"
-    },
-    {
-      "key": "railway",
-      "value": "disused_station",
-      "description": "[Q4663385] former railway station",
-      "doc_url": "http://www.wikidata.org/entity/Q4663385#P1282"
     },
     {
       "key": "railway",
