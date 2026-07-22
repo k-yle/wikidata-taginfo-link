@@ -4918,8 +4918,8 @@
     },
     {
       "key": "contact:mastodon",
-      "description": "[P4033] Mastodon address",
-      "doc_url": "http://www.wikidata.org/entity/P4033#P13786"
+      "description": "[Q124222109] Mastodon address",
+      "doc_url": "http://www.wikidata.org/entity/Q124222109#P13786"
     },
     {
       "key": "contact:mobile",
@@ -12197,12 +12197,6 @@
     },
     {
       "key": "leisure",
-      "value": "garden",
-      "description": "[Q125573159] sitting-out area",
-      "doc_url": "http://www.wikidata.org/entity/Q125573159#P1282"
-    },
-    {
-      "key": "leisure",
       "value": "golf_course",
       "description": "[Q1048525] golf course",
       "doc_url": "http://www.wikidata.org/entity/Q1048525#P1282"
@@ -12260,12 +12254,6 @@
       "value": "nature_reserve",
       "description": "[Q179049] nature reserve",
       "doc_url": "http://www.wikidata.org/entity/Q179049#P1282"
-    },
-    {
-      "key": "leisure",
-      "value": "park",
-      "description": "[Q125573159] sitting-out area",
-      "doc_url": "http://www.wikidata.org/entity/Q125573159#P1282"
     },
     {
       "key": "leisure",
@@ -22404,7 +22392,7 @@
     {
       "key": "religion",
       "value": "shinto",
-      "description": "[Q812767] Shinto",
+      "description": "[Q812767] Shintō",
       "doc_url": "http://www.wikidata.org/entity/Q812767#P1282"
     },
     {
