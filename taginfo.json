@@ -10204,8 +10204,8 @@
     {
       "key": "highway",
       "value": "primary",
-      "description": "[Q136357181] highway=primary",
-      "doc_url": "http://www.wikidata.org/entity/Q136357181#P1282"
+      "description": "[Q129255749] highway=primary",
+      "doc_url": "http://www.wikidata.org/entity/Q129255749#P1282"
     },
     {
       "key": "highway",
@@ -10240,8 +10240,8 @@
     {
       "key": "highway",
       "value": "secondary",
-      "description": "[Q136366548] highway=secondary",
-      "doc_url": "http://www.wikidata.org/entity/Q136366548#P1282"
+      "description": "[Q3081879] highway=secondary",
+      "doc_url": "http://www.wikidata.org/entity/Q3081879#P1282"
     },
     {
       "key": "highway",
