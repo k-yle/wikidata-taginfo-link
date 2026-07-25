@@ -7525,12 +7525,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q113150763#P1282"
     },
     {
-      "key": "disused:amenity",
-      "value": "restaurant",
-      "description": "[Q55097243] defunct organization",
-      "doc_url": "http://www.wikidata.org/entity/Q55097243#P1282"
-    },
-    {
       "key": "disused:building",
       "value": "printery",
       "description": "[Q140377773] former printery",
@@ -10204,8 +10198,8 @@
     {
       "key": "highway",
       "value": "primary",
-      "description": "[Q129255749] highway=primary",
-      "doc_url": "http://www.wikidata.org/entity/Q129255749#P1282"
+      "description": "[Q16887545] highway=primary",
+      "doc_url": "http://www.wikidata.org/entity/Q16887545#P1282"
     },
     {
       "key": "highway",
@@ -14718,7 +14712,7 @@
     },
     {
       "key": "network",
-      "value": "Bajs Zagreb",
+      "value": "Bajs_Zagreb",
       "description": "[Q137167497] Bajs",
       "doc_url": "http://www.wikidata.org/entity/Q137167497#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bajs%20Zagreb%20logo.svg"
@@ -27562,6 +27556,18 @@
       "description": "[Q565] Wikimedia Commons",
       "doc_url": "http://www.wikidata.org/entity/Q565#P13786",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Commons-logo.svg"
+    },
+    {
+      "key": "wildlife_crossing",
+      "value": "bat_bridge",
+      "description": "[Q4868488] Bat bridge",
+      "doc_url": "http://www.wikidata.org/entity/Q4868488#P1282"
+    },
+    {
+      "key": "wildlife_crossing",
+      "value": "rope_bridge",
+      "description": "[Q15980599] squirrel bridge",
+      "doc_url": "http://www.wikidata.org/entity/Q15980599#P1282"
     },
     {
       "key": "windings",
