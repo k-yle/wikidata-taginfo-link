@@ -725,12 +725,6 @@
     {
       "key": "amenity",
       "value": "clock",
-      "description": "[Q853854] clock tower",
-      "doc_url": "http://www.wikidata.org/entity/Q853854#P1282"
-    },
-    {
-      "key": "amenity",
-      "value": "clock",
       "description": "[Q376] clock",
       "doc_url": "http://www.wikidata.org/entity/Q376#P1282"
     },
@@ -14389,7 +14383,7 @@
     {
       "key": "natural",
       "value": "ridge",
-      "description": "[Q740445] ridge",
+      "description": "[Q740445] mountain ridge",
       "doc_url": "http://www.wikidata.org/entity/Q740445#P1282"
     },
     {
@@ -15132,6 +15126,12 @@
       "value": "CY:B",
       "description": "[Q140287703] B roads in Cyprus",
       "doc_url": "http://www.wikidata.org/entity/Q140287703#P1282"
+    },
+    {
+      "key": "network",
+      "value": "CY:motorway",
+      "description": "[Q140287674] motorways of Cyprus",
+      "doc_url": "http://www.wikidata.org/entity/Q140287674#P1282"
     },
     {
       "key": "network",
@@ -21687,6 +21687,11 @@
       "doc_url": "http://www.wikidata.org/entity/P8894#P13786"
     },
     {
+      "key": "ref:BG:eik",
+      "description": "[Q24574607] Unified Identification code",
+      "doc_url": "http://www.wikidata.org/entity/Q24574607#P13786"
+    },
+    {
       "key": "ref:BG:neispuo",
       "description": "[P9034] BG School ID",
       "doc_url": "http://www.wikidata.org/entity/P9034#P13786"
@@ -27556,6 +27561,12 @@
       "description": "[Q565] Wikimedia Commons",
       "doc_url": "http://www.wikidata.org/entity/Q565#P13786",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Commons-logo.svg"
+    },
+    {
+      "key": "wikivoyage",
+      "description": "[Q373] Wikivoyage",
+      "doc_url": "http://www.wikidata.org/entity/Q373#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage-Logo-v3-icon.svg"
     },
     {
       "key": "wildlife_crossing",
