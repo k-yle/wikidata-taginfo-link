@@ -1707,12 +1707,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q42195#P1282"
     },
     {
-      "key": "archaeological_site",
-      "value": "rock_shelter",
-      "description": "[Q1149405] rock shelter",
-      "doc_url": "http://www.wikidata.org/entity/Q1149405#P1282"
-    },
-    {
       "key": "architect",
       "description": "[P84] architect",
       "doc_url": "http://www.wikidata.org/entity/P84#P13786"
@@ -4710,8 +4704,7 @@
       "key": "community",
       "value": "OP",
       "description": "[Q131479] Dominican Order",
-      "doc_url": "http://www.wikidata.org/entity/Q131479#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Blason%20Dominican.svg"
+      "doc_url": "http://www.wikidata.org/entity/Q131479#P1282"
     },
     {
       "key": "community",
@@ -7344,9 +7337,14 @@
       "doc_url": "http://www.wikidata.org/entity/Q7245071#P1282"
     },
     {
-      "key": "destroyed",
-      "description": "[Q19860854] destroyed building or structure",
-      "doc_url": "http://www.wikidata.org/entity/Q19860854#P13786"
+      "key": "developer",
+      "description": "[Q17487600] real estate developer",
+      "doc_url": "http://www.wikidata.org/entity/Q17487600#P13786"
+    },
+    {
+      "key": "dgac",
+      "description": "[P5746] Directorate General of Civil Aeronautics (Mexico) code",
+      "doc_url": "http://www.wikidata.org/entity/P5746#P13786"
     },
     {
       "key": "diameter",
@@ -12848,7 +12846,7 @@
     {
       "key": "man_made",
       "value": "mast",
-      "description": "[Q1068623] transmitter mast",
+      "description": "[Q1068623] Radio masts and towers",
       "doc_url": "http://www.wikidata.org/entity/Q1068623#P1282"
     },
     {
@@ -14037,6 +14035,121 @@
       "doc_url": "http://www.wikidata.org/entity/Q82799#P13786"
     },
     {
+      "key": "name:aaq",
+      "description": "[Q3515185] Eastern Abenaki",
+      "doc_url": "http://www.wikidata.org/entity/Q3515185#P13786"
+    },
+    {
+      "key": "name:ab",
+      "description": "[Q5111] Abkhaz",
+      "doc_url": "http://www.wikidata.org/entity/Q5111#P13786"
+    },
+    {
+      "key": "name:abe",
+      "description": "[Q17502788] Western Abnaki",
+      "doc_url": "http://www.wikidata.org/entity/Q17502788#P13786"
+    },
+    {
+      "key": "name:ace",
+      "description": "[Q27683] Acehnese",
+      "doc_url": "http://www.wikidata.org/entity/Q27683#P13786"
+    },
+    {
+      "key": "name:ady",
+      "description": "[Q27776] Adyghe",
+      "doc_url": "http://www.wikidata.org/entity/Q27776#P13786"
+    },
+    {
+      "key": "name:af",
+      "description": "[Q14196] Afrikaans",
+      "doc_url": "http://www.wikidata.org/entity/Q14196#P13786"
+    },
+    {
+      "key": "name:ak",
+      "description": "[Q28026] Akan",
+      "doc_url": "http://www.wikidata.org/entity/Q28026#P13786"
+    },
+    {
+      "key": "name:aln",
+      "description": "[Q181037] Gheg",
+      "doc_url": "http://www.wikidata.org/entity/Q181037#P13786"
+    },
+    {
+      "key": "name:alq",
+      "description": "[Q28092] Algonquin",
+      "doc_url": "http://www.wikidata.org/entity/Q28092#P13786"
+    },
+    {
+      "key": "name:als",
+      "description": "[Q180937] Tosk",
+      "doc_url": "http://www.wikidata.org/entity/Q180937#P13786"
+    },
+    {
+      "key": "name:alt",
+      "description": "[Q1991779] Southern Altai",
+      "doc_url": "http://www.wikidata.org/entity/Q1991779#P13786"
+    },
+    {
+      "key": "name:am",
+      "description": "[Q28244] Amharic",
+      "doc_url": "http://www.wikidata.org/entity/Q28244#P13786"
+    },
+    {
+      "key": "name:an",
+      "description": "[Q8765] Aragonese",
+      "doc_url": "http://www.wikidata.org/entity/Q8765#P13786"
+    },
+    {
+      "key": "name:ang",
+      "description": "[Q42365] Old English",
+      "doc_url": "http://www.wikidata.org/entity/Q42365#P13786"
+    },
+    {
+      "key": "name:ar",
+      "description": "[Q13955] Arabic",
+      "doc_url": "http://www.wikidata.org/entity/Q13955#P13786"
+    },
+    {
+      "key": "name:arz",
+      "description": "[Q29919] Egyptian Arabic",
+      "doc_url": "http://www.wikidata.org/entity/Q29919#P13786"
+    },
+    {
+      "key": "name:as",
+      "description": "[Q29401] Assamese",
+      "doc_url": "http://www.wikidata.org/entity/Q29401#P13786"
+    },
+    {
+      "key": "name:ast",
+      "description": "[Q29507] Asturian",
+      "doc_url": "http://www.wikidata.org/entity/Q29507#P13786"
+    },
+    {
+      "key": "name:aus",
+      "description": "[Q205143] Australian Aboriginal languages",
+      "doc_url": "http://www.wikidata.org/entity/Q205143#P13786"
+    },
+    {
+      "key": "name:av",
+      "description": "[Q29561] Avar",
+      "doc_url": "http://www.wikidata.org/entity/Q29561#P13786"
+    },
+    {
+      "key": "name:ay",
+      "description": "[Q4627] Aymara",
+      "doc_url": "http://www.wikidata.org/entity/Q4627#P13786"
+    },
+    {
+      "key": "name:az",
+      "description": "[Q9292] Azerbaijani",
+      "doc_url": "http://www.wikidata.org/entity/Q9292#P13786"
+    },
+    {
+      "key": "name:azb",
+      "description": "[Q3449805] South Azerbaijani",
+      "doc_url": "http://www.wikidata.org/entity/Q3449805#P13786"
+    },
+    {
       "key": "name:cal",
       "description": "[Q28427] Carolinian",
       "doc_url": "http://www.wikidata.org/entity/Q28427#P13786"
@@ -14106,6 +14219,16 @@
       "key": "name:nds-nl",
       "description": "[Q516137] Dutch Low Saxon",
       "doc_url": "http://www.wikidata.org/entity/Q516137#P13786"
+    },
+    {
+      "key": "name:nl",
+      "description": "[Q7411] Dutch",
+      "doc_url": "http://www.wikidata.org/entity/Q7411#P13786"
+    },
+    {
+      "key": "name:nl-u-sd-bebru",
+      "description": "[Q2668371] Brussels",
+      "doc_url": "http://www.wikidata.org/entity/Q2668371#P13786"
     },
     {
       "key": "name:pa",
@@ -15135,6 +15258,12 @@
     },
     {
       "key": "network",
+      "value": "CY:national",
+      "description": "[Q140733983] state roads in Northern Cyprus",
+      "doc_url": "http://www.wikidata.org/entity/Q140733983#P1282"
+    },
+    {
+      "key": "network",
       "value": "Casals i Ateneus dels Països Catalans",
       "description": "[Q119411870] Network of Social Centres from the Catalan Countries",
       "doc_url": "http://www.wikidata.org/entity/Q119411870#P1282"
@@ -16077,9 +16206,27 @@
     },
     {
       "key": "network",
+      "value": "MX:JAL",
+      "description": "[Q117474706] state highways in Jalisco",
+      "doc_url": "http://www.wikidata.org/entity/Q117474706#P1282"
+    },
+    {
+      "key": "network",
+      "value": "MX:MEX",
+      "description": "[Q140741898] state highways in the State of Mexico",
+      "doc_url": "http://www.wikidata.org/entity/Q140741898#P1282"
+    },
+    {
+      "key": "network",
       "value": "MX:MX",
       "description": "[Q6825768] federal highways in Mexico",
       "doc_url": "http://www.wikidata.org/entity/Q6825768#P1282"
+    },
+    {
+      "key": "network",
+      "value": "MX:SON",
+      "description": "[Q140743072] state highways in Sonora",
+      "doc_url": "http://www.wikidata.org/entity/Q140743072#P1282"
     },
     {
       "key": "network",
@@ -20135,7 +20282,7 @@
     {
       "key": "power",
       "value": "switch",
-      "description": "[Q211058] circuit breaker",
+      "description": "[Q211058] Circuit breaker",
       "doc_url": "http://www.wikidata.org/entity/Q211058#P1282"
     },
     {
@@ -23213,6 +23360,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q2870602#P1282"
     },
     {
+      "key": "shelter_type",
+      "value": "rock_shelter",
+      "description": "[Q1149405] rock shelter",
+      "doc_url": "http://www.wikidata.org/entity/Q1149405#P1282"
+    },
+    {
       "key": "ship",
       "description": "[Q11446] ship",
       "doc_url": "http://www.wikidata.org/entity/Q11446#P13786"
@@ -24411,12 +24564,6 @@
       "value": "minilith",
       "description": "[Q98596750] minilith",
       "doc_url": "http://www.wikidata.org/entity/Q98596750#P1282"
-    },
-    {
-      "key": "site_type",
-      "value": "rock_shelter",
-      "description": "[Q1149405] rock shelter",
-      "doc_url": "http://www.wikidata.org/entity/Q1149405#P1282"
     },
     {
       "key": "ski",
@@ -26066,7 +26213,7 @@
     {
       "key": "switch",
       "value": "circuit_breaker",
-      "description": "[Q211058] circuit breaker",
+      "description": "[Q211058] Circuit breaker",
       "doc_url": "http://www.wikidata.org/entity/Q211058#P1282"
     },
     {
