@@ -12846,7 +12846,7 @@
     {
       "key": "man_made",
       "value": "mast",
-      "description": "[Q1068623] Radio masts and towers",
+      "description": "[Q1068623] transmitter mast",
       "doc_url": "http://www.wikidata.org/entity/Q1068623#P1282"
     },
     {
@@ -14226,6 +14226,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q7411#P13786"
     },
     {
+      "key": "name:nl-NL",
+      "description": "[Q140799942] Netherlands Dutch",
+      "doc_url": "http://www.wikidata.org/entity/Q140799942#P13786"
+    },
+    {
       "key": "name:nl-u-sd-bebru",
       "description": "[Q2668371] Brussels",
       "doc_url": "http://www.wikidata.org/entity/Q2668371#P13786"
@@ -14398,14 +14403,14 @@
     {
       "key": "natural",
       "value": "glacier",
-      "description": "[Q35666] glacier",
-      "doc_url": "http://www.wikidata.org/entity/Q35666#P1282"
+      "description": "[Q3748258] perennial ice or snow‐covered land",
+      "doc_url": "http://www.wikidata.org/entity/Q3748258#P1282"
     },
     {
       "key": "natural",
       "value": "gorge",
-      "description": "[Q3699460] defile",
-      "doc_url": "http://www.wikidata.org/entity/Q3699460#P1282"
+      "description": "[Q150784] canyon",
+      "doc_url": "http://www.wikidata.org/entity/Q150784#P1282"
     },
     {
       "key": "natural",
@@ -14536,8 +14541,8 @@
     {
       "key": "natural",
       "value": "saddle",
-      "description": "[Q10862618] mountain saddle",
-      "doc_url": "http://www.wikidata.org/entity/Q10862618#P1282"
+      "description": "[Q16887036] gap",
+      "doc_url": "http://www.wikidata.org/entity/Q16887036#P1282"
     },
     {
       "key": "natural",
@@ -20390,6 +20395,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q3474616#P1282"
     },
     {
+      "key": "prominence",
+      "description": "[Q656751] topographic prominence",
+      "doc_url": "http://www.wikidata.org/entity/Q656751#P13786"
+    },
+    {
       "key": "proposed",
       "description": "[Q811683] proposed building or structure",
       "doc_url": "http://www.wikidata.org/entity/Q811683#P13786"
@@ -22233,6 +22243,11 @@
       "key": "ref:monumentaltrees",
       "description": "[Q107003167] Monumental Trees",
       "doc_url": "http://www.wikidata.org/entity/Q107003167#P13786"
+    },
+    {
+      "key": "ref:monuments-aux-morts.fr",
+      "description": "[P6238] Monument aux morts ID",
+      "doc_url": "http://www.wikidata.org/entity/P6238#P13786"
     },
     {
       "key": "ref:natura2000",
