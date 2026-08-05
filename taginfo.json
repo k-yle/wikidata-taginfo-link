@@ -12,16 +12,6 @@
   },
   "tags": [
     {
-      "key": "3953829724",
-      "description": "[Q124303912] Tanjung Gudang Belinyu Port",
-      "doc_url": "http://www.wikidata.org/entity/Q124303912#P1282"
-    },
-    {
-      "key": "461585760",
-      "description": "[Q138338323] Southold",
-      "doc_url": "http://www.wikidata.org/entity/Q138338323#P1282"
-    },
-    {
       "key": "4wd_only",
       "description": "[Q214833] four-wheel drive",
       "doc_url": "http://www.wikidata.org/entity/Q214833#P13786"
@@ -67,16 +57,6 @@
       "doc_url": "http://www.wikidata.org/entity/P300#P13786"
     },
     {
-      "key": "Key:addr:country",
-      "description": "[P17] country",
-      "doc_url": "http://www.wikidata.org/entity/P17#P13786"
-    },
-    {
-      "key": "Key:country",
-      "description": "[P17] country",
-      "doc_url": "http://www.wikidata.org/entity/P17#P13786"
-    },
-    {
       "key": "MOE:id",
       "description": "[P9360] Ministry of Education New Zealand school ID",
       "doc_url": "http://www.wikidata.org/entity/P9360#P13786"
@@ -98,7 +78,7 @@
       "doc_url": "http://www.wikidata.org/entity/Q130283121#P13786"
     },
     {
-      "key": "abandoned:",
+      "key": "abandoned:*",
       "description": "[Q63065035] abandoned",
       "doc_url": "http://www.wikidata.org/entity/Q63065035#P13786"
     },
@@ -159,6 +139,11 @@
       "key": "addr:conscriptionnumber",
       "description": "[Q877895] conscription number",
       "doc_url": "http://www.wikidata.org/entity/Q877895#P13786"
+    },
+    {
+      "key": "addr:country",
+      "description": "[P17] country",
+      "doc_url": "http://www.wikidata.org/entity/P17#P13786"
     },
     {
       "key": "addr:housename",
@@ -471,6 +456,11 @@
       "value": "no",
       "description": "[Q67426650] no alcoholic beverage",
       "doc_url": "http://www.wikidata.org/entity/Q67426650#P1282"
+    },
+    {
+      "key": "alt_name",
+      "description": "[P4970] alternative name",
+      "doc_url": "http://www.wikidata.org/entity/P4970#P13786"
     },
     {
       "key": "amenity",
@@ -1387,12 +1377,6 @@
       "value": "sanitary_dump_station",
       "description": "[Q47520332] sanitary dump station",
       "doc_url": "http://www.wikidata.org/entity/Q47520332#P1282"
-    },
-    {
-      "key": "amenity",
-      "value": "sauna",
-      "description": "[Q57036] sauna",
-      "doc_url": "http://www.wikidata.org/entity/Q57036#P1282"
     },
     {
       "key": "amenity",
@@ -4998,6 +4982,11 @@
     },
     {
       "key": "country",
+      "description": "[P17] country",
+      "doc_url": "http://www.wikidata.org/entity/P17#P13786"
+    },
+    {
+      "key": "country",
       "description": "[Q64779666] sending state or organization",
       "doc_url": "http://www.wikidata.org/entity/Q64779666#P13786"
     },
@@ -5350,7 +5339,7 @@
     {
       "key": "craft",
       "value": "turner",
-      "description": "[Q1716419] wood turner",
+      "description": "[Q1716419] turner",
       "doc_url": "http://www.wikidata.org/entity/Q1716419#P1282"
     },
     {
@@ -9774,7 +9763,7 @@
     },
     {
       "key": "healthcare",
-      "value": "birthing_center",
+      "value": "birthing_centre",
       "description": "[Q1752787] birthing center",
       "doc_url": "http://www.wikidata.org/entity/Q1752787#P1282"
     },
@@ -10872,6 +10861,12 @@
     },
     {
       "key": "historic",
+      "value": "highwater_mark",
+      "description": "[Q1622444] high water mark",
+      "doc_url": "http://www.wikidata.org/entity/Q1622444#P1282"
+    },
+    {
+      "key": "historic",
       "value": "lifting_stone",
       "description": "[Q3997677] lifting stone",
       "doc_url": "http://www.wikidata.org/entity/Q3997677#P1282"
@@ -11535,12 +11530,6 @@
       "value": "lowered",
       "description": "[Q2891126] curb cut",
       "doc_url": "http://www.wikidata.org/entity/Q2891126#P1282"
-    },
-    {
-      "key": "key",
-      "value": "trunk",
-      "description": "[Q3974641] Strada extraurbana principale",
-      "doc_url": "http://www.wikidata.org/entity/Q3974641#P1282"
     },
     {
       "key": "kiln",
@@ -13301,6 +13290,12 @@
       "key": "mapillary",
       "description": "[P1947] Mapillary photo ID",
       "doc_url": "http://www.wikidata.org/entity/P1947#P13786"
+    },
+    {
+      "key": "mapillary",
+      "description": "[Q26757498] Mapillary",
+      "doc_url": "http://www.wikidata.org/entity/Q26757498#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mapillary%20logo.svg"
     },
     {
       "key": "maritime",
@@ -17715,7 +17710,7 @@
     {
       "key": "network",
       "value": "US:US:Business",
-      "description": "[Q139700638] Business routes of the United States Numbered Highway System",
+      "description": "[Q139700638] business routes of the United States Numbered Highway System",
       "doc_url": "http://www.wikidata.org/entity/Q139700638#P1282"
     },
     {
@@ -18542,6 +18537,12 @@
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/NWRS%20Logo.png"
     },
     {
+      "key": "panoramax",
+      "description": "[Q120971923] Panoramax",
+      "doc_url": "http://www.wikidata.org/entity/Q120971923#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Panoramax.svg"
+    },
+    {
       "key": "parish",
       "description": "[Q102496] parish",
       "doc_url": "http://www.wikidata.org/entity/Q102496#P13786"
@@ -18699,12 +18700,6 @@
       "description": "[Q17749859] BankAxept",
       "doc_url": "http://www.wikidata.org/entity/Q17749859#P13786",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/BankAxept%20logo.png"
-    },
-    {
-      "key": "payment:bitcoin",
-      "description": "[Q131723] Bitcoin",
-      "doc_url": "http://www.wikidata.org/entity/Q131723#P13786",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin.svg"
     },
     {
       "key": "payment:cash",
@@ -21268,6 +21263,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q340774#P1282"
     },
     {
+      "key": "railway:vacancy_detection",
+      "value": "insulated_rail_joint",
+      "description": "[Q1674495] insulated rail joint",
+      "doc_url": "http://www.wikidata.org/entity/Q1674495#P1282"
+    },
+    {
       "key": "railway",
       "value": "abandoned",
       "description": "[Q117086200] abandoned industrial spur",
@@ -21341,12 +21342,6 @@
     },
     {
       "key": "railway",
-      "value": "disuesd_junction",
-      "description": "[Q121743939] former junction",
-      "doc_url": "http://www.wikidata.org/entity/Q121743939#P1282"
-    },
-    {
-      "key": "railway",
       "value": "disused",
       "description": "[Q117086200] abandoned industrial spur",
       "doc_url": "http://www.wikidata.org/entity/Q117086200#P1282"
@@ -21362,6 +21357,12 @@
       "value": "disused_blockpost",
       "description": "[Q121734750] former block post",
       "doc_url": "http://www.wikidata.org/entity/Q121734750#P1282"
+    },
+    {
+      "key": "railway",
+      "value": "disused_junction",
+      "description": "[Q121743939] former junction",
+      "doc_url": "http://www.wikidata.org/entity/Q121743939#P1282"
     },
     {
       "key": "railway",
@@ -21422,6 +21423,12 @@
       "value": "light_rail",
       "description": "[Q1268865] light rail",
       "doc_url": "http://www.wikidata.org/entity/Q1268865#P1282"
+    },
+    {
+      "key": "railway",
+      "value": "lubricator",
+      "description": "[Q113816854] TOR application system",
+      "doc_url": "http://www.wikidata.org/entity/Q113816854#P1282"
     },
     {
       "key": "railway",
@@ -21970,11 +21977,6 @@
     },
     {
       "key": "ref:IFOPT",
-      "description": "[P12393] IFOPT stop ID",
-      "doc_url": "http://www.wikidata.org/entity/P12393#P13786"
-    },
-    {
-      "key": "ref:IFOPT",
       "description": "[Q5988215] Identification of Fixed Objects in Public Transport",
       "doc_url": "http://www.wikidata.org/entity/Q5988215#P13786"
     },
@@ -22495,7 +22497,7 @@
     },
     {
       "key": "religion",
-      "value": "hindy",
+      "value": "hindu",
       "description": "[Q9089] Hinduism",
       "doc_url": "http://www.wikidata.org/entity/Q9089#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Om%20symbol.svg"
@@ -22856,15 +22858,15 @@
     },
     {
       "key": "roof:shape",
-      "value": "hip-and-gable",
-      "description": "[Q5515430] Dutch roof",
-      "doc_url": "http://www.wikidata.org/entity/Q5515430#P1282"
-    },
-    {
-      "key": "roof:shape",
       "value": "hipped",
       "description": "[Q162034] hip roof",
       "doc_url": "http://www.wikidata.org/entity/Q162034#P1282"
+    },
+    {
+      "key": "roof:shape",
+      "value": "hipped-and-gabled",
+      "description": "[Q5515430] Dutch roof",
+      "doc_url": "http://www.wikidata.org/entity/Q5515430#P1282"
     },
     {
       "key": "roof:shape",
@@ -23031,12 +23033,6 @@
       "key": "royal_cypher",
       "description": "[Q2739328] royal cypher",
       "doc_url": "http://www.wikidata.org/entity/Q2739328#P13786"
-    },
-    {
-      "key": "rugby",
-      "value": "league",
-      "description": "[Q10962] rugby league",
-      "doc_url": "http://www.wikidata.org/entity/Q10962#P1282"
     },
     {
       "key": "ruins",
@@ -24022,12 +24018,6 @@
     },
     {
       "key": "shop",
-      "value": "lamps",
-      "description": "[Q47516372] lamp store",
-      "doc_url": "http://www.wikidata.org/entity/Q47516372#P1282"
-    },
-    {
-      "key": "shop",
       "value": "laundry",
       "description": "[Q1143034] self-service laundry",
       "doc_url": "http://www.wikidata.org/entity/Q1143034#P1282"
@@ -24214,12 +24204,6 @@
     },
     {
       "key": "shop",
-      "value": "pool_shop",
-      "description": "[Q47517083] swimming pool equipment shop",
-      "doc_url": "http://www.wikidata.org/entity/Q47517083#P1282"
-    },
-    {
-      "key": "shop",
       "value": "pottery",
       "description": "[Q11642] pottery",
       "doc_url": "http://www.wikidata.org/entity/Q11642#P1282"
@@ -24353,12 +24337,6 @@
     {
       "key": "shop",
       "value": "swimming_pool",
-      "description": "[Q47517083] swimming pool equipment shop",
-      "doc_url": "http://www.wikidata.org/entity/Q47517083#P1282"
-    },
-    {
-      "key": "shop",
-      "value": "swimming_pool_supply_store",
       "description": "[Q47517083] swimming pool equipment shop",
       "doc_url": "http://www.wikidata.org/entity/Q47517083#P1282"
     },
@@ -25346,12 +25324,6 @@
       "value": "four_square",
       "description": "[Q1439993] four square",
       "doc_url": "http://www.wikidata.org/entity/Q1439993#P1282"
-    },
-    {
-      "key": "sport",
-      "value": "free_flying",
-      "description": "[Q1453560] freefly",
-      "doc_url": "http://www.wikidata.org/entity/Q1453560#P1282"
     },
     {
       "key": "sport",
