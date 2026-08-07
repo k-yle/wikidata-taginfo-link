@@ -1979,6 +1979,12 @@
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/NFC%20logo.svg"
     },
     {
+      "key": "avalanche_protection",
+      "value": "gas_ignition",
+      "description": "[Q60983189] avalanche triggering by gas ignition",
+      "doc_url": "http://www.wikidata.org/entity/Q60983189#P1282"
+    },
+    {
       "key": "backrest",
       "value": "yes",
       "description": "[Q3037336] backrest",
