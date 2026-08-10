@@ -2694,7 +2694,7 @@
     },
     {
       "key": "bridge:structure",
-      "description": "[Q17644823] bridge by structural type",
+      "description": "[Q17644823] type of bridge by structure",
       "doc_url": "http://www.wikidata.org/entity/Q17644823#P13786"
     },
     {
@@ -2825,7 +2825,7 @@
     },
     {
       "key": "bridge_type",
-      "description": "[Q136687862] bridge by type",
+      "description": "[Q136687862] type of bridge",
       "doc_url": "http://www.wikidata.org/entity/Q136687862#P13786"
     },
     {
@@ -5848,7 +5848,7 @@
     {
       "key": "cuisine",
       "value": "indian",
-      "description": "[Q192087] يمني الصنع",
+      "description": "[Q192087] Indian cuisine",
       "doc_url": "http://www.wikidata.org/entity/Q192087#P1282"
     },
     {
@@ -8060,7 +8060,7 @@
     },
     {
       "key": "end_date",
-      "description": "[P576] dissolved, abolished or demolished date",
+      "description": "[P576] dissolved, abolished or demolished",
       "doc_url": "http://www.wikidata.org/entity/P576#P13786"
     },
     {
@@ -13997,7 +13997,7 @@
     {
       "key": "museum",
       "value": "technology",
-      "description": "[Q2398990] museo tecnológico",
+      "description": "[Q2398990] technology museum",
       "doc_url": "http://www.wikidata.org/entity/Q2398990#P1282"
     },
     {
@@ -19402,7 +19402,7 @@
     {
       "key": "plant:method",
       "value": "battery-storage",
-      "description": "[Q810924] battery storage power station",
+      "description": "[Q810924] battery energy storage system",
       "doc_url": "http://www.wikidata.org/entity/Q810924#P1282"
     },
     {
@@ -19526,7 +19526,7 @@
     {
       "key": "plant:source",
       "value": "battery",
-      "description": "[Q810924] battery storage power station",
+      "description": "[Q810924] battery energy storage system",
       "doc_url": "http://www.wikidata.org/entity/Q810924#P1282"
     },
     {
@@ -20252,7 +20252,7 @@
     {
       "key": "power",
       "value": "plant",
-      "description": "[Q810924] battery storage power station",
+      "description": "[Q810924] battery energy storage system",
       "doc_url": "http://www.wikidata.org/entity/Q810924#P1282"
     },
     {
@@ -21625,7 +21625,7 @@
     {
       "key": "railway",
       "value": "turntable",
-      "description": "[Q730493] railway turntable",
+      "description": "[Q730493] Railway turntable",
       "doc_url": "http://www.wikidata.org/entity/Q730493#P1282"
     },
     {
@@ -22411,7 +22411,7 @@
     },
     {
       "key": "ref:wpi",
-      "description": "[P7625] WPI ID",
+      "description": "[P7625] World Port Index database ID",
       "doc_url": "http://www.wikidata.org/entity/P7625#P13786"
     },
     {
@@ -26202,6 +26202,42 @@
       "key": "swimming_pool",
       "description": "[Q1501] swimming pool",
       "doc_url": "http://www.wikidata.org/entity/Q1501#P13786"
+    },
+    {
+      "key": "swimming_pool",
+      "value": "indoor",
+      "description": "[Q357380] indoor swimming pool",
+      "doc_url": "http://www.wikidata.org/entity/Q357380#P1282"
+    },
+    {
+      "key": "swimming_pool",
+      "value": "lazy_river",
+      "description": "[Q3220071] lazy river",
+      "doc_url": "http://www.wikidata.org/entity/Q3220071#P1282"
+    },
+    {
+      "key": "swimming_pool",
+      "value": "outdoor",
+      "description": "[Q13586493] outdoor swimming pool",
+      "doc_url": "http://www.wikidata.org/entity/Q13586493#P1282"
+    },
+    {
+      "key": "swimming_pool",
+      "value": "spa",
+      "description": "[Q1341387] spa",
+      "doc_url": "http://www.wikidata.org/entity/Q1341387#P1282"
+    },
+    {
+      "key": "swimming_pool",
+      "value": "wading",
+      "description": "[Q2098314] wading pool",
+      "doc_url": "http://www.wikidata.org/entity/Q2098314#P1282"
+    },
+    {
+      "key": "swimming_pool",
+      "value": "wave_pool",
+      "description": "[Q827349] wave pool",
+      "doc_url": "http://www.wikidata.org/entity/Q827349#P1282"
     },
     {
       "key": "switch",
