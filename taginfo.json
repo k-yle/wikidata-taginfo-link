@@ -2581,6 +2581,12 @@
       "doc_url": "http://www.wikidata.org/entity/P1716#P13786"
     },
     {
+      "key": "brand:wikidata",
+      "value": "Q140984027",
+      "description": "[Q140984027] Q140984027",
+      "doc_url": "http://www.wikidata.org/entity/Q140984027#P1282"
+    },
+    {
       "key": "brand",
       "value": "Eroski",
       "description": "[Q1361349] Eroski",
@@ -2600,6 +2606,12 @@
       "description": "[Q215657] Bajaj Mobility/KTM",
       "doc_url": "http://www.wikidata.org/entity/Q215657#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/KTM-Logo.svg"
+    },
+    {
+      "key": "brand",
+      "value": "Kormányablak",
+      "description": "[Q140984027] Q140984027",
+      "doc_url": "http://www.wikidata.org/entity/Q140984027#P1282"
     },
     {
       "key": "brand",
@@ -2730,18 +2742,6 @@
     {
       "key": "bridge:structure",
       "value": "simple-suspension",
-      "description": "[Q135723370] Zweiseilbrücke",
-      "doc_url": "http://www.wikidata.org/entity/Q135723370#P1282"
-    },
-    {
-      "key": "bridge:structure",
-      "value": "simple-suspension",
-      "description": "[Q135723593] Dreiseilbrücke",
-      "doc_url": "http://www.wikidata.org/entity/Q135723593#P1282"
-    },
-    {
-      "key": "bridge:structure",
-      "value": "simple-suspension",
       "description": "[Q3916505] simple suspension bridge",
       "doc_url": "http://www.wikidata.org/entity/Q3916505#P1282"
     },
@@ -2804,18 +2804,6 @@
       "value": "viaduct",
       "description": "[Q181348] viaduct",
       "doc_url": "http://www.wikidata.org/entity/Q181348#P1282"
-    },
-    {
-      "key": "bridge",
-      "value": "yes",
-      "description": "[Q135723370] Zweiseilbrücke",
-      "doc_url": "http://www.wikidata.org/entity/Q135723370#P1282"
-    },
-    {
-      "key": "bridge",
-      "value": "yes",
-      "description": "[Q135723593] Dreiseilbrücke",
-      "doc_url": "http://www.wikidata.org/entity/Q135723593#P1282"
     },
     {
       "key": "bridge",
@@ -3227,6 +3215,12 @@
       "value": "spanish_colonial",
       "description": "[Q12069738] Spanish Colonial architecture",
       "doc_url": "http://www.wikidata.org/entity/Q12069738#P1282"
+    },
+    {
+      "key": "building:architecture",
+      "value": "spanish_revival",
+      "description": "[Q3645460] Spanish Colonial Revival architecture",
+      "doc_url": "http://www.wikidata.org/entity/Q3645460#P1282"
     },
     {
       "key": "building:architecture",
@@ -4002,13 +3996,13 @@
     {
       "key": "cable_number",
       "value": "2",
-      "description": "[Q135723370] Zweiseilbrücke",
+      "description": "[Q135723370] two-cable bridge",
       "doc_url": "http://www.wikidata.org/entity/Q135723370#P1282"
     },
     {
       "key": "cable_number",
       "value": "3",
-      "description": "[Q135723593] Dreiseilbrücke",
+      "description": "[Q135723593] three-cable bridge",
       "doc_url": "http://www.wikidata.org/entity/Q135723593#P1282"
     },
     {
@@ -4227,6 +4221,12 @@
       "key": "check_date",
       "description": "[P813] retrieved",
       "doc_url": "http://www.wikidata.org/entity/P813#P13786"
+    },
+    {
+      "key": "checkpoint",
+      "value": "hiking",
+      "description": "[Q141003337] hiking checkpoint",
+      "doc_url": "http://www.wikidata.org/entity/Q141003337#P1282"
     },
     {
       "key": "circumference",
@@ -5830,8 +5830,8 @@
     {
       "key": "cuisine",
       "value": "hot_dog",
-      "description": "[Q126895161] fast-food hot dog restaurant",
-      "doc_url": "http://www.wikidata.org/entity/Q126895161#P1282"
+      "description": "[Q11996675] hot dog stand",
+      "doc_url": "http://www.wikidata.org/entity/Q11996675#P1282"
     },
     {
       "key": "cuisine",
@@ -11643,12 +11643,6 @@
     },
     {
       "key": "landuse",
-      "value": "basin",
-      "description": "[Q813672] basin",
-      "doc_url": "http://www.wikidata.org/entity/Q813672#P1282"
-    },
-    {
-      "key": "landuse",
       "value": "brownfield",
       "description": "[Q896586] brownfield land",
       "doc_url": "http://www.wikidata.org/entity/Q896586#P1282"
@@ -12771,6 +12765,12 @@
       "value": "flagpole",
       "description": "[Q1971570] flagpole",
       "doc_url": "http://www.wikidata.org/entity/Q1971570#P1282"
+    },
+    {
+      "key": "man_made",
+      "value": "gantry",
+      "description": "[Q2235510] gantry",
+      "doc_url": "http://www.wikidata.org/entity/Q2235510#P1282"
     },
     {
       "key": "man_made",
@@ -18702,6 +18702,12 @@
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/BANCOMAT%20Logo%202024.svg"
     },
     {
+      "key": "payment:bancontact",
+      "description": "[Q1872365] Bancontact",
+      "doc_url": "http://www.wikidata.org/entity/Q1872365#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bancontact%20logo%202021.svg"
+    },
+    {
       "key": "payment:bankaxept",
       "description": "[Q17749859] BankAxept",
       "doc_url": "http://www.wikidata.org/entity/Q17749859#P13786",
@@ -18901,6 +18907,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q249400#P13786"
     },
     {
+      "key": "payment:payconiq",
+      "description": "[Q30666440] Payconiq",
+      "doc_url": "http://www.wikidata.org/entity/Q30666440#P13786"
+    },
+    {
       "key": "payment:paypal",
       "description": "[Q483959] PayPal",
       "doc_url": "http://www.wikidata.org/entity/Q483959#P13786",
@@ -19023,6 +19034,12 @@
       "description": "[Q59426035] WeChat Pay",
       "doc_url": "http://www.wikidata.org/entity/Q59426035#P13786",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/WeChat%20Pay.png"
+    },
+    {
+      "key": "payment:wero",
+      "description": "[Q126889122] Wero",
+      "doc_url": "http://www.wikidata.org/entity/Q126889122#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wero%20logo.svg"
     },
     {
       "key": "payment:wic",
@@ -20699,6 +20716,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q1150451#P13786"
     },
     {
+      "key": "railway:electricity",
+      "value": "joint",
+      "description": "[Q2060002] section separator",
+      "doc_url": "http://www.wikidata.org/entity/Q2060002#P1282"
+    },
+    {
       "key": "railway:etcs",
       "description": "[Q604804] European Train Control System",
       "doc_url": "http://www.wikidata.org/entity/Q604804#P13786"
@@ -21495,24 +21518,6 @@
       "value": "rail",
       "description": "[Q160342] railway track",
       "doc_url": "http://www.wikidata.org/entity/Q160342#P1282"
-    },
-    {
-      "key": "railway",
-      "value": "rail_ramp",
-      "description": "[Q139831762] loading ramp for narrow gauge vehicles",
-      "doc_url": "http://www.wikidata.org/entity/Q139831762#P1282"
-    },
-    {
-      "key": "railway",
-      "value": "rail_ramp",
-      "description": "[Q139832131] road trailer rail-ramp",
-      "doc_url": "http://www.wikidata.org/entity/Q139832131#P1282"
-    },
-    {
-      "key": "railway",
-      "value": "rail_ramp",
-      "description": "[Q139853754] road trailer rail-ramp (mobile)",
-      "doc_url": "http://www.wikidata.org/entity/Q139853754#P1282"
     },
     {
       "key": "railway",
@@ -26608,6 +26613,12 @@
       "value": "chalet",
       "description": "[Q1371789] vacation home",
       "doc_url": "http://www.wikidata.org/entity/Q1371789#P1282"
+    },
+    {
+      "key": "tourism",
+      "value": "checkpoint",
+      "description": "[Q141003337] hiking checkpoint",
+      "doc_url": "http://www.wikidata.org/entity/Q141003337#P1282"
     },
     {
       "key": "tourism",
