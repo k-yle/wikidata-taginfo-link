@@ -2587,6 +2587,20 @@
       "doc_url": "http://www.wikidata.org/entity/Q140984027#P1282"
     },
     {
+      "key": "brand:wikidata",
+      "value": "Q145614",
+      "description": "[Q145614] Magyar Posta",
+      "doc_url": "http://www.wikidata.org/entity/Q145614#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Magyar%20Posta%20logo.svg"
+    },
+    {
+      "key": "brand:wikipedia",
+      "value": "hu:Magyar Posta Zrt.",
+      "description": "[Q145614] Magyar Posta",
+      "doc_url": "http://www.wikidata.org/entity/Q145614#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Magyar%20Posta%20logo.svg"
+    },
+    {
       "key": "brand",
       "value": "Eroski",
       "description": "[Q1361349] Eroski",
@@ -2619,6 +2633,13 @@
       "description": "[Q1659681] Louis Motorcycle",
       "doc_url": "http://www.wikidata.org/entity/Q1659681#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Logo%202023.svg"
+    },
+    {
+      "key": "brand",
+      "value": "Magyar_Posta",
+      "description": "[Q145614] Magyar Posta",
+      "doc_url": "http://www.wikidata.org/entity/Q145614#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Magyar%20Posta%20logo.svg"
     },
     {
       "key": "brand",
@@ -6078,6 +6099,12 @@
       "value": "sandwich",
       "description": "[Q28803] sandwich",
       "doc_url": "http://www.wikidata.org/entity/Q28803#P1282"
+    },
+    {
+      "key": "cuisine",
+      "value": "savory_pancakes",
+      "description": "[Q141044340] okonomiyaki restaurant",
+      "doc_url": "http://www.wikidata.org/entity/Q141044340#P1282"
     },
     {
       "key": "cuisine",
@@ -18492,6 +18519,13 @@
       "doc_url": "http://www.wikidata.org/entity/P137#P13786"
     },
     {
+      "key": "operator:wikidata",
+      "value": "Q145614",
+      "description": "[Q145614] Magyar Posta",
+      "doc_url": "http://www.wikidata.org/entity/Q145614#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Magyar%20Posta%20logo.svg"
+    },
+    {
       "key": "organic",
       "description": "[Q10480676] organic product",
       "doc_url": "http://www.wikidata.org/entity/Q10480676#P13786"
@@ -21134,6 +21168,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q135713864#P1282"
     },
     {
+      "key": "railway:signal:stop_demand",
+      "value": "CH-FDV:566",
+      "description": "[Q141052335] Bedarfshalt",
+      "doc_url": "http://www.wikidata.org/entity/Q141052335#P1282"
+    },
+    {
       "key": "railway:signal:train_protection",
       "value": "DE-BOStrab:so2",
       "description": "[Q125938870] So 2",
@@ -21630,7 +21670,7 @@
     {
       "key": "railway",
       "value": "turntable",
-      "description": "[Q730493] Railway turntable",
+      "description": "[Q730493] railway turntable",
       "doc_url": "http://www.wikidata.org/entity/Q730493#P1282"
     },
     {
