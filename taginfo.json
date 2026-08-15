@@ -5425,6 +5425,12 @@
     },
     {
       "key": "created_by",
+      "value": "Osm.Org Tags Editor",
+      "description": "[Q125140943] OpenStreetMap Tags Editor",
+      "doc_url": "http://www.wikidata.org/entity/Q125140943#P1282"
+    },
+    {
+      "key": "created_by",
       "value": "gnome-maps_3.33.3",
       "description": "[Q15968492] GNOME Maps",
       "doc_url": "http://www.wikidata.org/entity/Q15968492#P1282",
@@ -6159,6 +6165,12 @@
       "value": "taiwanese",
       "description": "[Q114839225] Taiwanese restaurant",
       "doc_url": "http://www.wikidata.org/entity/Q114839225#P1282"
+    },
+    {
+      "key": "cuisine",
+      "value": "tapas",
+      "description": "[Q141065094] tapas bar",
+      "doc_url": "http://www.wikidata.org/entity/Q141065094#P1282"
     },
     {
       "key": "cuisine",
