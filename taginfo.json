@@ -22215,6 +22215,11 @@
     },
     {
       "key": "ref:grillplatser.nu",
+      "description": "[P14728] Grillplatser.nu ID",
+      "doc_url": "http://www.wikidata.org/entity/P14728#P13786"
+    },
+    {
+      "key": "ref:grillplatser.nu",
       "description": "[Q120778083] grillplatser.nu",
       "doc_url": "http://www.wikidata.org/entity/Q120778083#P13786"
     },
@@ -27434,7 +27439,7 @@
     {
       "key": "water",
       "value": "pond",
-      "description": "[Q3253281] artificial pond",
+      "description": "[Q3253281] pond",
       "doc_url": "http://www.wikidata.org/entity/Q3253281#P1282"
     },
     {
