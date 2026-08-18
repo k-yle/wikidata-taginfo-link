@@ -5598,6 +5598,12 @@
     },
     {
       "key": "cuisine",
+      "value": "african",
+      "description": "[Q141103458] african restaurant",
+      "doc_url": "http://www.wikidata.org/entity/Q141103458#P1282"
+    },
+    {
+      "key": "cuisine",
       "value": "american",
       "description": "[Q126207637] American restaurant",
       "doc_url": "http://www.wikidata.org/entity/Q126207637#P1282"
@@ -21922,6 +21928,11 @@
       "key": "ref:BG:neispuo",
       "description": "[P9034] BG School ID",
       "doc_url": "http://www.wikidata.org/entity/P9034#P13786"
+    },
+    {
+      "key": "ref:BG:rhm_sofia",
+      "description": "[P14797] Sofia monuments register ID",
+      "doc_url": "http://www.wikidata.org/entity/P14797#P13786"
     },
     {
       "key": "ref:EGID",
