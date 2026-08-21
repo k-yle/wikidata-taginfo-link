@@ -3540,6 +3540,12 @@
     },
     {
       "key": "building",
+      "value": "fire_station",
+      "description": "[Q1195942] fire station",
+      "doc_url": "http://www.wikidata.org/entity/Q1195942#P1282"
+    },
+    {
+      "key": "building",
       "value": "font",
       "description": "[Q210077] baptistery",
       "doc_url": "http://www.wikidata.org/entity/Q210077#P1282"
@@ -6272,6 +6278,17 @@
       "description": "[Q131723] Bitcoin",
       "doc_url": "http://www.wikidata.org/entity/Q131723#P13786",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin.svg"
+    },
+    {
+      "key": "currency:XLT",
+      "description": "[Q153564] complementary currency",
+      "doc_url": "http://www.wikidata.org/entity/Q153564#P13786"
+    },
+    {
+      "key": "currency:XLT",
+      "value": "ZINN",
+      "description": "[Q116908124] zinne",
+      "doc_url": "http://www.wikidata.org/entity/Q116908124#P1282"
     },
     {
       "key": "currency:XTZ",
@@ -18944,6 +18961,11 @@
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Xiaomi%20logo.svg"
     },
     {
+      "key": "payment:mobib",
+      "description": "[Q3317534] MoBIB",
+      "doc_url": "http://www.wikidata.org/entity/Q3317534#P13786"
+    },
+    {
       "key": "payment:nc_quick_pass",
       "description": "[Q99110458] NC Quick Pass",
       "doc_url": "http://www.wikidata.org/entity/Q99110458#P13786"
@@ -27470,6 +27492,11 @@
       "value": "reservoir",
       "description": "[Q3215290] artificial lake",
       "doc_url": "http://www.wikidata.org/entity/Q3215290#P1282"
+    },
+    {
+      "key": "watermill",
+      "description": "[Q185187] watermill",
+      "doc_url": "http://www.wikidata.org/entity/Q185187#P13786"
     },
     {
       "key": "waterway",
