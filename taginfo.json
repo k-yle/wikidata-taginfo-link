@@ -1631,6 +1631,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q11412052#P1282"
     },
     {
+      "key": "amphoe",
+      "description": "[Q475061] amphoe",
+      "doc_url": "http://www.wikidata.org/entity/Q475061#P13786"
+    },
+    {
       "key": "animal",
       "value": "horse_walker",
       "description": "[Q1480673] horse walker",
@@ -7764,6 +7769,11 @@
       "value": "yes",
       "description": "[Q1259350] drive-in restaurant",
       "doc_url": "http://www.wikidata.org/entity/Q1259350#P1282"
+    },
+    {
+      "key": "edinburgh_fringe",
+      "description": "[Q368176] Edinburgh Festival Fringe",
+      "doc_url": "http://www.wikidata.org/entity/Q368176#P13786"
     },
     {
       "key": "education",
@@ -16692,6 +16702,12 @@
     },
     {
       "key": "network",
+      "value": "US:BIA:AZ",
+      "description": "[Q141144891] Indian routes in Arizona",
+      "doc_url": "http://www.wikidata.org/entity/Q141144891#P1282"
+    },
+    {
+      "key": "network",
       "value": "US:CA",
       "description": "[Q97400332] California state routes",
       "doc_url": "http://www.wikidata.org/entity/Q97400332#P1282"
@@ -22145,11 +22161,6 @@
       "key": "ref:admin:CN:mca",
       "description": "[Q4683503] MCA division code in PRC",
       "doc_url": "http://www.wikidata.org/entity/Q4683503#P13786"
-    },
-    {
-      "key": "ref:admin:CN:nbs",
-      "description": "[P442] China division code for Statistics",
-      "doc_url": "http://www.wikidata.org/entity/P442#P13786"
     },
     {
       "key": "ref:admin:CN:nbs",
