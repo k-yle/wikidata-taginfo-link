@@ -8327,6 +8327,13 @@
       "doc_url": "http://www.wikidata.org/entity/Q941871#P13786"
     },
     {
+      "key": "fitness_station",
+      "value": "parallel_bars",
+      "description": "[Q692104] parallel bars",
+      "doc_url": "http://www.wikidata.org/entity/Q692104#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Barres%20parall%C3%A8les.svg"
+    },
+    {
       "key": "fixme",
       "description": "[Q994972] FIXME",
       "doc_url": "http://www.wikidata.org/entity/Q994972#P13786"
@@ -9874,13 +9881,6 @@
       "value": "doctor",
       "description": "[Q718966] doctor's office",
       "doc_url": "http://www.wikidata.org/entity/Q718966#P1282"
-    },
-    {
-      "key": "healthcare",
-      "value": "doctor",
-      "description": "[Q39631] physician",
-      "doc_url": "http://www.wikidata.org/entity/Q39631#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/P%20medicina.svg"
     },
     {
       "key": "healthcare",
@@ -16696,9 +16696,8 @@
     {
       "key": "network",
       "value": "US:BIA",
-      "description": "[Q2432617] Indian Reservation Roads Program",
-      "doc_url": "http://www.wikidata.org/entity/Q2432617#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Federal%20Lands%20Highway%20Program.png"
+      "description": "[Q141150264] Bureau of Indian Affairs Road System",
+      "doc_url": "http://www.wikidata.org/entity/Q141150264#P1282"
     },
     {
       "key": "network",
@@ -19880,6 +19879,13 @@
       "value": "musical_instrument",
       "description": "[Q1186958] dendrophone",
       "doc_url": "http://www.wikidata.org/entity/Q1186958#P1282"
+    },
+    {
+      "key": "playground",
+      "value": "parallel_bars",
+      "description": "[Q692104] parallel bars",
+      "doc_url": "http://www.wikidata.org/entity/Q692104#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Barres%20parall%C3%A8les.svg"
     },
     {
       "key": "playground",
