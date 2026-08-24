@@ -1326,6 +1326,12 @@
     },
     {
       "key": "amenity",
+      "value": "reception_desk",
+      "description": "[Q2794937] service counter",
+      "doc_url": "http://www.wikidata.org/entity/Q2794937#P1282"
+    },
+    {
+      "key": "amenity",
       "value": "recycling",
       "description": "[Q10270100] recycling drop-off location",
       "doc_url": "http://www.wikidata.org/entity/Q10270100#P1282"
@@ -4059,6 +4065,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q455644#P13786"
     },
     {
+      "key": "camp_site",
+      "value": "reception",
+      "description": "[Q2794937] service counter",
+      "doc_url": "http://www.wikidata.org/entity/Q2794937#P1282"
+    },
+    {
       "key": "campwild",
       "description": "[Q107041232] campwild",
       "doc_url": "http://www.wikidata.org/entity/Q107041232#P13786"
@@ -4110,6 +4122,12 @@
       "key": "caravan",
       "description": "[Q216040] travel trailer",
       "doc_url": "http://www.wikidata.org/entity/Q216040#P13786"
+    },
+    {
+      "key": "caravan_site",
+      "value": "reception",
+      "description": "[Q2794937] service counter",
+      "doc_url": "http://www.wikidata.org/entity/Q2794937#P1282"
     },
     {
       "key": "cargo",
@@ -5864,6 +5882,12 @@
       "value": "greek",
       "description": "[Q744027] Greek cuisine",
       "doc_url": "http://www.wikidata.org/entity/Q744027#P1282"
+    },
+    {
+      "key": "cuisine",
+      "value": "grill",
+      "description": "[Q141158073] grillhouse",
+      "doc_url": "http://www.wikidata.org/entity/Q141158073#P1282"
     },
     {
       "key": "cuisine",
@@ -10990,6 +11014,12 @@
       "value": "millstone",
       "description": "[Q670985] millstone",
       "doc_url": "http://www.wikidata.org/entity/Q670985#P1282"
+    },
+    {
+      "key": "historic",
+      "value": "minecart",
+      "description": "[Q3644569] mining cart",
+      "doc_url": "http://www.wikidata.org/entity/Q3644569#P1282"
     },
     {
       "key": "historic",
@@ -21236,16 +21266,22 @@
       "doc_url": "http://www.wikidata.org/entity/Q141052335#P1282"
     },
     {
+      "key": "railway:signal:train_protection:main",
+      "value": "ETCS:location_marker",
+      "description": "[Q73044431] ETCS Location Marker",
+      "doc_url": "http://www.wikidata.org/entity/Q73044431#P1282"
+    },
+    {
+      "key": "railway:signal:train_protection:main",
+      "value": "ETCS:stop_marker",
+      "description": "[Q60982147] ETCS Stop Marker",
+      "doc_url": "http://www.wikidata.org/entity/Q60982147#P1282"
+    },
+    {
       "key": "railway:signal:train_protection",
       "value": "DE-BOStrab:so2",
       "description": "[Q125938870] So 2",
       "doc_url": "http://www.wikidata.org/entity/Q125938870#P1282"
-    },
-    {
-      "key": "railway:signal:train_protection",
-      "value": "DE-ESO:ne14",
-      "description": "[Q60982147] ETCS Stop Marker",
-      "doc_url": "http://www.wikidata.org/entity/Q60982147#P1282"
     },
     {
       "key": "railway:signal:traversable",
