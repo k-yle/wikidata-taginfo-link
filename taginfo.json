@@ -2132,7 +2132,7 @@
     {
       "key": "barrier",
       "value": "kerb",
-      "description": "[Q37442] curb",
+      "description": "[Q37442] obrubníky",
       "doc_url": "http://www.wikidata.org/entity/Q37442#P1282"
     },
     {
@@ -4919,7 +4919,7 @@
     },
     {
       "key": "contact:foursquare",
-      "description": "[P1968] Foursquare City Guide venue ID",
+      "description": "[P1968] Foursquare ID",
       "doc_url": "http://www.wikidata.org/entity/P1968#P13786"
     },
     {
@@ -11624,7 +11624,7 @@
     },
     {
       "key": "kerb",
-      "description": "[Q37442] curb",
+      "description": "[Q37442] obrubníky",
       "doc_url": "http://www.wikidata.org/entity/Q37442#P13786"
     },
     {
@@ -18392,7 +18392,7 @@
     {
       "key": "office",
       "value": "telecommunication",
-      "description": "[Q2401749] telecommunication company",
+      "description": "[Q2401749] telecommunications company",
       "doc_url": "http://www.wikidata.org/entity/Q2401749#P1282"
     },
     {
