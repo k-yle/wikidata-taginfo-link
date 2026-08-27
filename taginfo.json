@@ -12,6 +12,11 @@
   },
   "tags": [
     {
+      "key": "4616608490",
+      "description": "[Q141187056] Ifang",
+      "doc_url": "http://www.wikidata.org/entity/Q141187056#P1282"
+    },
+    {
       "key": "4wd_only",
       "description": "[Q214833] four-wheel drive",
       "doc_url": "http://www.wikidata.org/entity/Q214833#P13786"
@@ -3067,6 +3072,12 @@
       "value": "mediterranean_revival",
       "description": "[Q7937337] Mediterranean Revival architecture",
       "doc_url": "http://www.wikidata.org/entity/Q7937337#P1282"
+    },
+    {
+      "key": "building:architecture",
+      "value": "mission_revival",
+      "description": "[Q2700522] Mission Revival architecture",
+      "doc_url": "http://www.wikidata.org/entity/Q2700522#P1282"
     },
     {
       "key": "building:architecture",
@@ -14806,8 +14817,14 @@
     {
       "key": "network",
       "value": "AL:A",
-      "description": "[Q60756474] motorways in Albania",
+      "description": "[Q60756474] Motorways in Albania",
       "doc_url": "http://www.wikidata.org/entity/Q60756474#P1282"
+    },
+    {
+      "key": "network",
+      "value": "AL:SH",
+      "description": "[Q140378212] State routes in Albania",
+      "doc_url": "http://www.wikidata.org/entity/Q140378212#P1282"
     },
     {
       "key": "network",
@@ -22986,6 +23003,12 @@
       "value": "vacuum",
       "description": "[Q168577] robotic vacuum cleaner",
       "doc_url": "http://www.wikidata.org/entity/Q168577#P1282"
+    },
+    {
+      "key": "roof:material",
+      "value": "thatch",
+      "description": "[Q874531] thatched roof",
+      "doc_url": "http://www.wikidata.org/entity/Q874531#P1282"
     },
     {
       "key": "roof:shape",
