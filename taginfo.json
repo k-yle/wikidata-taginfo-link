@@ -2625,6 +2625,12 @@
     },
     {
       "key": "brand",
+      "value": "Grand Litier",
+      "description": "[Q140810156] Grand Litier",
+      "doc_url": "http://www.wikidata.org/entity/Q140810156#P1282"
+    },
+    {
+      "key": "brand",
       "value": "Harley-Davidson",
       "description": "[Q192814] Harley-Davidson",
       "doc_url": "http://www.wikidata.org/entity/Q192814#P1282",
@@ -11955,12 +11961,6 @@
     {
       "key": "landuse",
       "value": "residential",
-      "description": "[Q12104567] housing estate",
-      "doc_url": "http://www.wikidata.org/entity/Q12104567#P1282"
-    },
-    {
-      "key": "landuse",
-      "value": "residential",
       "description": "[Q674950] residential area",
       "doc_url": "http://www.wikidata.org/entity/Q674950#P1282"
     },
@@ -12866,6 +12866,12 @@
       "value": "cutline",
       "description": "[Q487843] cutline",
       "doc_url": "http://www.wikidata.org/entity/Q487843#P1282"
+    },
+    {
+      "key": "man_made",
+      "value": "desalination_plant",
+      "description": "[Q51932686] desalination plant",
+      "doc_url": "http://www.wikidata.org/entity/Q51932686#P1282"
     },
     {
       "key": "man_made",
@@ -27730,6 +27736,11 @@
       "key": "website",
       "description": "[Q35127] website",
       "doc_url": "http://www.wikidata.org/entity/Q35127#P13786"
+    },
+    {
+      "key": "website:orders",
+      "description": "[P10225] official shop URL",
+      "doc_url": "http://www.wikidata.org/entity/P10225#P13786"
     },
     {
       "key": "weighbridge",
