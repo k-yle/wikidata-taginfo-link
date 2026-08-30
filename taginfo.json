@@ -3207,6 +3207,12 @@
     },
     {
       "key": "building:architecture",
+      "value": "pueblo_revival",
+      "description": "[Q7258468] Pueblo Revival Style architecture",
+      "doc_url": "http://www.wikidata.org/entity/Q7258468#P1282"
+    },
+    {
+      "key": "building:architecture",
       "value": "queen_anne",
       "description": "[Q529819] Queen Anne style",
       "doc_url": "http://www.wikidata.org/entity/Q529819#P1282"
@@ -6789,7 +6795,7 @@
     {
       "key": "denomination",
       "value": "hasidic",
-      "description": "[Q171201] Hasidism",
+      "description": "[Q171201] Hasidic Judaism",
       "doc_url": "http://www.wikidata.org/entity/Q171201#P1282"
     },
     {
