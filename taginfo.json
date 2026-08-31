@@ -714,14 +714,8 @@
     {
       "key": "amenity",
       "value": "clock",
-      "description": "[Q188298] turret clock",
-      "doc_url": "http://www.wikidata.org/entity/Q188298#P1282"
-    },
-    {
-      "key": "amenity",
-      "value": "clock",
-      "description": "[Q376] clock",
-      "doc_url": "http://www.wikidata.org/entity/Q376#P1282"
+      "description": "[Q129165885] public clock",
+      "doc_url": "http://www.wikidata.org/entity/Q129165885#P1282"
     },
     {
       "key": "amenity",
@@ -2937,6 +2931,12 @@
     },
     {
       "key": "building:architecture",
+      "value": "brutalist",
+      "description": "[Q994776] brutalist architecture",
+      "doc_url": "http://www.wikidata.org/entity/Q994776#P1282"
+    },
+    {
+      "key": "building:architecture",
       "value": "byzantine",
       "description": "[Q47591] Byzantine architecture",
       "doc_url": "http://www.wikidata.org/entity/Q47591#P1282"
@@ -2982,6 +2982,12 @@
       "value": "federal",
       "description": "[Q1400086] Federal architecture",
       "doc_url": "http://www.wikidata.org/entity/Q1400086#P1282"
+    },
+    {
+      "key": "building:architecture",
+      "value": "french_provincial",
+      "description": "[Q113158860] French provincial architecture",
+      "doc_url": "http://www.wikidata.org/entity/Q113158860#P1282"
     },
     {
       "key": "building:architecture",
@@ -3156,6 +3162,12 @@
       "value": "neoclassicism",
       "description": "[Q54111] Neoclassical architecture",
       "doc_url": "http://www.wikidata.org/entity/Q54111#P1282"
+    },
+    {
+      "key": "building:architecture",
+      "value": "new_formalism",
+      "description": "[Q18746504] New Formalism",
+      "doc_url": "http://www.wikidata.org/entity/Q18746504#P1282"
     },
     {
       "key": "building:architecture",
@@ -23443,12 +23455,6 @@
       "value": "production_area",
       "description": "[Q1357601] offshore wind farm",
       "doc_url": "http://www.wikidata.org/entity/Q1357601#P1282"
-    },
-    {
-      "key": "seamark:type",
-      "value": "rock",
-      "description": "[Q8063] rock",
-      "doc_url": "http://www.wikidata.org/entity/Q8063#P1282"
     },
     {
       "key": "seamark:virtual_aton:mmsi",
