@@ -2131,7 +2131,7 @@
     {
       "key": "barrier",
       "value": "kerb",
-      "description": "[Q37442] obrubníky",
+      "description": "[Q37442] curb",
       "doc_url": "http://www.wikidata.org/entity/Q37442#P1282"
     },
     {
@@ -11659,7 +11659,7 @@
     },
     {
       "key": "kerb",
-      "description": "[Q37442] obrubníky",
+      "description": "[Q37442] curb",
       "doc_url": "http://www.wikidata.org/entity/Q37442#P13786"
     },
     {
@@ -18638,6 +18638,12 @@
       "key": "operator:wikidata",
       "description": "[P137] operator",
       "doc_url": "http://www.wikidata.org/entity/P137#P13786"
+    },
+    {
+      "key": "operator:wikidata",
+      "value": "Q108169094",
+      "description": "[Q108169094] Nemzeti Útdíjfizetési Szolgáltató",
+      "doc_url": "http://www.wikidata.org/entity/Q108169094#P1282"
     },
     {
       "key": "operator:wikidata",
