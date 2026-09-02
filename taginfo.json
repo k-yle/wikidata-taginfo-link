@@ -3051,6 +3051,12 @@
     },
     {
       "key": "building:architecture",
+      "value": "hollywood_regency",
+      "description": "[Q25312912] Hollywood Regency",
+      "doc_url": "http://www.wikidata.org/entity/Q25312912#P1282"
+    },
+    {
+      "key": "building:architecture",
       "value": "international_style",
       "description": "[Q162324] International Style",
       "doc_url": "http://www.wikidata.org/entity/Q162324#P1282"
@@ -3090,6 +3096,12 @@
       "value": "mission_revival",
       "description": "[Q2700522] Mission Revival architecture",
       "doc_url": "http://www.wikidata.org/entity/Q2700522#P1282"
+    },
+    {
+      "key": "building:architecture",
+      "value": "monterey_revival",
+      "description": "[Q141250266] Monterey Revival Architecture",
+      "doc_url": "http://www.wikidata.org/entity/Q141250266#P1282"
     },
     {
       "key": "building:architecture",
@@ -12959,12 +12971,6 @@
     },
     {
       "key": "man_made",
-      "value": "launch_pad",
-      "description": "[Q1353183] launch pad",
-      "doc_url": "http://www.wikidata.org/entity/Q1353183#P1282"
-    },
-    {
-      "key": "man_made",
       "value": "lighthouse",
       "description": "[Q39715] lighthouse",
       "doc_url": "http://www.wikidata.org/entity/Q39715#P1282"
@@ -14362,6 +14368,11 @@
       "key": "name:nl",
       "description": "[Q7411] Dutch",
       "doc_url": "http://www.wikidata.org/entity/Q7411#P13786"
+    },
+    {
+      "key": "name:nl-BE",
+      "description": "[Q1404296] Belgian Dutch",
+      "doc_url": "http://www.wikidata.org/entity/Q1404296#P13786"
     },
     {
       "key": "name:nl-NL",
@@ -22725,7 +22736,7 @@
     {
       "key": "religion",
       "value": "muslim",
-      "description": "[Q432] Islam",
+      "description": "[Q432] Islām",
       "doc_url": "http://www.wikidata.org/entity/Q432#P1282"
     },
     {
