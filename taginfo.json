@@ -3093,6 +3093,12 @@
     },
     {
       "key": "building:architecture",
+      "value": "midcentury_modern",
+      "description": "[Q6840667] mid-century modern",
+      "doc_url": "http://www.wikidata.org/entity/Q6840667#P1282"
+    },
+    {
+      "key": "building:architecture",
       "value": "mission_revival",
       "description": "[Q2700522] Mission Revival architecture",
       "doc_url": "http://www.wikidata.org/entity/Q2700522#P1282"
@@ -3261,6 +3267,12 @@
     },
     {
       "key": "building:architecture",
+      "value": "richardsonian_romanesque",
+      "description": "[Q3501297] Richardsonian Romanesque",
+      "doc_url": "http://www.wikidata.org/entity/Q3501297#P1282"
+    },
+    {
+      "key": "building:architecture",
       "value": "rococo",
       "description": "[Q122960] Rococo",
       "doc_url": "http://www.wikidata.org/entity/Q122960#P1282"
@@ -3282,6 +3294,12 @@
       "value": "russian_revival",
       "description": "[Q2026876] Russian Revival architecture",
       "doc_url": "http://www.wikidata.org/entity/Q2026876#P1282"
+    },
+    {
+      "key": "building:architecture",
+      "value": "saltbox",
+      "description": "[Q7080212] saltbox",
+      "doc_url": "http://www.wikidata.org/entity/Q7080212#P1282"
     },
     {
       "key": "building:architecture",
@@ -16753,6 +16771,12 @@
     },
     {
       "key": "network",
+      "value": "US:AZ:Indian",
+      "description": "[Q141144891] Indian routes in Arizona",
+      "doc_url": "http://www.wikidata.org/entity/Q141144891#P1282"
+    },
+    {
+      "key": "network",
       "value": "US:AZ:Maricopa",
       "description": "[Q140234163] Maricopa County routes",
       "doc_url": "http://www.wikidata.org/entity/Q140234163#P1282"
@@ -16780,12 +16804,6 @@
       "value": "US:BIA",
       "description": "[Q141150264] Bureau of Indian Affairs Road System",
       "doc_url": "http://www.wikidata.org/entity/Q141150264#P1282"
-    },
-    {
-      "key": "network",
-      "value": "US:BIA:AZ",
-      "description": "[Q141144891] Indian routes in Arizona",
-      "doc_url": "http://www.wikidata.org/entity/Q141144891#P1282"
     },
     {
       "key": "network",
@@ -17371,6 +17389,12 @@
       "value": "US:NY:Thruway",
       "description": "[Q736574] New York State Thruway",
       "doc_url": "http://www.wikidata.org/entity/Q736574#P1282"
+    },
+    {
+      "key": "network",
+      "value": "US:Navajo",
+      "description": "[Q141155104] Navajo Routes",
+      "doc_url": "http://www.wikidata.org/entity/Q141155104#P1282"
     },
     {
       "key": "network",
@@ -18847,11 +18871,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q138732463#P13786"
     },
     {
-      "key": "payment:OV-Chipkaart",
-      "description": "[Q2550595] OV-chipkaart",
-      "doc_url": "http://www.wikidata.org/entity/Q2550595#P13786"
-    },
-    {
       "key": "payment:alipay",
       "description": "[Q493556] Alipay",
       "doc_url": "http://www.wikidata.org/entity/Q493556#P13786"
@@ -19077,6 +19096,11 @@
       "key": "payment:opus",
       "description": "[Q2940463] OPUS card",
       "doc_url": "http://www.wikidata.org/entity/Q2940463#P13786"
+    },
+    {
+      "key": "payment:ov-chipkaart",
+      "description": "[Q2550595] OV-chipkaart",
+      "doc_url": "http://www.wikidata.org/entity/Q2550595#P13786"
     },
     {
       "key": "payment:oyster",
