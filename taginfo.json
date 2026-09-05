@@ -469,11 +469,6 @@
     },
     {
       "key": "amenity",
-      "description": "[P912] has facility",
-      "doc_url": "http://www.wikidata.org/entity/P912#P13786"
-    },
-    {
-      "key": "amenity",
       "description": "[Q13226383] facility",
       "doc_url": "http://www.wikidata.org/entity/Q13226383#P13786"
     },
@@ -19091,6 +19086,12 @@
       "key": "payment:nc_quick_pass",
       "description": "[Q99110458] NC Quick Pass",
       "doc_url": "http://www.wikidata.org/entity/Q99110458#P13786"
+    },
+    {
+      "key": "payment:omny",
+      "description": "[Q64223567] OMNY",
+      "doc_url": "http://www.wikidata.org/entity/Q64223567#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/OMNY%20logo.svg"
     },
     {
       "key": "payment:opus",
