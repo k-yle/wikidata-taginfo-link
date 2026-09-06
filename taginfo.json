@@ -6856,7 +6856,7 @@
     {
       "key": "denomination",
       "value": "iglesia_ni_cristo",
-      "description": "[Q1138908] Iglesia Ni Manalo",
+      "description": "[Q1138908] Iglesia ni Cristo",
       "doc_url": "http://www.wikidata.org/entity/Q1138908#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Iglesia%20ni%20Cristo%20flag.svg"
     },
@@ -23257,7 +23257,7 @@
     {
       "key": "route",
       "value": "tracks",
-      "description": "[Q728937] railway line",
+      "description": "[Q728937] railway line/metro line",
       "doc_url": "http://www.wikidata.org/entity/Q728937#P1282"
     },
     {
@@ -24726,12 +24726,6 @@
       "value": "wool",
       "description": "[Q117557960] yarn shop",
       "doc_url": "http://www.wikidata.org/entity/Q117557960#P1282"
-    },
-    {
-      "key": "shop",
-      "value": "yes",
-      "description": "[Q213441] shop",
-      "doc_url": "http://www.wikidata.org/entity/Q213441#P1282"
     },
     {
       "key": "shop",
