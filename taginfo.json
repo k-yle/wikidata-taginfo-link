@@ -4704,6 +4704,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q58897583#P13786"
     },
     {
+      "key": "communication:amateur_radio:callsign",
+      "description": "[Q455644] amateur radio call sign",
+      "doc_url": "http://www.wikidata.org/entity/Q455644#P13786"
+    },
+    {
       "key": "communication:bos",
       "description": "[Q796868] BOS-Funk",
       "doc_url": "http://www.wikidata.org/entity/Q796868#P13786"
