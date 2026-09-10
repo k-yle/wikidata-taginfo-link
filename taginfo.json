@@ -10818,7 +10818,7 @@
     {
       "key": "historic:period",
       "value": "jomon",
-      "description": "[Q52824] Central Bicol",
+      "description": "[Q52824] Zyômon zidai",
       "doc_url": "http://www.wikidata.org/entity/Q52824#P1282"
     },
     {
@@ -20519,7 +20519,7 @@
     {
       "key": "power",
       "value": "switch",
-      "description": "[Q211058] Circuit breaker",
+      "description": "[Q211058] circuit breaker",
       "doc_url": "http://www.wikidata.org/entity/Q211058#P1282"
     },
     {
@@ -26472,7 +26472,7 @@
     {
       "key": "switch",
       "value": "circuit_breaker",
-      "description": "[Q211058] Circuit breaker",
+      "description": "[Q211058] circuit breaker",
       "doc_url": "http://www.wikidata.org/entity/Q211058#P1282"
     },
     {
