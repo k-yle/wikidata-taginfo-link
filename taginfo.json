@@ -21838,8 +21838,8 @@
     {
       "key": "railway",
       "value": "tram",
-      "description": "[Q15640053] tram system",
-      "doc_url": "http://www.wikidata.org/entity/Q15640053#P1282"
+      "description": "[Q12162186] Tram transport",
+      "doc_url": "http://www.wikidata.org/entity/Q12162186#P1282"
     },
     {
       "key": "railway",
@@ -24381,14 +24381,14 @@
     {
       "key": "shop",
       "value": "optician",
-      "description": "[Q1996635] optician",
-      "doc_url": "http://www.wikidata.org/entity/Q1996635#P1282"
+      "description": "[Q12043413] optician shop",
+      "doc_url": "http://www.wikidata.org/entity/Q12043413#P1282"
     },
     {
       "key": "shop",
       "value": "optician",
-      "description": "[Q80144507] optician shop",
-      "doc_url": "http://www.wikidata.org/entity/Q80144507#P1282"
+      "description": "[Q1996635] optician",
+      "doc_url": "http://www.wikidata.org/entity/Q1996635#P1282"
     },
     {
       "key": "shop",
