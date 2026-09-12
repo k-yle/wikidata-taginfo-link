@@ -22133,6 +22133,11 @@
       "doc_url": "http://www.wikidata.org/entity/P8414#P13786"
     },
     {
+      "key": "ref:FR:BAN",
+      "description": "[P12053] National Address Base ID",
+      "doc_url": "http://www.wikidata.org/entity/P12053#P13786"
+    },
+    {
       "key": "ref:FR:FINESS",
       "description": "[P4058] FINESS ID",
       "doc_url": "http://www.wikidata.org/entity/P4058#P13786"
