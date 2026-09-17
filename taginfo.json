@@ -78,6 +78,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q57830222#P1282"
     },
     {
+      "key": "New Monterey",
+      "description": "[Q14683481] New Monterey",
+      "doc_url": "http://www.wikidata.org/entity/Q14683481#P1282"
+    },
+    {
       "key": "TUD",
       "description": "[Q130283121] true unit designator",
       "doc_url": "http://www.wikidata.org/entity/Q130283121#P13786"
@@ -7780,7 +7785,7 @@
     },
     {
       "key": "dog",
-      "description": "[Q144] Canis lupus familiaris",
+      "description": "[Q144] canis",
       "doc_url": "http://www.wikidata.org/entity/Q144#P13786"
     },
     {
@@ -7818,14 +7823,99 @@
       "doc_url": "http://www.wikidata.org/entity/Q1256780#P1282"
     },
     {
+      "key": "drink:beer",
+      "description": "[Q44] beer",
+      "doc_url": "http://www.wikidata.org/entity/Q44#P13786"
+    },
+    {
       "key": "drink:bluna",
       "description": "[Q123151] Bluna",
       "doc_url": "http://www.wikidata.org/entity/Q123151#P13786"
     },
     {
+      "key": "drink:cider",
+      "description": "[Q167296] cider",
+      "doc_url": "http://www.wikidata.org/entity/Q167296#P13786"
+    },
+    {
+      "key": "drink:coffee",
+      "description": "[Q8486] coffee",
+      "doc_url": "http://www.wikidata.org/entity/Q8486#P13786"
+    },
+    {
+      "key": "drink:cognac",
+      "description": "[Q284] cognac",
+      "doc_url": "http://www.wikidata.org/entity/Q284#P13786"
+    },
+    {
+      "key": "drink:espresso",
+      "description": "[Q180289] espresso",
+      "doc_url": "http://www.wikidata.org/entity/Q180289#P13786"
+    },
+    {
+      "key": "drink:filter_coffee",
+      "description": "[Q1155703] drip coffee",
+      "doc_url": "http://www.wikidata.org/entity/Q1155703#P13786"
+    },
+    {
       "key": "drink:flora-mate",
       "description": "[Q136728314] Flora Power Mate",
       "doc_url": "http://www.wikidata.org/entity/Q136728314#P13786"
+    },
+    {
+      "key": "drink:hot_chocolate",
+      "description": "[Q13261] hot chocolate",
+      "doc_url": "http://www.wikidata.org/entity/Q13261#P13786"
+    },
+    {
+      "key": "drink:juice",
+      "description": "[Q8492] juice",
+      "doc_url": "http://www.wikidata.org/entity/Q8492#P13786"
+    },
+    {
+      "key": "drink:liquor",
+      "description": "[Q56139] liquor",
+      "doc_url": "http://www.wikidata.org/entity/Q56139#P13786"
+    },
+    {
+      "key": "drink:raw_milk",
+      "description": "[Q513631] raw milk",
+      "doc_url": "http://www.wikidata.org/entity/Q513631#P13786"
+    },
+    {
+      "key": "drink:soft_drink",
+      "description": "[Q147538] soft drink",
+      "doc_url": "http://www.wikidata.org/entity/Q147538#P13786"
+    },
+    {
+      "key": "drink:soy_milk",
+      "description": "[Q192199] soy milk",
+      "doc_url": "http://www.wikidata.org/entity/Q192199#P13786"
+    },
+    {
+      "key": "drink:sparkling_wine",
+      "description": "[Q321263] sparkling wine",
+      "doc_url": "http://www.wikidata.org/entity/Q321263#P13786"
+    },
+    {
+      "key": "drink:tea",
+      "description": "[Q6097] tea",
+      "doc_url": "http://www.wikidata.org/entity/Q6097#P13786"
+    },
+    {
+      "key": "drink:vodka",
+      "description": "[Q374] vodka",
+      "doc_url": "http://www.wikidata.org/entity/Q374#P13786"
+    },
+    {
+      "key": "drink:water",
+      "description": "[Q7892] drinking water",
+      "doc_url": "http://www.wikidata.org/entity/Q7892#P13786"
+    },
+    {
+      "key": "drink:whisky",
+      "description": "[Q281] whisky",
+      "doc_url": "http://www.wikidata.org/entity/Q281#P13786"
     },
     {
       "key": "drinking_water",
@@ -10607,7 +10697,7 @@
     {
       "key": "historic:civilization",
       "value": "iberian",
-      "description": "[Q190992] Iberians",
+      "description": "[Q190992] Iberians (Spain)",
       "doc_url": "http://www.wikidata.org/entity/Q190992#P1282"
     },
     {
