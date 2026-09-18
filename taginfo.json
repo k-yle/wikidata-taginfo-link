@@ -15573,6 +15573,12 @@
     },
     {
       "key": "network",
+      "value": "EC:primaria",
+      "description": "[Q141495250] State Road Network",
+      "doc_url": "http://www.wikidata.org/entity/Q141495250#P1282"
+    },
+    {
+      "key": "network",
       "value": "FO",
       "description": "[Q126698065] national highways in the Faroe Islands",
       "doc_url": "http://www.wikidata.org/entity/Q126698065#P1282"
