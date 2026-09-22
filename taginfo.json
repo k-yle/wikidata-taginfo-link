@@ -202,7 +202,7 @@
     },
     {
       "key": "addr:streetnumber",
-      "description": "[Q18915527] house number",
+      "description": "[Q18915527] orientation house number",
       "doc_url": "http://www.wikidata.org/entity/Q18915527#P13786"
     },
     {
@@ -14448,6 +14448,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q37300#P13786"
     },
     {
+      "key": "name:fur",
+      "description": "[Q33441] Friulian",
+      "doc_url": "http://www.wikidata.org/entity/Q33441#P13786"
+    },
+    {
       "key": "name:gaceria",
       "description": "[Q5516174] Gacería",
       "doc_url": "http://www.wikidata.org/entity/Q5516174#P13786"
@@ -19000,6 +19005,11 @@
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bancontact%20logo%202021.svg"
     },
     {
+      "key": "payment:bancontact_pay",
+      "description": "[Q141507944] Bancontact Pay",
+      "doc_url": "http://www.wikidata.org/entity/Q141507944#P13786"
+    },
+    {
       "key": "payment:bankaxept",
       "description": "[Q17749859] BankAxept",
       "doc_url": "http://www.wikidata.org/entity/Q17749859#P13786",
@@ -23368,7 +23378,7 @@
     {
       "key": "route",
       "value": "tracks",
-      "description": "[Q728937] railway line/metro line",
+      "description": "[Q728937] railway line",
       "doc_url": "http://www.wikidata.org/entity/Q728937#P1282"
     },
     {
@@ -27713,7 +27723,7 @@
     {
       "key": "water",
       "value": "pond",
-      "description": "[Q3253281] pond",
+      "description": "[Q3253281] artificial pond",
       "doc_url": "http://www.wikidata.org/entity/Q3253281#P1282"
     },
     {
