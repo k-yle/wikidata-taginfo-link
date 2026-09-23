@@ -202,7 +202,7 @@
     },
     {
       "key": "addr:streetnumber",
-      "description": "[Q18915527] orientation house number",
+      "description": "[Q18915527] house number",
       "doc_url": "http://www.wikidata.org/entity/Q18915527#P13786"
     },
     {
@@ -14448,11 +14448,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q37300#P13786"
     },
     {
-      "key": "name:fur",
-      "description": "[Q33441] Friulian",
-      "doc_url": "http://www.wikidata.org/entity/Q33441#P13786"
-    },
-    {
       "key": "name:gaceria",
       "description": "[Q5516174] Gacería",
       "doc_url": "http://www.wikidata.org/entity/Q5516174#P13786"
@@ -15575,12 +15570,6 @@
       "value": "EC:national",
       "description": "[Q130788157] National Routes of Ecuador",
       "doc_url": "http://www.wikidata.org/entity/Q130788157#P1282"
-    },
-    {
-      "key": "network",
-      "value": "EC:primaria",
-      "description": "[Q141495250] State Road Network",
-      "doc_url": "http://www.wikidata.org/entity/Q141495250#P1282"
     },
     {
       "key": "network",
@@ -19003,11 +18992,6 @@
       "description": "[Q1872365] Bancontact",
       "doc_url": "http://www.wikidata.org/entity/Q1872365#P13786",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bancontact%20logo%202021.svg"
-    },
-    {
-      "key": "payment:bancontact_pay",
-      "description": "[Q141507944] Bancontact Pay",
-      "doc_url": "http://www.wikidata.org/entity/Q141507944#P13786"
     },
     {
       "key": "payment:bankaxept",
@@ -23378,7 +23362,7 @@
     {
       "key": "route",
       "value": "tracks",
-      "description": "[Q728937] railway line",
+      "description": "[Q728937] railway line/metro line",
       "doc_url": "http://www.wikidata.org/entity/Q728937#P1282"
     },
     {
@@ -27723,7 +27707,7 @@
     {
       "key": "water",
       "value": "pond",
-      "description": "[Q3253281] artificial pond",
+      "description": "[Q3253281] pond",
       "doc_url": "http://www.wikidata.org/entity/Q3253281#P1282"
     },
     {
