@@ -202,7 +202,7 @@
     },
     {
       "key": "addr:streetnumber",
-      "description": "[Q18915527] house number",
+      "description": "[Q18915527] orientation house number",
       "doc_url": "http://www.wikidata.org/entity/Q18915527#P13786"
     },
     {
@@ -1530,7 +1530,7 @@
     {
       "key": "amenity",
       "value": "toilets",
-      "description": "[Q813966] 🚾",
+      "description": "[Q813966] public toilet",
       "doc_url": "http://www.wikidata.org/entity/Q813966#P1282"
     },
     {
@@ -2592,6 +2592,13 @@
     },
     {
       "key": "brand:wikidata",
+      "value": "Q1025563",
+      "description": "[Q1025563] café+co",
+      "doc_url": "http://www.wikidata.org/entity/Q1025563#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20cafeplusco.png"
+    },
+    {
+      "key": "brand:wikidata",
       "value": "Q140984027",
       "description": "[Q140984027] Q140984027",
       "doc_url": "http://www.wikidata.org/entity/Q140984027#P1282"
@@ -2677,6 +2684,13 @@
       "description": "[Q191945] Zero Motorcycles",
       "doc_url": "http://www.wikidata.org/entity/Q191945#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/ZERO%20logo.png"
+    },
+    {
+      "key": "brand",
+      "value": "cafe+co",
+      "description": "[Q1025563] café+co",
+      "doc_url": "http://www.wikidata.org/entity/Q1025563#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20cafeplusco.png"
     },
     {
       "key": "brewery",
@@ -4546,8 +4560,8 @@
     {
       "key": "club",
       "value": "hunting",
-      "description": "[Q109354529] hunting organization",
-      "doc_url": "http://www.wikidata.org/entity/Q109354529#P1282"
+      "description": "[Q25505471] hunting organization",
+      "doc_url": "http://www.wikidata.org/entity/Q25505471#P1282"
     },
     {
       "key": "club",
@@ -6078,6 +6092,12 @@
       "value": "lebanese",
       "description": "[Q929239] Lebanese cuisine",
       "doc_url": "http://www.wikidata.org/entity/Q929239#P1282"
+    },
+    {
+      "key": "cuisine",
+      "value": "lángos",
+      "description": "[Q575790] lángos",
+      "doc_url": "http://www.wikidata.org/entity/Q575790#P1282"
     },
     {
       "key": "cuisine",
@@ -7785,7 +7805,7 @@
     },
     {
       "key": "dog",
-      "description": "[Q144] canis",
+      "description": "[Q144] dog",
       "doc_url": "http://www.wikidata.org/entity/Q144#P13786"
     },
     {
@@ -8564,6 +8584,12 @@
       "value": "wood",
       "description": "[Q21141633] wood flooring",
       "doc_url": "http://www.wikidata.org/entity/Q21141633#P1282"
+    },
+    {
+      "key": "food:lángos",
+      "value": "yes",
+      "description": "[Q575790] lángos",
+      "doc_url": "http://www.wikidata.org/entity/Q575790#P1282"
     },
     {
       "key": "foot",
@@ -12045,8 +12071,8 @@
     {
       "key": "landuse",
       "value": "meadow",
-      "description": "[Q7777019] meadow",
-      "doc_url": "http://www.wikidata.org/entity/Q7777019#P1282"
+      "description": "[Q9261440] użytki zielone",
+      "doc_url": "http://www.wikidata.org/entity/Q9261440#P1282"
     },
     {
       "key": "landuse",
@@ -14448,6 +14474,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q37300#P13786"
     },
     {
+      "key": "name:fur",
+      "description": "[Q33441] Friulian",
+      "doc_url": "http://www.wikidata.org/entity/Q33441#P13786"
+    },
+    {
       "key": "name:gaceria",
       "description": "[Q5516174] Gacería",
       "doc_url": "http://www.wikidata.org/entity/Q5516174#P13786"
@@ -14521,6 +14552,16 @@
       "key": "name:pronunciation",
       "description": "[Q21204] International Phonetic Alphabet",
       "doc_url": "http://www.wikidata.org/entity/Q21204#P13786"
+    },
+    {
+      "key": "name:qpa",
+      "description": "[Q863112] palawa kani",
+      "doc_url": "http://www.wikidata.org/entity/Q863112#P13786"
+    },
+    {
+      "key": "name:rrm",
+      "description": "[Q2741879] Moriori",
+      "doc_url": "http://www.wikidata.org/entity/Q2741879#P13786"
     },
     {
       "key": "name:sco",
@@ -15129,6 +15170,12 @@
     },
     {
       "key": "network",
+      "value": "CA:AB:QEII",
+      "description": "[Q118142212] Queen Elizabeth II Highway",
+      "doc_url": "http://www.wikidata.org/entity/Q118142212#P1282"
+    },
+    {
+      "key": "network",
       "value": "CA:AB:primary",
       "description": "[Q115922629] Alberta provincial highways, 1–216 series",
       "doc_url": "http://www.wikidata.org/entity/Q115922629#P1282"
@@ -15570,6 +15617,12 @@
       "value": "EC:national",
       "description": "[Q130788157] National Routes of Ecuador",
       "doc_url": "http://www.wikidata.org/entity/Q130788157#P1282"
+    },
+    {
+      "key": "network",
+      "value": "EC:primaria",
+      "description": "[Q141495250] State Road Network",
+      "doc_url": "http://www.wikidata.org/entity/Q141495250#P1282"
     },
     {
       "key": "network",
@@ -18992,6 +19045,11 @@
       "description": "[Q1872365] Bancontact",
       "doc_url": "http://www.wikidata.org/entity/Q1872365#P13786",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bancontact%20logo%202021.svg"
+    },
+    {
+      "key": "payment:bancontact_pay",
+      "description": "[Q141507944] Bancontact Pay",
+      "doc_url": "http://www.wikidata.org/entity/Q141507944#P13786"
     },
     {
       "key": "payment:bankaxept",
@@ -23362,7 +23420,7 @@
     {
       "key": "route",
       "value": "tracks",
-      "description": "[Q728937] railway line/metro line",
+      "description": "[Q728937] railway line",
       "doc_url": "http://www.wikidata.org/entity/Q728937#P1282"
     },
     {
@@ -25322,7 +25380,7 @@
     {
       "key": "sport",
       "value": "american_football",
-      "description": "[Q41323] 🏈",
+      "description": "[Q41323] American football",
       "doc_url": "http://www.wikidata.org/entity/Q41323#P1282"
     },
     {
@@ -25929,7 +25987,7 @@
     {
       "key": "sport",
       "value": "petanque",
-      "description": "[Q189317] petanque",
+      "description": "[Q189317] pétanque",
       "doc_url": "http://www.wikidata.org/entity/Q189317#P1282"
     },
     {
@@ -26741,7 +26799,7 @@
     },
     {
       "key": "toilets",
-      "description": "[Q813966] 🚾",
+      "description": "[Q813966] public toilet",
       "doc_url": "http://www.wikidata.org/entity/Q813966#P13786"
     },
     {
@@ -27707,7 +27765,7 @@
     {
       "key": "water",
       "value": "pond",
-      "description": "[Q3253281] pond",
+      "description": "[Q3253281] artificial pond",
       "doc_url": "http://www.wikidata.org/entity/Q3253281#P1282"
     },
     {
