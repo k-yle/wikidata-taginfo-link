@@ -16991,6 +16991,12 @@
     },
     {
       "key": "network",
+      "value": "US:CO:NW",
+      "description": "[Q2139297] Northwest Parkway",
+      "doc_url": "http://www.wikidata.org/entity/Q2139297#P1282"
+    },
+    {
+      "key": "network",
       "value": "US:CO:Scenic",
       "description": "[Q137544877] Colorado Scenic and Historic Byway",
       "doc_url": "http://www.wikidata.org/entity/Q137544877#P1282"
@@ -17471,6 +17477,12 @@
       "value": "US:NY:Inner_Loop",
       "description": "[Q2488037] Inner Loop",
       "doc_url": "http://www.wikidata.org/entity/Q2488037#P1282"
+    },
+    {
+      "key": "network",
+      "value": "US:NY:JFK",
+      "description": "[Q6108134] JFK Expressway",
+      "doc_url": "http://www.wikidata.org/entity/Q6108134#P1282"
     },
     {
       "key": "network",
@@ -17977,6 +17989,12 @@
       "value": "US:TX:FM",
       "description": "[Q97452889] Texas Farm to Market Roads",
       "doc_url": "http://www.wikidata.org/entity/Q97452889#P1282"
+    },
+    {
+      "key": "network",
+      "value": "US:TX:Harris:HCTRA",
+      "description": "[Q5664855] Harris County Toll Road Authority",
+      "doc_url": "http://www.wikidata.org/entity/Q5664855#P1282"
     },
     {
       "key": "network",
@@ -23056,7 +23074,7 @@
     {
       "key": "residential",
       "value": "trailer_park",
-      "description": "[Q1426493] trailer park",
+      "description": "[Q1426493] Wohnwagensiedlung",
       "doc_url": "http://www.wikidata.org/entity/Q1426493#P1282"
     },
     {
