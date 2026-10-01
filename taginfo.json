@@ -16781,6 +16781,13 @@
     },
     {
       "key": "network",
+      "value": "Regiobus MV",
+      "description": "[Q141163911] Regiobus MV",
+      "doc_url": "http://www.wikidata.org/entity/Q141163911#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Regiobus%20MV.svg"
+    },
+    {
+      "key": "network",
       "value": "Roca",
       "description": "[Q2962337] Ferrocarril General Roca",
       "doc_url": "http://www.wikidata.org/entity/Q2962337#P1282"
