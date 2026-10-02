@@ -1254,7 +1254,7 @@
     {
       "key": "amenity",
       "value": "pool_chair_lift",
-      "description": "[Q140004324] Wheelchair pool lift",
+      "description": "[Q140004324] wheelchair pool lift",
       "doc_url": "http://www.wikidata.org/entity/Q140004324#P1282"
     },
     {
@@ -4554,7 +4554,7 @@
     {
       "key": "club",
       "value": "freemasonry",
-      "description": "[Q1454597] masonic lodge",
+      "description": "[Q1454597] Masonic lodge",
       "doc_url": "http://www.wikidata.org/entity/Q1454597#P1282"
     },
     {
@@ -19624,6 +19624,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q13100073#P1282"
     },
     {
+      "key": "place:hu",
+      "value": "megye",
+      "description": "[Q188604] county of Hungary",
+      "doc_url": "http://www.wikidata.org/entity/Q188604#P1282"
+    },
+    {
       "key": "place",
       "value": "archipelago",
       "description": "[Q33837] archipelago",
@@ -26382,7 +26388,7 @@
     },
     {
       "key": "stroller",
-      "description": "[Q13216737] pram",
+      "description": "[Q13216737] baby carriage",
       "doc_url": "http://www.wikidata.org/entity/Q13216737#P13786"
     },
     {
