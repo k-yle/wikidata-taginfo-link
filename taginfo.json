@@ -18490,6 +18490,12 @@
     },
     {
       "key": "office",
+      "value": "advertising_agency",
+      "description": "[Q216931] advertising agency",
+      "doc_url": "http://www.wikidata.org/entity/Q216931#P1282"
+    },
+    {
+      "key": "office",
       "value": "association",
       "description": "[Q48204] voluntary association",
       "doc_url": "http://www.wikidata.org/entity/Q48204#P1282"
@@ -23087,7 +23093,7 @@
     {
       "key": "residential",
       "value": "trailer_park",
-      "description": "[Q1426493] Wohnwagensiedlung",
+      "description": "[Q1426493] trailer park",
       "doc_url": "http://www.wikidata.org/entity/Q1426493#P1282"
     },
     {
