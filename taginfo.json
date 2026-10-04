@@ -20995,6 +20995,12 @@
     },
     {
       "key": "public_transport",
+      "value": "stop_area_group",
+      "description": "[Q1147171] interchange station",
+      "doc_url": "http://www.wikidata.org/entity/Q1147171#P1282"
+    },
+    {
+      "key": "public_transport",
       "value": "stop_position",
       "description": "[Q548662] public transport stop",
       "doc_url": "http://www.wikidata.org/entity/Q548662#P1282"
@@ -22809,6 +22815,12 @@
       "key": "ref:vatin",
       "description": "[Q2319042] VAT identification number",
       "doc_url": "http://www.wikidata.org/entity/Q2319042#P13786"
+    },
+    {
+      "key": "ref:vinmonopolet",
+      "description": "[Q1740534] Vinmonopolet",
+      "doc_url": "http://www.wikidata.org/entity/Q1740534#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vinmonopolets%20logo.jpg"
     },
     {
       "key": "ref:whc",
