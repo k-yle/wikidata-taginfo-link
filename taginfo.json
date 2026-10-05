@@ -2605,6 +2605,12 @@
     },
     {
       "key": "brand:wikidata",
+      "value": "Q141640807",
+      "description": "[Q141640807] Mountex",
+      "doc_url": "http://www.wikidata.org/entity/Q141640807#P1282"
+    },
+    {
+      "key": "brand:wikidata",
       "value": "Q145614",
       "description": "[Q145614] Magyar Posta",
       "doc_url": "http://www.wikidata.org/entity/Q145614#P1282",
@@ -2670,6 +2676,12 @@
       "description": "[Q1149018] Moto Guzzi",
       "doc_url": "http://www.wikidata.org/entity/Q1149018#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moto%20Guzzi%20Symbol%20noBG.png"
+    },
+    {
+      "key": "brand",
+      "value": "Mountex",
+      "description": "[Q141640807] Mountex",
+      "doc_url": "http://www.wikidata.org/entity/Q141640807#P1282"
     },
     {
       "key": "brand",
@@ -5076,11 +5088,6 @@
       "key": "contact:webcam",
       "description": "[P4238] webcam page URL",
       "doc_url": "http://www.wikidata.org/entity/P4238#P13786"
-    },
-    {
-      "key": "contact:website",
-      "description": "[P856] official website",
-      "doc_url": "http://www.wikidata.org/entity/P856#P13786"
     },
     {
       "key": "contact:website",
@@ -23019,6 +23026,12 @@
       "value": "spiritualist",
       "description": "[Q829348] spiritualism",
       "doc_url": "http://www.wikidata.org/entity/Q829348#P1282"
+    },
+    {
+      "key": "religion",
+      "value": "sukyo_mahikari",
+      "description": "[Q2118200] Sukyo Mahikari",
+      "doc_url": "http://www.wikidata.org/entity/Q2118200#P1282"
     },
     {
       "key": "religion",
