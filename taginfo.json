@@ -4331,6 +4331,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q1741611#P1282"
     },
     {
+      "key": "caterer",
+      "value": "dark_kitchen",
+      "description": "[Q65049435] ghost kitchen",
+      "doc_url": "http://www.wikidata.org/entity/Q65049435#P1282"
+    },
+    {
       "key": "cemetery",
       "value": "grave",
       "description": "[Q173387] grave",
@@ -8370,7 +8376,7 @@
     },
     {
       "key": "esperanto",
-      "description": "[Q143] Esperanto",
+      "description": "[Q143] esperanto",
       "doc_url": "http://www.wikidata.org/entity/Q143#P13786",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Esperanto.svg"
     },
@@ -10745,7 +10751,7 @@
       "value": "inca",
       "description": "[Q28573] Inca Empire",
       "doc_url": "http://www.wikidata.org/entity/Q28573#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Suntur%20Paucar.svg"
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Banner%20of%20the%20Inca%20Empire.svg"
     },
     {
       "key": "historic:civilization",
@@ -12198,7 +12204,7 @@
     },
     {
       "key": "language:eo",
-      "description": "[Q143] Esperanto",
+      "description": "[Q143] esperanto",
       "doc_url": "http://www.wikidata.org/entity/Q143#P13786",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Esperanto.svg"
     },
@@ -14451,7 +14457,7 @@
     },
     {
       "key": "name:eo",
-      "description": "[Q143] Esperanto",
+      "description": "[Q143] esperanto",
       "doc_url": "http://www.wikidata.org/entity/Q143#P13786",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Esperanto.svg"
     },
