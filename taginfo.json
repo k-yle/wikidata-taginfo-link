@@ -6526,6 +6526,12 @@
     },
     {
       "key": "cycleway",
+      "value": "crossing",
+      "description": "[Q2125616] cyclist crossing",
+      "doc_url": "http://www.wikidata.org/entity/Q2125616#P1282"
+    },
+    {
+      "key": "cycleway",
       "value": "lane",
       "description": "[Q1378400] bike lane",
       "doc_url": "http://www.wikidata.org/entity/Q1378400#P1282"
