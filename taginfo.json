@@ -2685,6 +2685,13 @@
     },
     {
       "key": "brand",
+      "value": "SPAR express",
+      "description": "[Q12321004] SPAR express",
+      "doc_url": "http://www.wikidata.org/entity/Q12321004#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SPAR%20Express%20Horizontal%20Logo.jpg"
+    },
+    {
+      "key": "brand",
       "value": "Spar",
       "description": "[Q610492] Spar",
       "doc_url": "http://www.wikidata.org/entity/Q610492#P1282",
