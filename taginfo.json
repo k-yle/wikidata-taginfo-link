@@ -28041,6 +28041,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q7979849#P1282"
     },
     {
+      "key": "weir",
+      "value": "fish_weir",
+      "description": "[Q1417573] fishing weir",
+      "doc_url": "http://www.wikidata.org/entity/Q1417573#P1282"
+    },
+    {
       "key": "wetland",
       "value": "marsh",
       "description": "[Q30198] marsh",
