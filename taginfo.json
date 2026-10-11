@@ -1933,9 +1933,21 @@
     },
     {
       "key": "attraction",
+      "value": "carousel",
+      "description": "[Q208322] carousel",
+      "doc_url": "http://www.wikidata.org/entity/Q208322#P1282"
+    },
+    {
+      "key": "attraction",
       "value": "dark_ride",
       "description": "[Q1934961] dark ride",
       "doc_url": "http://www.wikidata.org/entity/Q1934961#P1282"
+    },
+    {
+      "key": "attraction",
+      "value": "kiddie_ride",
+      "description": "[Q1741725] kiddie ride",
+      "doc_url": "http://www.wikidata.org/entity/Q1741725#P1282"
     },
     {
       "key": "attraction",
@@ -2685,7 +2697,7 @@
     },
     {
       "key": "brand",
-      "value": "SPAR express",
+      "value": "SPAR_express",
       "description": "[Q12321004] SPAR express",
       "doc_url": "http://www.wikidata.org/entity/Q12321004#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SPAR%20Express%20Horizontal%20Logo.jpg"
