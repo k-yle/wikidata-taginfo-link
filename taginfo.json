@@ -2644,7 +2644,7 @@
     },
     {
       "key": "brand",
-      "value": "Grand Litier",
+      "value": "Grand_Litier",
       "description": "[Q140810156] Grand Litier",
       "doc_url": "http://www.wikidata.org/entity/Q140810156#P1282"
     },
@@ -16819,7 +16819,7 @@
     },
     {
       "key": "network",
-      "value": "Regiobus MV",
+      "value": "Regiobus_MV",
       "description": "[Q141163911] Regiobus MV",
       "doc_url": "http://www.wikidata.org/entity/Q141163911#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Regiobus%20MV.svg"
@@ -20343,8 +20343,8 @@
     {
       "key": "political_division",
       "value": "congressional_district",
-      "description": "[Q17166756] United States congressional district",
-      "doc_url": "http://www.wikidata.org/entity/Q17166756#P1282"
+      "description": "[Q505410] congressional district",
+      "doc_url": "http://www.wikidata.org/entity/Q505410#P1282"
     },
     {
       "key": "political_division",
