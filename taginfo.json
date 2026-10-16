@@ -8345,6 +8345,12 @@
     },
     {
       "key": "emergency",
+      "value": "throw_bag",
+      "description": "[Q488009] throw bag",
+      "doc_url": "http://www.wikidata.org/entity/Q488009#P1282"
+    },
+    {
+      "key": "emergency",
       "value": "train_stop",
       "description": "[Q1392666] Train stop",
       "doc_url": "http://www.wikidata.org/entity/Q1392666#P1282"
@@ -24482,7 +24488,7 @@
     {
       "key": "shop",
       "value": "interior_decoration",
-      "description": "[Q47516362] interior decorations shop",
+      "description": "[Q47516362] Soap, Candles, Home Fragrance",
       "doc_url": "http://www.wikidata.org/entity/Q47516362#P1282"
     },
     {
