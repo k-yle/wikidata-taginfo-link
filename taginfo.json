@@ -457,6 +457,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q97408605#P13786"
     },
     {
+      "key": "agroecology",
+      "description": "[Q396338] agroecology",
+      "doc_url": "http://www.wikidata.org/entity/Q396338#P13786"
+    },
+    {
       "key": "air_conditioning",
       "description": "[Q173725] air conditioning",
       "doc_url": "http://www.wikidata.org/entity/Q173725#P13786"
@@ -4393,6 +4398,18 @@
       "value": "hiking",
       "description": "[Q141003337] hiking checkpoint",
       "doc_url": "http://www.wikidata.org/entity/Q141003337#P1282"
+    },
+    {
+      "key": "cinema:4DX",
+      "description": "[Q4638888] 4DX",
+      "doc_url": "http://www.wikidata.org/entity/Q4638888#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/4DX%202019%20logo.svg"
+    },
+    {
+      "key": "cinema:4dx",
+      "description": "[Q4638888] 4DX",
+      "doc_url": "http://www.wikidata.org/entity/Q4638888#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/4DX%202019%20logo.svg"
     },
     {
       "key": "circumference",
@@ -22078,7 +22095,7 @@
     {
       "key": "railway",
       "value": "tram",
-      "description": "[Q12162186] Tram transport",
+      "description": "[Q12162186] tram system",
       "doc_url": "http://www.wikidata.org/entity/Q12162186#P1282"
     },
     {
@@ -24488,7 +24505,7 @@
     {
       "key": "shop",
       "value": "interior_decoration",
-      "description": "[Q47516362] Soap, Candles, Home Fragrance",
+      "description": "[Q47516362] interior decorations shop",
       "doc_url": "http://www.wikidata.org/entity/Q47516362#P1282"
     },
     {
@@ -24562,6 +24579,12 @@
       "value": "mall",
       "description": "[Q11315] shopping center",
       "doc_url": "http://www.wikidata.org/entity/Q11315#P1282"
+    },
+    {
+      "key": "shop",
+      "value": "maps",
+      "description": "[Q141740898] map store",
+      "doc_url": "http://www.wikidata.org/entity/Q141740898#P1282"
     },
     {
       "key": "shop",
