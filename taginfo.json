@@ -24031,8 +24031,8 @@
     {
       "key": "shop",
       "value": "books",
-      "description": "[Q200764] bookstore",
-      "doc_url": "http://www.wikidata.org/entity/Q200764#P1282"
+      "description": "[Q1365056] book shop",
+      "doc_url": "http://www.wikidata.org/entity/Q1365056#P1282"
     },
     {
       "key": "shop",
@@ -26286,6 +26286,12 @@
       "value": "softball",
       "description": "[Q171038] softball",
       "doc_url": "http://www.wikidata.org/entity/Q171038#P1282"
+    },
+    {
+      "key": "sport",
+      "value": "speedway",
+      "description": "[Q750080] motorcycle speedway",
+      "doc_url": "http://www.wikidata.org/entity/Q750080#P1282"
     },
     {
       "key": "sport",
