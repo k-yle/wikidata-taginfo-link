@@ -14046,6 +14046,12 @@
     },
     {
       "key": "military",
+      "value": "office",
+      "description": "[Q141802387] military office",
+      "doc_url": "http://www.wikidata.org/entity/Q141802387#P1282"
+    },
+    {
+      "key": "military",
       "value": "range",
       "description": "[Q136562970] military shooting range",
       "doc_url": "http://www.wikidata.org/entity/Q136562970#P1282"
@@ -18189,6 +18195,12 @@
       "value": "US:WI",
       "description": "[Q98940046] Wisconsin State Trunk Highways",
       "doc_url": "http://www.wikidata.org/entity/Q98940046#P1282"
+    },
+    {
+      "key": "network",
+      "value": "US:WI:FLWT",
+      "description": "[Q141784605] Frank Lloyd Wright Trail",
+      "doc_url": "http://www.wikidata.org/entity/Q141784605#P1282"
     },
     {
       "key": "network",
@@ -27476,12 +27488,6 @@
       "value": "maxspeed",
       "description": "[Q67356821] speed limit sign",
       "doc_url": "http://www.wikidata.org/entity/Q67356821#P1282"
-    },
-    {
-      "key": "traffic_signals",
-      "value": "traffic_light",
-      "description": "[Q8004] traffic light",
-      "doc_url": "http://www.wikidata.org/entity/Q8004#P1282"
     },
     {
       "key": "trail_visibility",
