@@ -17060,8 +17060,9 @@
     {
       "key": "network",
       "value": "US:CO:E470",
-      "description": "[Q2139154] E-470",
-      "doc_url": "http://www.wikidata.org/entity/Q2139154#P1282"
+      "description": "[Q2139154] E470",
+      "doc_url": "http://www.wikidata.org/entity/Q2139154#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20E470%20logo.svg"
     },
     {
       "key": "network",
