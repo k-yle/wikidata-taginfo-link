@@ -22870,6 +22870,16 @@
       "doc_url": "http://www.wikidata.org/entity/P14545#P13786"
     },
     {
+      "key": "ref:swetrails",
+      "description": "[P11929] Swetrails route ID",
+      "doc_url": "http://www.wikidata.org/entity/P11929#P13786"
+    },
+    {
+      "key": "ref:swetrails",
+      "description": "[P12428] Swetrails POI-ID",
+      "doc_url": "http://www.wikidata.org/entity/P12428#P13786"
+    },
+    {
       "key": "ref:thw",
       "description": "[Q697698] Technisches Hilfswerk",
       "doc_url": "http://www.wikidata.org/entity/Q697698#P13786",
