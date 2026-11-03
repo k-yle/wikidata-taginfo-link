@@ -1625,14 +1625,8 @@
     {
       "key": "amenity",
       "value": "watering_place",
-      "description": "[Q7617920] stock tank",
-      "doc_url": "http://www.wikidata.org/entity/Q7617920#P1282"
-    },
-    {
-      "key": "amenity",
-      "value": "watering_place",
-      "description": "[Q932689] water trough",
-      "doc_url": "http://www.wikidata.org/entity/Q932689#P1282"
+      "description": "[Q3603295] animal watering place",
+      "doc_url": "http://www.wikidata.org/entity/Q3603295#P1282"
     },
     {
       "key": "amenity",
@@ -2178,7 +2172,7 @@
     {
       "key": "barrier",
       "value": "sally_port",
-      "description": "[Q15930902] sally port",
+      "description": "[Q15930902] sallyport",
       "doc_url": "http://www.wikidata.org/entity/Q15930902#P1282"
     },
     {
@@ -2616,6 +2610,12 @@
     },
     {
       "key": "brand:wikidata",
+      "value": "Q128245525",
+      "description": "[Q128245525] Lipóti Pékség",
+      "doc_url": "http://www.wikidata.org/entity/Q128245525#P1282"
+    },
+    {
+      "key": "brand:wikidata",
       "value": "Q140984027",
       "description": "[Q140984027] Q140984027",
       "doc_url": "http://www.wikidata.org/entity/Q140984027#P1282"
@@ -2672,6 +2672,12 @@
       "value": "Kormányablak",
       "description": "[Q140984027] Q140984027",
       "doc_url": "http://www.wikidata.org/entity/Q140984027#P1282"
+    },
+    {
+      "key": "brand",
+      "value": "Lipóti Pékség",
+      "description": "[Q128245525] Lipóti Pékség",
+      "doc_url": "http://www.wikidata.org/entity/Q128245525#P1282"
     },
     {
       "key": "brand",
@@ -3463,7 +3469,7 @@
     {
       "key": "building:prefabricated",
       "value": "yes",
-      "description": "[Q951781] block construction",
+      "description": "[Q951781] prefabricated building",
       "doc_url": "http://www.wikidata.org/entity/Q951781#P1282"
     },
     {
@@ -4918,7 +4924,7 @@
     {
       "key": "community",
       "value": "SJ",
-      "description": "[Q36380] Society of Jesus",
+      "description": "[Q36380] Societas Iesu",
       "doc_url": "http://www.wikidata.org/entity/Q36380#P1282"
     },
     {
@@ -13515,8 +13521,8 @@
     {
       "key": "man_made",
       "value": "water_works",
-      "description": "[Q10373565] waterworks",
-      "doc_url": "http://www.wikidata.org/entity/Q10373565#P1282"
+      "description": "[Q9341055] water treatment plant",
+      "doc_url": "http://www.wikidata.org/entity/Q9341055#P1282"
     },
     {
       "key": "man_made",
@@ -28035,6 +28041,12 @@
       "value": "river",
       "description": "[Q4022] river",
       "doc_url": "http://www.wikidata.org/entity/Q4022#P1282"
+    },
+    {
+      "key": "waterway",
+      "value": "security_lock",
+      "description": "[Q24853940] flood barrier",
+      "doc_url": "http://www.wikidata.org/entity/Q24853940#P1282"
     },
     {
       "key": "waterway",
