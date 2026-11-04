@@ -2622,6 +2622,12 @@
     },
     {
       "key": "brand:wikidata",
+      "value": "Q141636347",
+      "description": "[Q141636347] ATM Point",
+      "doc_url": "http://www.wikidata.org/entity/Q141636347#P1282"
+    },
+    {
+      "key": "brand:wikidata",
       "value": "Q141640807",
       "description": "[Q141640807] Mountex",
       "doc_url": "http://www.wikidata.org/entity/Q141640807#P1282"
@@ -2639,6 +2645,12 @@
       "description": "[Q145614] Magyar Posta",
       "doc_url": "http://www.wikidata.org/entity/Q145614#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Magyar%20Posta%20logo.svg"
+    },
+    {
+      "key": "brand",
+      "value": "ATM Point",
+      "description": "[Q141636347] ATM Point",
+      "doc_url": "http://www.wikidata.org/entity/Q141636347#P1282"
     },
     {
       "key": "brand",
@@ -11384,6 +11396,11 @@
       "key": "hov",
       "description": "[Q285496] high-occupancy-vehicle lane",
       "doc_url": "http://www.wikidata.org/entity/Q285496#P13786"
+    },
+    {
+      "key": "https://wiki.openstreetmap.org/wiki/DinoData",
+      "description": "[Q141746631] DinoData",
+      "doc_url": "http://www.wikidata.org/entity/Q141746631#P13786"
     },
     {
       "key": "iata",
