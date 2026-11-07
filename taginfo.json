@@ -2470,6 +2470,13 @@
     {
       "key": "boundary",
       "value": "administrative",
+      "description": "[Q12239266] Harub",
+      "doc_url": "http://www.wikidata.org/entity/Q12239266#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saudi%20Arabia.svg"
+    },
+    {
+      "key": "boundary",
+      "value": "administrative",
       "description": "[Q56061] administrative territorial entity",
       "doc_url": "http://www.wikidata.org/entity/Q56061#P1282"
     },
@@ -2616,6 +2623,12 @@
     },
     {
       "key": "brand:wikidata",
+      "value": "Q138501611",
+      "description": "[Q138501611] Herbária",
+      "doc_url": "http://www.wikidata.org/entity/Q138501611#P1282"
+    },
+    {
+      "key": "brand:wikidata",
       "value": "Q140984027",
       "description": "[Q140984027] Q140984027",
       "doc_url": "http://www.wikidata.org/entity/Q140984027#P1282"
@@ -2671,6 +2684,12 @@
       "description": "[Q192814] Harley-Davidson",
       "doc_url": "http://www.wikidata.org/entity/Q192814#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Harley%20Davidson%20orange%20logo.svg"
+    },
+    {
+      "key": "brand",
+      "value": "Herbária",
+      "description": "[Q138501611] Herbária",
+      "doc_url": "http://www.wikidata.org/entity/Q138501611#P1282"
     },
     {
       "key": "brand",
@@ -10577,8 +10596,8 @@
     {
       "key": "highway",
       "value": "secondary",
-      "description": "[Q3081879] highway=secondary",
-      "doc_url": "http://www.wikidata.org/entity/Q3081879#P1282"
+      "description": "[Q136366548] highway=secondary",
+      "doc_url": "http://www.wikidata.org/entity/Q136366548#P1282"
     },
     {
       "key": "highway",
@@ -10703,8 +10722,8 @@
     {
       "key": "highway",
       "value": "unclassified",
-      "description": "[Q3444711] highway=unclassified",
-      "doc_url": "http://www.wikidata.org/entity/Q3444711#P1282"
+      "description": "[Q136366858] highway=unclassified",
+      "doc_url": "http://www.wikidata.org/entity/Q136366858#P1282"
     },
     {
       "key": "highway",
@@ -12962,7 +12981,7 @@
     {
       "key": "man_made",
       "value": "animal_trap",
-      "description": "[Q34168] trapping",
+      "description": "[Q34168] šintor",
       "doc_url": "http://www.wikidata.org/entity/Q34168#P1282"
     },
     {
@@ -14202,6 +14221,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q6904333#P13786"
     },
     {
+      "key": "monument",
+      "value": "statue",
+      "description": "[Q1779653] colossal statue",
+      "doc_url": "http://www.wikidata.org/entity/Q1779653#P1282"
+    },
+    {
       "key": "mooring",
       "description": "[Q587735] mooring",
       "doc_url": "http://www.wikidata.org/entity/Q587735#P13786"
@@ -15152,6 +15177,12 @@
       "value": "AX:province",
       "description": "[Q115973787] trunk roads in Åland",
       "doc_url": "http://www.wikidata.org/entity/Q115973787#P1282"
+    },
+    {
+      "key": "network",
+      "value": "Arab Mashreq International Road Network",
+      "description": "[Q2134168] Arab Mashreq International Road Network",
+      "doc_url": "http://www.wikidata.org/entity/Q2134168#P1282"
     },
     {
       "key": "network",
@@ -16766,6 +16797,30 @@
       "value": "NZ:WRR",
       "description": "[Q7988248] Western Ring Route",
       "doc_url": "http://www.wikidata.org/entity/Q7988248#P1282"
+    },
+    {
+      "key": "network",
+      "value": "OM:A-road",
+      "description": "[Q135012955] arterial roads in Oman",
+      "doc_url": "http://www.wikidata.org/entity/Q135012955#P1282"
+    },
+    {
+      "key": "network",
+      "value": "OM:D-road",
+      "description": "[Q136222604] distributor roads in Oman",
+      "doc_url": "http://www.wikidata.org/entity/Q136222604#P1282"
+    },
+    {
+      "key": "network",
+      "value": "OM:N-road",
+      "description": "[Q135005443] national roads in Oman",
+      "doc_url": "http://www.wikidata.org/entity/Q135005443#P1282"
+    },
+    {
+      "key": "network",
+      "value": "OM:S-road",
+      "description": "[Q135069845] secondary roads in Oman",
+      "doc_url": "http://www.wikidata.org/entity/Q135069845#P1282"
     },
     {
       "key": "network",
