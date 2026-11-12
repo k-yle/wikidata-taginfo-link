@@ -12,11 +12,6 @@
   },
   "tags": [
     {
-      "key": "4616608490",
-      "description": "[Q141187056] Ifang",
-      "doc_url": "http://www.wikidata.org/entity/Q141187056#P1282"
-    },
-    {
       "key": "4wd_only",
       "description": "[Q214833] four-wheel drive",
       "doc_url": "http://www.wikidata.org/entity/Q214833#P13786"
@@ -76,11 +71,6 @@
       "value": "STRAHNET",
       "description": "[Q57830222] Strategic Highway Network",
       "doc_url": "http://www.wikidata.org/entity/Q57830222#P1282"
-    },
-    {
-      "key": "New Monterey",
-      "description": "[Q14683481] New Monterey",
-      "doc_url": "http://www.wikidata.org/entity/Q14683481#P1282"
     },
     {
       "key": "TUD",
@@ -2405,11 +2395,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q135877195#P13786"
     },
     {
-      "key": "booking",
-      "description": "[Q1668023] Internet booking engine",
-      "doc_url": "http://www.wikidata.org/entity/Q1668023#P13786"
-    },
-    {
       "key": "books:language:eo",
       "value": "yes",
       "description": "[Q128033] Esperanto literature",
@@ -2623,6 +2608,12 @@
     },
     {
       "key": "brand:wikidata",
+      "value": "Q130348902",
+      "description": "[Q130348902] REpont",
+      "doc_url": "http://www.wikidata.org/entity/Q130348902#P1282"
+    },
+    {
+      "key": "brand:wikidata",
       "value": "Q138501611",
       "description": "[Q138501611] Herbária",
       "doc_url": "http://www.wikidata.org/entity/Q138501611#P1282"
@@ -2647,10 +2638,28 @@
     },
     {
       "key": "brand:wikidata",
+      "value": "Q142081821",
+      "description": "[Q142081821] Mobi Point",
+      "doc_url": "http://www.wikidata.org/entity/Q142081821#P1282"
+    },
+    {
+      "key": "brand:wikidata",
+      "value": "Q142081918",
+      "description": "[Q142081918] E-Mobility Point",
+      "doc_url": "http://www.wikidata.org/entity/Q142081918#P1282"
+    },
+    {
+      "key": "brand:wikidata",
       "value": "Q145614",
       "description": "[Q145614] Magyar Posta",
       "doc_url": "http://www.wikidata.org/entity/Q145614#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Magyar%20Posta%20logo.svg"
+    },
+    {
+      "key": "brand:wikidata",
+      "value": "Q16971969",
+      "description": "[Q16971969] MOL Bubi",
+      "doc_url": "http://www.wikidata.org/entity/Q16971969#P1282"
     },
     {
       "key": "brand:wikipedia",
@@ -2664,6 +2673,12 @@
       "value": "ATM Point",
       "description": "[Q141636347] ATM Point",
       "doc_url": "http://www.wikidata.org/entity/Q141636347#P1282"
+    },
+    {
+      "key": "brand",
+      "value": "E-Mobilitási pont",
+      "description": "[Q142081918] E-Mobility Point",
+      "doc_url": "http://www.wikidata.org/entity/Q142081918#P1282"
     },
     {
       "key": "brand",
@@ -2719,10 +2734,22 @@
     },
     {
       "key": "brand",
+      "value": "MOL_Bubi",
+      "description": "[Q16971969] MOL Bubi",
+      "doc_url": "http://www.wikidata.org/entity/Q16971969#P1282"
+    },
+    {
+      "key": "brand",
       "value": "Magyar_Posta",
       "description": "[Q145614] Magyar Posta",
       "doc_url": "http://www.wikidata.org/entity/Q145614#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Magyar%20Posta%20logo.svg"
+    },
+    {
+      "key": "brand",
+      "value": "Mobi-pont",
+      "description": "[Q142081821] Mobi Point",
+      "doc_url": "http://www.wikidata.org/entity/Q142081821#P1282"
     },
     {
       "key": "brand",
@@ -2736,6 +2763,12 @@
       "value": "Mountex",
       "description": "[Q141640807] Mountex",
       "doc_url": "http://www.wikidata.org/entity/Q141640807#P1282"
+    },
+    {
+      "key": "brand",
+      "value": "REpont",
+      "description": "[Q130348902] REpont",
+      "doc_url": "http://www.wikidata.org/entity/Q130348902#P1282"
     },
     {
       "key": "brand",
@@ -13978,7 +14011,7 @@
     {
       "key": "memorial",
       "value": "plaque",
-      "description": "[Q721747] commemorative plaque",
+      "description": "[Q721747] commemorative inscription",
       "doc_url": "http://www.wikidata.org/entity/Q721747#P1282"
     },
     {
@@ -18313,6 +18346,18 @@
     },
     {
       "key": "network",
+      "value": "VN:expressway",
+      "description": "[Q65171332] expressways of Vietnam",
+      "doc_url": "http://www.wikidata.org/entity/Q65171332#P1282"
+    },
+    {
+      "key": "network",
+      "value": "VN:national",
+      "description": "[Q10810927] National Routes in Vietnam",
+      "doc_url": "http://www.wikidata.org/entity/Q10810927#P1282"
+    },
+    {
+      "key": "network",
       "value": "XK:motorway",
       "description": "[Q42857126] motorways in Kosovo",
       "doc_url": "http://www.wikidata.org/entity/Q42857126#P1282"
@@ -18540,18 +18585,6 @@
       "value": "ua:territorial",
       "description": "[Q12160751] territorial automobile route",
       "doc_url": "http://www.wikidata.org/entity/Q12160751#P1282"
-    },
-    {
-      "key": "network",
-      "value": "vn:expressway",
-      "description": "[Q65171332] expressways of Vietnam",
-      "doc_url": "http://www.wikidata.org/entity/Q65171332#P1282"
-    },
-    {
-      "key": "network",
-      "value": "vn:national",
-      "description": "[Q10810927] National Routes in Vietnam",
-      "doc_url": "http://www.wikidata.org/entity/Q10810927#P1282"
     },
     {
       "key": "network",
@@ -19013,10 +19046,22 @@
     },
     {
       "key": "operator:wikidata",
+      "value": "Q142081261",
+      "description": "[Q142081261] Bakonyerdő Zrt.",
+      "doc_url": "http://www.wikidata.org/entity/Q142081261#P1282"
+    },
+    {
+      "key": "operator:wikidata",
       "value": "Q145614",
       "description": "[Q145614] Magyar Posta",
       "doc_url": "http://www.wikidata.org/entity/Q145614#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Magyar%20Posta%20logo.svg"
+    },
+    {
+      "key": "operator",
+      "value": "Bakonyerdő Zrt.",
+      "description": "[Q142081261] Bakonyerdő Zrt.",
+      "doc_url": "http://www.wikidata.org/entity/Q142081261#P1282"
     },
     {
       "key": "organic",
@@ -19422,6 +19467,21 @@
       "key": "payment:mobib",
       "description": "[Q3317534] MoBIB",
       "doc_url": "http://www.wikidata.org/entity/Q3317534#P13786"
+    },
+    {
+      "key": "payment:museokortti",
+      "description": "[Q23040215] Museum Card",
+      "doc_url": "http://www.wikidata.org/entity/Q23040215#P13786"
+    },
+    {
+      "key": "payment:museumkaart",
+      "description": "[Q2237462] Museumkaart",
+      "doc_url": "http://www.wikidata.org/entity/Q2237462#P13786"
+    },
+    {
+      "key": "payment:museumpassmusees",
+      "description": "[Q107182470] museumPASSmusées",
+      "doc_url": "http://www.wikidata.org/entity/Q107182470#P13786"
     },
     {
       "key": "payment:nc_quick_pass",
@@ -22526,6 +22586,12 @@
       "doc_url": "http://www.wikidata.org/entity/P3215#P13786"
     },
     {
+      "key": "ref:FR:SNCF-Réseau",
+      "description": "[Q21605526] SNCF Réseau",
+      "doc_url": "http://www.wikidata.org/entity/Q21605526#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SNCF%20R%C3%A9seau.png"
+    },
+    {
       "key": "ref:FR:museofile",
       "description": "[P539] Museofile ID",
       "doc_url": "http://www.wikidata.org/entity/P539#P13786"
@@ -23135,7 +23201,7 @@
     {
       "key": "religion",
       "value": "muslim",
-      "description": "[Q432] Islām",
+      "description": "[Q432] Islam",
       "doc_url": "http://www.wikidata.org/entity/Q432#P1282"
     },
     {
@@ -24684,7 +24750,7 @@
     {
       "key": "shop",
       "value": "maps",
-      "description": "[Q141740898] map store",
+      "description": "[Q141740898] map shop",
       "doc_url": "http://www.wikidata.org/entity/Q141740898#P1282"
     },
     {
@@ -26549,6 +26615,12 @@
       "value": "subway",
       "description": "[Q928830] metro station",
       "doc_url": "http://www.wikidata.org/entity/Q928830#P1282"
+    },
+    {
+      "key": "statue",
+      "value": "animal",
+      "description": "[Q3476508] animal sculpture",
+      "doc_url": "http://www.wikidata.org/entity/Q3476508#P1282"
     },
     {
       "key": "statue",
