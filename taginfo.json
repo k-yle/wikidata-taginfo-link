@@ -13014,7 +13014,7 @@
     {
       "key": "man_made",
       "value": "animal_trap",
-      "description": "[Q34168] šintor",
+      "description": "[Q34168] trapping",
       "doc_url": "http://www.wikidata.org/entity/Q34168#P1282"
     },
     {
@@ -13286,12 +13286,6 @@
       "value": "mineshaft",
       "description": "[Q556186] mine shaft",
       "doc_url": "http://www.wikidata.org/entity/Q556186#P1282"
-    },
-    {
-      "key": "man_made",
-      "value": "monitoring_station",
-      "description": "[Q130304143] USGS streamgaging station",
-      "doc_url": "http://www.wikidata.org/entity/Q130304143#P1282"
     },
     {
       "key": "man_made",
