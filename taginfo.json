@@ -1749,11 +1749,6 @@
     },
     {
       "key": "artwork_subject",
-      "description": "[Q53001749] subject of depiction",
-      "doc_url": "http://www.wikidata.org/entity/Q53001749#P13786"
-    },
-    {
-      "key": "artwork_subject",
       "value": "sheela-na-gig",
       "description": "[Q509424] sheela na gig",
       "doc_url": "http://www.wikidata.org/entity/Q509424#P1282"
@@ -14005,7 +14000,7 @@
     {
       "key": "memorial",
       "value": "plaque",
-      "description": "[Q721747] commemorative inscription",
+      "description": "[Q721747] commemorative plaque",
       "doc_url": "http://www.wikidata.org/entity/Q721747#P1282"
     },
     {
@@ -23929,8 +23924,8 @@
     {
       "key": "seamark:type",
       "value": "mooring",
-      "description": "[Q587735] mooring",
-      "doc_url": "http://www.wikidata.org/entity/Q587735#P1282"
+      "description": "[Q138218756] mooring",
+      "doc_url": "http://www.wikidata.org/entity/Q138218756#P1282"
     },
     {
       "key": "seamark:type",
