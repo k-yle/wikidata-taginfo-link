@@ -1710,6 +1710,30 @@
       "doc_url": "http://www.wikidata.org/entity/Q42973#P13786"
     },
     {
+      "key": "architect:wikidata",
+      "value": "Q47508972",
+      "description": "[Q47508972] Lajos Schodits",
+      "doc_url": "http://www.wikidata.org/entity/Q47508972#P1282"
+    },
+    {
+      "key": "architect:wikidata",
+      "value": "Q47544391",
+      "description": "[Q47544391] Béla Eberling",
+      "doc_url": "http://www.wikidata.org/entity/Q47544391#P1282"
+    },
+    {
+      "key": "architect",
+      "value": "Eberling Béla",
+      "description": "[Q47544391] Béla Eberling",
+      "doc_url": "http://www.wikidata.org/entity/Q47544391#P1282"
+    },
+    {
+      "key": "architect",
+      "value": "Schodits Lajos",
+      "description": "[Q47508972] Lajos Schodits",
+      "doc_url": "http://www.wikidata.org/entity/Q47508972#P1282"
+    },
+    {
       "key": "area",
       "description": "[Q11500] area",
       "doc_url": "http://www.wikidata.org/entity/Q11500#P13786"
@@ -2788,6 +2812,12 @@
     },
     {
       "key": "brand",
+      "value": "asdf",
+      "description": "[Q4115189] sandbox",
+      "doc_url": "http://www.wikidata.org/entity/Q4115189#P1282"
+    },
+    {
+      "key": "brand",
       "value": "cafe+co",
       "description": "[Q1025563] café+co",
       "doc_url": "http://www.wikidata.org/entity/Q1025563#P1282",
@@ -3475,6 +3505,18 @@
       "value": "wilhelminian_style",
       "description": "[Q19311731] Wilhelminian style",
       "doc_url": "http://www.wikidata.org/entity/Q19311731#P1282"
+    },
+    {
+      "key": "building:design:wikidata",
+      "value": "Q142179852",
+      "description": "[Q142179852] S.E.V. house type",
+      "doc_url": "http://www.wikidata.org/entity/Q142179852#P1282"
+    },
+    {
+      "key": "building:design",
+      "value": "S.E.V.",
+      "description": "[Q142179852] S.E.V. house type",
+      "doc_url": "http://www.wikidata.org/entity/Q142179852#P1282"
     },
     {
       "key": "building:levels",
@@ -5066,8 +5108,8 @@
     },
     {
       "key": "conditional",
-      "description": "[Q875267] necessity and sufficiency",
-      "doc_url": "http://www.wikidata.org/entity/Q875267#P13786"
+      "description": "[Q813912] condition",
+      "doc_url": "http://www.wikidata.org/entity/Q813912#P13786"
     },
     {
       "key": "condo",
@@ -5188,7 +5230,7 @@
     },
     {
       "key": "contact:twitter",
-      "description": "[P2002] X (Twitter) username",
+      "description": "[P2002] X username",
       "doc_url": "http://www.wikidata.org/entity/P2002#P13786"
     },
     {
@@ -6318,7 +6360,7 @@
     {
       "key": "cuisine",
       "value": "ramen",
-      "description": "[Q23812032] ramen shop",
+      "description": "[Q23812032] ramen restaurant",
       "doc_url": "http://www.wikidata.org/entity/Q23812032#P1282"
     },
     {
@@ -8818,6 +8860,12 @@
       "key": "fountain",
       "description": "[Q483453] fountain",
       "doc_url": "http://www.wikidata.org/entity/Q483453#P13786"
+    },
+    {
+      "key": "fountain",
+      "value": "Neptune_fountain",
+      "description": "[Q167422] Fountain of Neptune",
+      "doc_url": "http://www.wikidata.org/entity/Q167422#P1282"
     },
     {
       "key": "fountain",
@@ -13775,6 +13823,12 @@
     },
     {
       "key": "material",
+      "value": "bronze",
+      "description": "[Q34095] bronze",
+      "doc_url": "http://www.wikidata.org/entity/Q34095#P1282"
+    },
+    {
+      "key": "material",
       "value": "concrete",
       "description": "[Q22657] concrete",
       "doc_url": "http://www.wikidata.org/entity/Q22657#P1282"
@@ -14095,12 +14149,6 @@
       "value": "bunker",
       "description": "[Q91122] bunker",
       "doc_url": "http://www.wikidata.org/entity/Q91122#P1282"
-    },
-    {
-      "key": "military",
-      "value": "naval_base",
-      "description": "[Q1324633] naval base",
-      "doc_url": "http://www.wikidata.org/entity/Q1324633#P1282"
     },
     {
       "key": "military",
@@ -15729,7 +15777,8 @@
       "key": "network",
       "value": "Casals i Ateneus dels Països Catalans",
       "description": "[Q119411870] Network of Social Centres from the Catalan Countries",
-      "doc_url": "http://www.wikidata.org/entity/Q119411870#P1282"
+      "doc_url": "http://www.wikidata.org/entity/Q119411870#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Xarxa%20de%20Casals%20i%20Ateneus%20dels%20Pa%C3%AFsos%20Catalans.jpg"
     },
     {
       "key": "network",
@@ -19035,6 +19084,12 @@
     },
     {
       "key": "operator:wikidata",
+      "value": "Q138826424",
+      "description": "[Q138826424] Q138826424",
+      "doc_url": "http://www.wikidata.org/entity/Q138826424#P1282"
+    },
+    {
+      "key": "operator:wikidata",
       "value": "Q142081261",
       "description": "[Q142081261] Bakonyerdő Zrt.",
       "doc_url": "http://www.wikidata.org/entity/Q142081261#P1282"
@@ -19051,6 +19106,12 @@
       "value": "Bakonyerdő Zrt.",
       "description": "[Q142081261] Bakonyerdő Zrt.",
       "doc_url": "http://www.wikidata.org/entity/Q142081261#P1282"
+    },
+    {
+      "key": "operator",
+      "value": "EGERERDŐ Erdészeti Zrt.",
+      "description": "[Q138826424] Q138826424",
+      "doc_url": "http://www.wikidata.org/entity/Q138826424#P1282"
     },
     {
       "key": "organic",
@@ -19231,6 +19292,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q1912682#P13786"
     },
     {
+      "key": "payment:Apple Pay",
+      "description": "[Q18010990] Apple Pay",
+      "doc_url": "http://www.wikidata.org/entity/Q18010990#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Apple%20Pay%20logo.svg"
+    },
+    {
       "key": "payment:LINE_Pay",
       "description": "[Q138732463] LINE Pay",
       "doc_url": "http://www.wikidata.org/entity/Q138732463#P13786"
@@ -19244,6 +19311,12 @@
       "key": "payment:american_express",
       "description": "[Q24228273] American Express credit card",
       "doc_url": "http://www.wikidata.org/entity/Q24228273#P13786"
+    },
+    {
+      "key": "payment:apple",
+      "description": "[Q18010990] Apple Pay",
+      "doc_url": "http://www.wikidata.org/entity/Q18010990#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Apple%20Pay%20logo.svg"
     },
     {
       "key": "payment:apple_pay",
@@ -19803,7 +19876,7 @@
     {
       "key": "place:CN",
       "value": "district",
-      "description": "[Q1065118] district of China",
+      "description": "[Q1065118] Municipal district",
       "doc_url": "http://www.wikidata.org/entity/Q1065118#P1282"
     },
     {
@@ -24763,7 +24836,7 @@
     {
       "key": "shop",
       "value": "mobile_phone",
-      "description": "[Q47516435] mobile phone shop",
+      "description": "[Q47516435] mobile phone repair shop",
       "doc_url": "http://www.wikidata.org/entity/Q47516435#P1282"
     },
     {
@@ -25071,12 +25144,6 @@
       "value": "trade",
       "description": "[Q135301903] supply house",
       "doc_url": "http://www.wikidata.org/entity/Q135301903#P1282"
-    },
-    {
-      "key": "shop",
-      "value": "trade",
-      "description": "[Q811891] building materials trade",
-      "doc_url": "http://www.wikidata.org/entity/Q811891#P1282"
     },
     {
       "key": "shop",
@@ -25531,6 +25598,11 @@
       "value": "www.geoportal.gov.pl",
       "description": "[Q56338375] National geoportal (Poland)",
       "doc_url": "http://www.wikidata.org/entity/Q56338375#P1282"
+    },
+    {
+      "key": "special_education_needs",
+      "description": "[Q63861526] special educational needs",
+      "doc_url": "http://www.wikidata.org/entity/Q63861526#P13786"
     },
     {
       "key": "species",
@@ -27517,6 +27589,12 @@
     },
     {
       "key": "trade",
+      "value": "building_supplies",
+      "description": "[Q811891] building materials trade",
+      "doc_url": "http://www.wikidata.org/entity/Q811891#P1282"
+    },
+    {
+      "key": "trade",
       "value": "plumbing",
       "description": "[Q135302724] plubming supply house",
       "doc_url": "http://www.wikidata.org/entity/Q135302724#P1282"
@@ -28016,6 +28094,12 @@
       "value": "yes",
       "description": "[Q575759] war memorial",
       "doc_url": "http://www.wikidata.org/entity/Q575759#P1282"
+    },
+    {
+      "key": "was:payment:apple_pay",
+      "description": "[Q18010990] Apple Pay",
+      "doc_url": "http://www.wikidata.org/entity/Q18010990#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Apple%20Pay%20logo.svg"
     },
     {
       "key": "waste",
