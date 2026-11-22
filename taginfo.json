@@ -57,6 +57,11 @@
       "doc_url": "http://www.wikidata.org/entity/P300#P13786"
     },
     {
+      "key": "Key:communication:amateur_radio:pota",
+      "description": "[Q115392398] Parks on the Air",
+      "doc_url": "http://www.wikidata.org/entity/Q115392398#P13786"
+    },
+    {
       "key": "MOE:id",
       "description": "[P9360] Ministry of Education New Zealand school ID",
       "doc_url": "http://www.wikidata.org/entity/P9360#P13786"
@@ -6925,7 +6930,8 @@
       "key": "denomination",
       "value": "coptic_catholic",
       "description": "[Q49378] Coptic Catholic Church",
-      "doc_url": "http://www.wikidata.org/entity/Q49378#P1282"
+      "doc_url": "http://www.wikidata.org/entity/Q49378#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Coptic%20cross.svg"
     },
     {
       "key": "denomination",
@@ -19084,6 +19090,12 @@
     },
     {
       "key": "operator:wikidata",
+      "value": "Q136459618",
+      "description": "[Q136459618] Újpesti Városgondnokság",
+      "doc_url": "http://www.wikidata.org/entity/Q136459618#P1282"
+    },
+    {
+      "key": "operator:wikidata",
       "value": "Q138826424",
       "description": "[Q138826424] Q138826424",
       "doc_url": "http://www.wikidata.org/entity/Q138826424#P1282"
@@ -19112,6 +19124,12 @@
       "value": "EGERERDŐ Erdészeti Zrt.",
       "description": "[Q138826424] Q138826424",
       "doc_url": "http://www.wikidata.org/entity/Q138826424#P1282"
+    },
+    {
+      "key": "operator",
+      "value": "Újpesti Városgondnokság Kft.",
+      "description": "[Q136459618] Újpesti Városgondnokság",
+      "doc_url": "http://www.wikidata.org/entity/Q136459618#P1282"
     },
     {
       "key": "organic",
@@ -24836,7 +24854,7 @@
     {
       "key": "shop",
       "value": "mobile_phone",
-      "description": "[Q47516435] mobile phone repair shop",
+      "description": "[Q47516435] mobile phone shop",
       "doc_url": "http://www.wikidata.org/entity/Q47516435#P1282"
     },
     {
