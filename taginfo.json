@@ -2818,7 +2818,7 @@
     {
       "key": "brand",
       "value": "asdf",
-      "description": "[Q4115189] sandbox",
+      "description": "[Q4115189] مجلة كلية القانون والعلوم السياسية",
       "doc_url": "http://www.wikidata.org/entity/Q4115189#P1282"
     },
     {
@@ -18506,8 +18506,8 @@
     {
       "key": "network",
       "value": "lv:national",
-      "description": "[Q115978496] list of national roads in Latvia",
-      "doc_url": "http://www.wikidata.org/entity/Q115978496#P1282"
+      "description": "[Q1888633] list of national roads in Latvia",
+      "doc_url": "http://www.wikidata.org/entity/Q1888633#P1282"
     },
     {
       "key": "network",
