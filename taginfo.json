@@ -17,72 +17,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q214833#P13786"
     },
     {
-      "key": "EHAK:code",
-      "description": "[P1140] EHAK id",
-      "doc_url": "http://www.wikidata.org/entity/P1140#P13786"
-    },
-    {
-      "key": "GNS:id",
-      "description": "[P2326] GNS Unique Feature ID",
-      "doc_url": "http://www.wikidata.org/entity/P2326#P13786"
-    },
-    {
-      "key": "HE_ref",
-      "description": "[P1216] National Heritage List for England number",
-      "doc_url": "http://www.wikidata.org/entity/P1216#P13786"
-    },
-    {
-      "key": "HFCS",
-      "description": "[Q800125] functional classification",
-      "doc_url": "http://www.wikidata.org/entity/Q800125#P13786"
-    },
-    {
-      "key": "INEGI:MUNID",
-      "description": "[P3801] INEGI municipality ID",
-      "doc_url": "http://www.wikidata.org/entity/P3801#P13786"
-    },
-    {
-      "key": "INEGI:cve_loc",
-      "description": "[P1976] INEGI locality ID",
-      "doc_url": "http://www.wikidata.org/entity/P1976#P13786"
-    },
-    {
-      "key": "INEGI:cve_loc",
-      "description": "[Q20202337] INEGI locality code",
-      "doc_url": "http://www.wikidata.org/entity/Q20202337#P13786"
-    },
-    {
-      "key": "ISO3166-2",
-      "description": "[P300] ISO 3166-2 code",
-      "doc_url": "http://www.wikidata.org/entity/P300#P13786"
-    },
-    {
-      "key": "Key:communication:amateur_radio:pota",
-      "description": "[Q115392398] Parks on the Air",
-      "doc_url": "http://www.wikidata.org/entity/Q115392398#P13786"
-    },
-    {
-      "key": "MOE:id",
-      "description": "[P9360] Ministry of Education New Zealand school ID",
-      "doc_url": "http://www.wikidata.org/entity/P9360#P13786"
-    },
-    {
-      "key": "MUCD",
-      "description": "[Q115814868] military unit cover designator",
-      "doc_url": "http://www.wikidata.org/entity/Q115814868#P13786"
-    },
-    {
-      "key": "NHS",
-      "value": "STRAHNET",
-      "description": "[Q57830222] Strategic Highway Network",
-      "doc_url": "http://www.wikidata.org/entity/Q57830222#P1282"
-    },
-    {
-      "key": "TUD",
-      "description": "[Q130283121] true unit designator",
-      "doc_url": "http://www.wikidata.org/entity/Q130283121#P13786"
-    },
-    {
       "key": "abandoned:*",
       "description": "[Q63065035] abandoned",
       "doc_url": "http://www.wikidata.org/entity/Q63065035#P13786"
@@ -91,17 +25,6 @@
       "key": "abandoned:highway",
       "description": "[Q7897785] unused highway",
       "doc_url": "http://www.wikidata.org/entity/Q7897785#P13786"
-    },
-    {
-      "key": "access:covid19",
-      "description": "[Q81068910] COVID-19 pandemic",
-      "doc_url": "http://www.wikidata.org/entity/Q81068910#P13786"
-    },
-    {
-      "key": "access",
-      "value": "private",
-      "description": "[Q703941] private road",
-      "doc_url": "http://www.wikidata.org/entity/Q703941#P1282"
     },
     {
       "key": "access_control",
@@ -113,6 +36,17 @@
       "value": "partial",
       "description": "[Q14875255] limited-access road",
       "doc_url": "http://www.wikidata.org/entity/Q14875255#P1282"
+    },
+    {
+      "key": "access:covid19",
+      "description": "[Q81068910] COVID-19 pandemic",
+      "doc_url": "http://www.wikidata.org/entity/Q81068910#P13786"
+    },
+    {
+      "key": "access",
+      "value": "private",
+      "description": "[Q703941] private road",
+      "doc_url": "http://www.wikidata.org/entity/Q703941#P1282"
     },
     {
       "key": "activity:dating",
@@ -786,14 +720,14 @@
     {
       "key": "amenity",
       "value": "dentist",
-      "description": "[Q2979300] dental clinic",
-      "doc_url": "http://www.wikidata.org/entity/Q2979300#P1282"
+      "description": "[Q27349] dentist",
+      "doc_url": "http://www.wikidata.org/entity/Q27349#P1282"
     },
     {
       "key": "amenity",
       "value": "dentist",
-      "description": "[Q27349] dentist",
-      "doc_url": "http://www.wikidata.org/entity/Q27349#P1282"
+      "description": "[Q2979300] dental clinic",
+      "doc_url": "http://www.wikidata.org/entity/Q2979300#P1282"
     },
     {
       "key": "amenity",
@@ -965,6 +899,18 @@
     },
     {
       "key": "amenity",
+      "value": "hāngī_pit",
+      "description": "[Q1186334] hangi",
+      "doc_url": "http://www.wikidata.org/entity/Q1186334#P1282"
+    },
+    {
+      "key": "amenity",
+      "value": "hāngī_pit",
+      "description": "[Q473594] earth oven",
+      "doc_url": "http://www.wikidata.org/entity/Q473594#P1282"
+    },
+    {
+      "key": "amenity",
       "value": "harbourmaster",
       "description": "[Q1489454] harbormaster",
       "doc_url": "http://www.wikidata.org/entity/Q1489454#P1282"
@@ -986,18 +932,6 @@
       "value": "hunting_stand",
       "description": "[Q1279822] shooting stand",
       "doc_url": "http://www.wikidata.org/entity/Q1279822#P1282"
-    },
-    {
-      "key": "amenity",
-      "value": "hāngī_pit",
-      "description": "[Q1186334] hangi",
-      "doc_url": "http://www.wikidata.org/entity/Q1186334#P1282"
-    },
-    {
-      "key": "amenity",
-      "value": "hāngī_pit",
-      "description": "[Q473594] earth oven",
-      "doc_url": "http://www.wikidata.org/entity/Q473594#P1282"
     },
     {
       "key": "amenity",
@@ -1434,6 +1368,12 @@
     {
       "key": "amenity",
       "value": "social_facility",
+      "description": "[Q22908] retirement home",
+      "doc_url": "http://www.wikidata.org/entity/Q22908#P1282"
+    },
+    {
+      "key": "amenity",
+      "value": "social_facility",
       "description": "[Q47520019] social service facility",
       "doc_url": "http://www.wikidata.org/entity/Q47520019#P1282"
     },
@@ -1442,12 +1382,6 @@
       "value": "social_facility",
       "description": "[Q837142] nursing home",
       "doc_url": "http://www.wikidata.org/entity/Q837142#P1282"
-    },
-    {
-      "key": "amenity",
-      "value": "social_facility",
-      "description": "[Q22908] retirement home",
-      "doc_url": "http://www.wikidata.org/entity/Q22908#P1282"
     },
     {
       "key": "amenity",
@@ -1506,14 +1440,14 @@
     {
       "key": "amenity",
       "value": "telephone",
-      "description": "[Q900977] payphone",
-      "doc_url": "http://www.wikidata.org/entity/Q900977#P1282"
+      "description": "[Q11035] telephone",
+      "doc_url": "http://www.wikidata.org/entity/Q11035#P1282"
     },
     {
       "key": "amenity",
       "value": "telephone",
-      "description": "[Q11035] telephone",
-      "doc_url": "http://www.wikidata.org/entity/Q11035#P1282"
+      "description": "[Q900977] payphone",
+      "doc_url": "http://www.wikidata.org/entity/Q900977#P1282"
     },
     {
       "key": "amenity",
@@ -1566,14 +1500,14 @@
     {
       "key": "amenity",
       "value": "university",
-      "description": "[Q62079009] constituent college",
-      "doc_url": "http://www.wikidata.org/entity/Q62079009#P1282"
+      "description": "[Q3918] university",
+      "doc_url": "http://www.wikidata.org/entity/Q3918#P1282"
     },
     {
       "key": "amenity",
       "value": "university",
-      "description": "[Q3918] university",
-      "doc_url": "http://www.wikidata.org/entity/Q3918#P1282"
+      "description": "[Q62079009] constituent college",
+      "doc_url": "http://www.wikidata.org/entity/Q62079009#P1282"
     },
     {
       "key": "amenity",
@@ -1635,12 +1569,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q475061#P13786"
     },
     {
-      "key": "animal",
-      "value": "horse_walker",
-      "description": "[Q1480673] horse walker",
-      "doc_url": "http://www.wikidata.org/entity/Q1480673#P1282"
-    },
-    {
       "key": "animal_shelter:adoption",
       "value": "yes",
       "description": "[Q7171565] pet adoption",
@@ -1657,6 +1585,12 @@
       "value": "yes",
       "description": "[Q1533036] animal sanctuary",
       "doc_url": "http://www.wikidata.org/entity/Q1533036#P1282"
+    },
+    {
+      "key": "animal",
+      "value": "horse_walker",
+      "description": "[Q1480673] horse walker",
+      "doc_url": "http://www.wikidata.org/entity/Q1480673#P1282"
     },
     {
       "key": "animated",
@@ -1756,20 +1690,14 @@
       "doc_url": "http://www.wikidata.org/entity/Q2822867#P1282"
     },
     {
-      "key": "artist:wikidata",
-      "description": "[P170] creator",
-      "doc_url": "http://www.wikidata.org/entity/P170#P13786"
-    },
-    {
       "key": "artist_name",
       "description": "[Q483501] artist",
       "doc_url": "http://www.wikidata.org/entity/Q483501#P13786"
     },
     {
-      "key": "artwork:material",
-      "value": "bronze",
-      "description": "[Q928357] bronze sculpture",
-      "doc_url": "http://www.wikidata.org/entity/Q928357#P1282"
+      "key": "artist:wikidata",
+      "description": "[P170] creator",
+      "doc_url": "http://www.wikidata.org/entity/P170#P13786"
     },
     {
       "key": "artwork_subject",
@@ -1859,6 +1787,12 @@
       "value": "tilework",
       "description": "[Q468402] tile",
       "doc_url": "http://www.wikidata.org/entity/Q468402#P1282"
+    },
+    {
+      "key": "artwork:material",
+      "value": "bronze",
+      "description": "[Q928357] bronze sculpture",
+      "doc_url": "http://www.wikidata.org/entity/Q928357#P1282"
     },
     {
       "key": "ashtray",
@@ -2329,18 +2263,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q11442#P13786"
     },
     {
-      "key": "bicycle",
-      "value": "designated",
-      "description": "[Q125101202] cycle navi mark",
-      "doc_url": "http://www.wikidata.org/entity/Q125101202#P1282"
-    },
-    {
-      "key": "bicycle",
-      "value": "no",
-      "description": "[Q66361472] bikes not allowed",
-      "doc_url": "http://www.wikidata.org/entity/Q66361472#P1282"
-    },
-    {
       "key": "bicycle_parking",
       "description": "[Q1392526] bicycle stand",
       "doc_url": "http://www.wikidata.org/entity/Q1392526#P13786"
@@ -2362,6 +2284,18 @@
       "value": "wall_loops",
       "description": "[Q57596082] wheelbender",
       "doc_url": "http://www.wikidata.org/entity/Q57596082#P1282"
+    },
+    {
+      "key": "bicycle",
+      "value": "designated",
+      "description": "[Q125101202] cycle navi mark",
+      "doc_url": "http://www.wikidata.org/entity/Q125101202#P1282"
+    },
+    {
+      "key": "bicycle",
+      "value": "no",
+      "description": "[Q66361472] bikes not allowed",
+      "doc_url": "http://www.wikidata.org/entity/Q66361472#P1282"
     },
     {
       "key": "bike_ride",
@@ -2576,14 +2510,14 @@
     {
       "key": "boundary",
       "value": "timezone",
-      "description": "[Q17272692] IANA time zone",
-      "doc_url": "http://www.wikidata.org/entity/Q17272692#P1282"
+      "description": "[Q12143] time zone",
+      "doc_url": "http://www.wikidata.org/entity/Q12143#P1282"
     },
     {
       "key": "boundary",
       "value": "timezone",
-      "description": "[Q12143] time zone",
-      "doc_url": "http://www.wikidata.org/entity/Q12143#P1282"
+      "description": "[Q17272692] IANA time zone",
+      "doc_url": "http://www.wikidata.org/entity/Q17272692#P1282"
     },
     {
       "key": "boundary",
@@ -2645,7 +2579,7 @@
     {
       "key": "brand:wikidata",
       "value": "Q140984027",
-      "description": "[Q140984027] Q140984027",
+      "description": "[Q140984027] Kormányablak",
       "doc_url": "http://www.wikidata.org/entity/Q140984027#P1282"
     },
     {
@@ -2694,9 +2628,22 @@
     },
     {
       "key": "brand",
+      "value": "asdf",
+      "description": "[Q4115189] مجلة كلية القانون والعلوم السياسية",
+      "doc_url": "http://www.wikidata.org/entity/Q4115189#P1282"
+    },
+    {
+      "key": "brand",
       "value": "ATM Point",
       "description": "[Q141636347] ATM Point",
       "doc_url": "http://www.wikidata.org/entity/Q141636347#P1282"
+    },
+    {
+      "key": "brand",
+      "value": "cafe+co",
+      "description": "[Q1025563] café+co",
+      "doc_url": "http://www.wikidata.org/entity/Q1025563#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20cafeplusco.png"
     },
     {
       "key": "brand",
@@ -2732,16 +2679,16 @@
     },
     {
       "key": "brand",
+      "value": "Kormányablak",
+      "description": "[Q140984027] Kormányablak",
+      "doc_url": "http://www.wikidata.org/entity/Q140984027#P1282"
+    },
+    {
+      "key": "brand",
       "value": "KTM",
       "description": "[Q215657] Bajaj Mobility/KTM",
       "doc_url": "http://www.wikidata.org/entity/Q215657#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/KTM-Logo.svg"
-    },
-    {
-      "key": "brand",
-      "value": "Kormányablak",
-      "description": "[Q140984027] Q140984027",
-      "doc_url": "http://www.wikidata.org/entity/Q140984027#P1282"
     },
     {
       "key": "brand",
@@ -2758,12 +2705,6 @@
     },
     {
       "key": "brand",
-      "value": "MOL_Bubi",
-      "description": "[Q16971969] MOL Bubi",
-      "doc_url": "http://www.wikidata.org/entity/Q16971969#P1282"
-    },
-    {
-      "key": "brand",
       "value": "Magyar_Posta",
       "description": "[Q145614] Magyar Posta",
       "doc_url": "http://www.wikidata.org/entity/Q145614#P1282",
@@ -2774,6 +2715,12 @@
       "value": "Mobi-pont",
       "description": "[Q142081821] Mobi Point",
       "doc_url": "http://www.wikidata.org/entity/Q142081821#P1282"
+    },
+    {
+      "key": "brand",
+      "value": "MOL_Bubi",
+      "description": "[Q16971969] MOL Bubi",
+      "doc_url": "http://www.wikidata.org/entity/Q16971969#P1282"
     },
     {
       "key": "brand",
@@ -2796,17 +2743,17 @@
     },
     {
       "key": "brand",
-      "value": "SPAR_express",
-      "description": "[Q12321004] SPAR express",
-      "doc_url": "http://www.wikidata.org/entity/Q12321004#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SPAR%20Express%20Horizontal%20Logo.jpg"
-    },
-    {
-      "key": "brand",
       "value": "Spar",
       "description": "[Q610492] Spar",
       "doc_url": "http://www.wikidata.org/entity/Q610492#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Spar-logo.svg"
+    },
+    {
+      "key": "brand",
+      "value": "SPAR_express",
+      "description": "[Q12321004] SPAR express",
+      "doc_url": "http://www.wikidata.org/entity/Q12321004#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SPAR%20Express%20Horizontal%20Logo.jpg"
     },
     {
       "key": "brand",
@@ -2816,22 +2763,14 @@
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/ZERO%20logo.png"
     },
     {
-      "key": "brand",
-      "value": "asdf",
-      "description": "[Q4115189] مجلة كلية القانون والعلوم السياسية",
-      "doc_url": "http://www.wikidata.org/entity/Q4115189#P1282"
-    },
-    {
-      "key": "brand",
-      "value": "cafe+co",
-      "description": "[Q1025563] café+co",
-      "doc_url": "http://www.wikidata.org/entity/Q1025563#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20cafeplusco.png"
-    },
-    {
       "key": "brewery",
       "description": "[Q131734] brewery",
       "doc_url": "http://www.wikidata.org/entity/Q131734#P13786"
+    },
+    {
+      "key": "bridge",
+      "description": "[Q12280] bridge",
+      "doc_url": "http://www.wikidata.org/entity/Q12280#P13786"
     },
     {
       "key": "bridge",
@@ -2839,9 +2778,9 @@
       "doc_url": "http://www.wikidata.org/entity/Q7814330#P13786"
     },
     {
-      "key": "bridge",
-      "description": "[Q12280] bridge",
-      "doc_url": "http://www.wikidata.org/entity/Q12280#P13786"
+      "key": "bridge_type",
+      "description": "[Q136687862] type of bridge",
+      "doc_url": "http://www.wikidata.org/entity/Q136687862#P13786"
     },
     {
       "key": "bridge:movable",
@@ -2999,11 +2938,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q12280#P1282"
     },
     {
-      "key": "bridge_type",
-      "description": "[Q136687862] type of bridge",
-      "doc_url": "http://www.wikidata.org/entity/Q136687862#P13786"
-    },
-    {
       "key": "building",
       "description": "[Q41176] building",
       "doc_url": "http://www.wikidata.org/entity/Q41176#P13786"
@@ -3063,13 +2997,13 @@
     },
     {
       "key": "building:architecture",
-      "value": "beaux-arts",
+      "value": "beaux_arts",
       "description": "[Q1268134] Beaux-Arts",
       "doc_url": "http://www.wikidata.org/entity/Q1268134#P1282"
     },
     {
       "key": "building:architecture",
-      "value": "beaux_arts",
+      "value": "beaux-arts",
       "description": "[Q1268134] Beaux-Arts",
       "doc_url": "http://www.wikidata.org/entity/Q1268134#P1282"
     },
@@ -3183,15 +3117,15 @@
     },
     {
       "key": "building:architecture",
-      "value": "high-tech",
-      "description": "[Q845318] high-tech architecture",
-      "doc_url": "http://www.wikidata.org/entity/Q845318#P1282"
-    },
-    {
-      "key": "building:architecture",
       "value": "high_victorian_gothic",
       "description": "[Q5757358] High Victorian Gothic",
       "doc_url": "http://www.wikidata.org/entity/Q5757358#P1282"
+    },
+    {
+      "key": "building:architecture",
+      "value": "high-tech",
+      "description": "[Q845318] high-tech architecture",
+      "doc_url": "http://www.wikidata.org/entity/Q845318#P1282"
     },
     {
       "key": "building:architecture",
@@ -3261,6 +3195,18 @@
     },
     {
       "key": "building:architecture",
+      "value": "neo_futurism",
+      "description": "[Q17012219] neo-futurism",
+      "doc_url": "http://www.wikidata.org/entity/Q17012219#P1282"
+    },
+    {
+      "key": "building:architecture",
+      "value": "neo_mudejar",
+      "description": "[Q614624] neo-Mudéjar",
+      "doc_url": "http://www.wikidata.org/entity/Q614624#P1282"
+    },
+    {
+      "key": "building:architecture",
       "value": "neo-baroque",
       "description": "[Q911397] baroque revival",
       "doc_url": "http://www.wikidata.org/entity/Q911397#P1282"
@@ -3294,18 +3240,6 @@
       "value": "neo-romanesque",
       "description": "[Q744373] Romanesque Revival architecture",
       "doc_url": "http://www.wikidata.org/entity/Q744373#P1282"
-    },
-    {
-      "key": "building:architecture",
-      "value": "neo_futurism",
-      "description": "[Q17012219] neo-futurism",
-      "doc_url": "http://www.wikidata.org/entity/Q17012219#P1282"
-    },
-    {
-      "key": "building:architecture",
-      "value": "neo_mudejar",
-      "description": "[Q614624] neo-Mudéjar",
-      "doc_url": "http://www.wikidata.org/entity/Q614624#P1282"
     },
     {
       "key": "building:architecture",
@@ -3546,14 +3480,14 @@
     {
       "key": "building:material",
       "value": "brick",
-      "description": "[Q41955438] brick building",
-      "doc_url": "http://www.wikidata.org/entity/Q41955438#P1282"
+      "description": "[Q40089] brick",
+      "doc_url": "http://www.wikidata.org/entity/Q40089#P1282"
     },
     {
       "key": "building:material",
       "value": "brick",
-      "description": "[Q40089] brick",
-      "doc_url": "http://www.wikidata.org/entity/Q40089#P1282"
+      "description": "[Q41955438] brick building",
+      "doc_url": "http://www.wikidata.org/entity/Q41955438#P1282"
     },
     {
       "key": "building:material",
@@ -4115,14 +4049,14 @@
     {
       "key": "building",
       "value": "temple",
-      "description": "[Q842402] Hindu temple",
-      "doc_url": "http://www.wikidata.org/entity/Q842402#P1282"
+      "description": "[Q44539] temple",
+      "doc_url": "http://www.wikidata.org/entity/Q44539#P1282"
     },
     {
       "key": "building",
       "value": "temple",
-      "description": "[Q44539] temple",
-      "doc_url": "http://www.wikidata.org/entity/Q44539#P1282"
+      "description": "[Q842402] Hindu temple",
+      "doc_url": "http://www.wikidata.org/entity/Q842402#P1282"
     },
     {
       "key": "building",
@@ -4362,15 +4296,15 @@
       "doc_url": "http://www.wikidata.org/entity/Q319224#P13786"
     },
     {
+      "key": "cargo_bike",
+      "description": "[Q573863] cargo bike",
+      "doc_url": "http://www.wikidata.org/entity/Q573863#P13786"
+    },
+    {
       "key": "cargo",
       "value": "vehicle",
       "description": "[Q332050] tow truck",
       "doc_url": "http://www.wikidata.org/entity/Q332050#P1282"
-    },
-    {
-      "key": "cargo_bike",
-      "description": "[Q573863] cargo bike",
-      "doc_url": "http://www.wikidata.org/entity/Q573863#P13786"
     },
     {
       "key": "carpenter",
@@ -4405,12 +4339,6 @@
       "value": "yes",
       "description": "[Q139832038] loading pit for carrier trucks",
       "doc_url": "http://www.wikidata.org/entity/Q139832038#P1282"
-    },
-    {
-      "key": "castle",
-      "value": "folly",
-      "description": "[Q180174] folly",
-      "doc_url": "http://www.wikidata.org/entity/Q180174#P1282"
     },
     {
       "key": "castle_type",
@@ -4459,6 +4387,12 @@
       "value": "stately",
       "description": "[Q751876] château",
       "doc_url": "http://www.wikidata.org/entity/Q751876#P1282"
+    },
+    {
+      "key": "castle",
+      "value": "folly",
+      "description": "[Q180174] folly",
+      "doc_url": "http://www.wikidata.org/entity/Q180174#P1282"
     },
     {
       "key": "catenary_mast:supporting",
@@ -4512,13 +4446,13 @@
       "doc_url": "http://www.wikidata.org/entity/Q141003337#P1282"
     },
     {
-      "key": "cinema:4DX",
+      "key": "cinema:4dx",
       "description": "[Q4638888] 4DX",
       "doc_url": "http://www.wikidata.org/entity/Q4638888#P13786",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/4DX%202019%20logo.svg"
     },
     {
-      "key": "cinema:4dx",
+      "key": "cinema:4DX",
       "description": "[Q4638888] 4DX",
       "doc_url": "http://www.wikidata.org/entity/Q4638888#P13786",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/4DX%202019%20logo.svg"
@@ -4911,6 +4845,24 @@
       "doc_url": "http://www.wikidata.org/entity/Q11166728#P1282"
     },
     {
+      "key": "community_centre",
+      "value": "chitalishte",
+      "description": "[Q1638962] chitalishte",
+      "doc_url": "http://www.wikidata.org/entity/Q1638962#P1282"
+    },
+    {
+      "key": "community_centre",
+      "value": "village_hall",
+      "description": "[Q367885] village hall",
+      "doc_url": "http://www.wikidata.org/entity/Q367885#P1282"
+    },
+    {
+      "key": "community_centre",
+      "value": "youth_centre",
+      "description": "[Q1302299] youth center",
+      "doc_url": "http://www.wikidata.org/entity/Q1302299#P1282"
+    },
+    {
       "key": "community",
       "value": "BSCM",
       "description": "[Q85852882] Benedictines of the Sacred Heart of Montmartre",
@@ -4942,6 +4894,13 @@
     },
     {
       "key": "community",
+      "value": "OCart",
+      "description": "[Q220979] Carthusian Order",
+      "doc_url": "http://www.wikidata.org/entity/Q220979#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Carthusian%20coat%20of%20arms-2006%2011%2030%20murraybuckley.svg"
+    },
+    {
+      "key": "community",
       "value": "OCC",
       "description": "[Q2939649] Carmelites",
       "doc_url": "http://www.wikidata.org/entity/Q2939649#P1282"
@@ -4957,13 +4916,6 @@
       "value": "OCSO",
       "description": "[Q276223] Order of Cistercians of the Strict Observance",
       "doc_url": "http://www.wikidata.org/entity/Q276223#P1282"
-    },
-    {
-      "key": "community",
-      "value": "OCart",
-      "description": "[Q220979] Carthusian Order",
-      "doc_url": "http://www.wikidata.org/entity/Q220979#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Carthusian%20coat%20of%20arms-2006%2011%2030%20murraybuckley.svg"
     },
     {
       "key": "community",
@@ -5044,24 +4996,6 @@
       "value": "TOSF",
       "description": "[Q9295862] Third Order of Saint Francis",
       "doc_url": "http://www.wikidata.org/entity/Q9295862#P1282"
-    },
-    {
-      "key": "community_centre",
-      "value": "chitalishte",
-      "description": "[Q1638962] chitalishte",
-      "doc_url": "http://www.wikidata.org/entity/Q1638962#P1282"
-    },
-    {
-      "key": "community_centre",
-      "value": "village_hall",
-      "description": "[Q367885] village hall",
-      "doc_url": "http://www.wikidata.org/entity/Q367885#P1282"
-    },
-    {
-      "key": "community_centre",
-      "value": "youth_centre",
-      "description": "[Q1302299] youth center",
-      "doc_url": "http://www.wikidata.org/entity/Q1302299#P1282"
     },
     {
       "key": "company",
@@ -5692,19 +5626,6 @@
     },
     {
       "key": "created_by",
-      "value": "JOSM",
-      "description": "[Q12877] JOSM",
-      "doc_url": "http://www.wikidata.org/entity/Q12877#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/JOSM%20Logotype%202019.svg"
-    },
-    {
-      "key": "created_by",
-      "value": "Osm.Org Tags Editor",
-      "description": "[Q125140943] OpenStreetMap Tags Editor",
-      "doc_url": "http://www.wikidata.org/entity/Q125140943#P1282"
-    },
-    {
-      "key": "created_by",
       "value": "gnome-maps_3.33.3",
       "description": "[Q15968492] GNOME Maps",
       "doc_url": "http://www.wikidata.org/entity/Q15968492#P1282",
@@ -5715,6 +5636,19 @@
       "value": "https://osm.wikidata.link/",
       "description": "[Q62057752] OWL Places",
       "doc_url": "http://www.wikidata.org/entity/Q62057752#P1282"
+    },
+    {
+      "key": "created_by",
+      "value": "JOSM",
+      "description": "[Q12877] JOSM",
+      "doc_url": "http://www.wikidata.org/entity/Q12877#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/JOSM%20Logotype%202019.svg"
+    },
+    {
+      "key": "created_by",
+      "value": "Osm.Org Tags Editor",
+      "description": "[Q125140943] OpenStreetMap Tags Editor",
+      "doc_url": "http://www.wikidata.org/entity/Q125140943#P1282"
     },
     {
       "key": "crop",
@@ -5785,6 +5719,36 @@
       "doc_url": "http://www.wikidata.org/entity/Q8010#P13786"
     },
     {
+      "key": "crossing_ref",
+      "value": "hawk",
+      "description": "[Q5628994] HAWK beacon",
+      "doc_url": "http://www.wikidata.org/entity/Q5628994#P1282"
+    },
+    {
+      "key": "crossing_ref",
+      "value": "pelican",
+      "description": "[Q7161439] pelican crossing",
+      "doc_url": "http://www.wikidata.org/entity/Q7161439#P1282"
+    },
+    {
+      "key": "crossing_ref",
+      "value": "puffin",
+      "description": "[Q7258882] puffin crossing",
+      "doc_url": "http://www.wikidata.org/entity/Q7258882#P1282"
+    },
+    {
+      "key": "crossing_ref",
+      "value": "toucan",
+      "description": "[Q7828547] toucan crossing",
+      "doc_url": "http://www.wikidata.org/entity/Q7828547#P1282"
+    },
+    {
+      "key": "crossing_ref",
+      "value": "zebra",
+      "description": "[Q7328304] zebra crossing",
+      "doc_url": "http://www.wikidata.org/entity/Q7328304#P1282"
+    },
+    {
       "key": "crossing:activation",
       "value": "automatic",
       "description": "[Q9333164] automatic level crossing system",
@@ -5824,36 +5788,6 @@
       "value": "yes",
       "description": "[Q7994033] whistle post",
       "doc_url": "http://www.wikidata.org/entity/Q7994033#P1282"
-    },
-    {
-      "key": "crossing_ref",
-      "value": "hawk",
-      "description": "[Q5628994] HAWK beacon",
-      "doc_url": "http://www.wikidata.org/entity/Q5628994#P1282"
-    },
-    {
-      "key": "crossing_ref",
-      "value": "pelican",
-      "description": "[Q7161439] pelican crossing",
-      "doc_url": "http://www.wikidata.org/entity/Q7161439#P1282"
-    },
-    {
-      "key": "crossing_ref",
-      "value": "puffin",
-      "description": "[Q7258882] puffin crossing",
-      "doc_url": "http://www.wikidata.org/entity/Q7258882#P1282"
-    },
-    {
-      "key": "crossing_ref",
-      "value": "toucan",
-      "description": "[Q7828547] toucan crossing",
-      "doc_url": "http://www.wikidata.org/entity/Q7828547#P1282"
-    },
-    {
-      "key": "crossing_ref",
-      "value": "zebra",
-      "description": "[Q7328304] zebra crossing",
-      "doc_url": "http://www.wikidata.org/entity/Q7328304#P1282"
     },
     {
       "key": "cruising",
@@ -6244,6 +6178,12 @@
     },
     {
       "key": "cuisine",
+      "value": "lángos",
+      "description": "[Q575790] lángos",
+      "doc_url": "http://www.wikidata.org/entity/Q575790#P1282"
+    },
+    {
+      "key": "cuisine",
       "value": "lebanese",
       "description": "[Q42918814] Lebanese restaurant",
       "doc_url": "http://www.wikidata.org/entity/Q42918814#P1282"
@@ -6253,12 +6193,6 @@
       "value": "lebanese",
       "description": "[Q929239] Lebanese cuisine",
       "doc_url": "http://www.wikidata.org/entity/Q929239#P1282"
-    },
-    {
-      "key": "cuisine",
-      "value": "lángos",
-      "description": "[Q575790] lángos",
-      "doc_url": "http://www.wikidata.org/entity/Q575790#P1282"
     },
     {
       "key": "cuisine",
@@ -6823,7 +6757,7 @@
       "value": "assyrian",
       "description": "[Q203179] Assyrian Church of the East",
       "doc_url": "http://www.wikidata.org/entity/Q203179#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20Assyrische%20des%20Ostens.png"
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Assyrian%20Church%20of%20the%20East%20emblem.png"
     },
     {
       "key": "denomination",
@@ -7223,15 +7157,15 @@
     {
       "key": "denomination",
       "value": "orthodox",
-      "description": "[Q80970] Orthodox Judaism",
-      "doc_url": "http://www.wikidata.org/entity/Q80970#P1282"
+      "description": "[Q35032] Eastern Orthodox Church",
+      "doc_url": "http://www.wikidata.org/entity/Q35032#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Orthodox%20cross%2C%20made%20in%20inkscape.svg"
     },
     {
       "key": "denomination",
       "value": "orthodox",
-      "description": "[Q35032] Eastern Orthodox Church",
-      "doc_url": "http://www.wikidata.org/entity/Q35032#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Orthodox%20cross%2C%20made%20in%20inkscape.svg"
+      "description": "[Q80970] Orthodox Judaism",
+      "doc_url": "http://www.wikidata.org/entity/Q80970#P1282"
     },
     {
       "key": "denomination",
@@ -7575,7 +7509,7 @@
       "value": "won",
       "description": "[Q562984] Won Buddhism",
       "doc_url": "http://www.wikidata.org/entity/Q562984#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/USVA%20Won-Buddhism%20symbol.svg"
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Won-Buddhism%20symbol.svg"
     },
     {
       "key": "denomination",
@@ -7973,13 +7907,13 @@
     },
     {
       "key": "dog",
-      "description": "[Q144] Canis familiaris",
-      "doc_url": "http://www.wikidata.org/entity/Q144#P13786"
+      "description": "[Q110997494] activity policy on dogs",
+      "doc_url": "http://www.wikidata.org/entity/Q110997494#P13786"
     },
     {
       "key": "dog",
-      "description": "[Q110997494] activity policy on dogs",
-      "doc_url": "http://www.wikidata.org/entity/Q110997494#P13786"
+      "description": "[Q144] Canis familiaris",
+      "doc_url": "http://www.wikidata.org/entity/Q144#P13786"
     },
     {
       "key": "dog",
@@ -8173,6 +8107,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q3918#P1282"
     },
     {
+      "key": "EHAK:code",
+      "description": "[P1140] EHAK id",
+      "doc_url": "http://www.wikidata.org/entity/P1140#P13786"
+    },
+    {
       "key": "ele",
       "description": "[P2044] elevation above sea level",
       "doc_url": "http://www.wikidata.org/entity/P2044#P13786"
@@ -8317,6 +8256,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q5070802#P13786"
     },
     {
+      "key": "emergency_ward_entrance",
+      "value": "rescue_service",
+      "description": "[Q814610] emergency service",
+      "doc_url": "http://www.wikidata.org/entity/Q814610#P1282"
+    },
+    {
       "key": "emergency",
       "value": "access_point",
       "description": "[Q1333922] emergency access point",
@@ -8452,7 +8397,7 @@
     {
       "key": "emergency",
       "value": "rescue_equipment",
-      "description": "[Q2146460] Rettungsstange",
+      "description": "[Q2146460] reddingshaak",
       "doc_url": "http://www.wikidata.org/entity/Q2146460#P1282"
     },
     {
@@ -8496,12 +8441,6 @@
       "value": "water_tank",
       "description": "[Q6501028] water tank",
       "doc_url": "http://www.wikidata.org/entity/Q6501028#P1282"
-    },
-    {
-      "key": "emergency_ward_entrance",
-      "value": "rescue_service",
-      "description": "[Q814610] emergency service",
-      "doc_url": "http://www.wikidata.org/entity/Q814610#P1282"
     },
     {
       "key": "end_date",
@@ -8869,15 +8808,15 @@
     },
     {
       "key": "fountain",
-      "value": "Neptune_fountain",
-      "description": "[Q167422] Fountain of Neptune",
-      "doc_url": "http://www.wikidata.org/entity/Q167422#P1282"
-    },
-    {
-      "key": "fountain",
       "value": "bubbler",
       "description": "[Q1630622] drinking fountain",
       "doc_url": "http://www.wikidata.org/entity/Q1630622#P1282"
+    },
+    {
+      "key": "fountain",
+      "value": "Neptune_fountain",
+      "description": "[Q167422] Fountain of Neptune",
+      "doc_url": "http://www.wikidata.org/entity/Q167422#P1282"
     },
     {
       "key": "fountain",
@@ -8905,13 +8844,13 @@
     },
     {
       "key": "frequency",
-      "description": "[Q388201] railway electrification system",
-      "doc_url": "http://www.wikidata.org/entity/Q388201#P13786"
+      "description": "[Q11652] frequency",
+      "doc_url": "http://www.wikidata.org/entity/Q11652#P13786"
     },
     {
       "key": "frequency",
-      "description": "[Q11652] frequency",
-      "doc_url": "http://www.wikidata.org/entity/Q11652#P13786"
+      "description": "[Q388201] railway electrification system",
+      "doc_url": "http://www.wikidata.org/entity/Q388201#P13786"
     },
     {
       "key": "frequency",
@@ -9366,6 +9305,16 @@
       "doc_url": "http://www.wikidata.org/entity/P590#P13786"
     },
     {
+      "key": "GNS:id",
+      "description": "[P2326] GNS Unique Feature ID",
+      "doc_url": "http://www.wikidata.org/entity/P2326#P13786"
+    },
+    {
+      "key": "golf_cart",
+      "description": "[Q1431095] golf cart",
+      "doc_url": "http://www.wikidata.org/entity/Q1431095#P13786"
+    },
+    {
       "key": "golf",
       "value": "bunker",
       "description": "[Q2220621] bunker",
@@ -9394,11 +9343,6 @@
       "value": "practice",
       "description": "[Q3177122] driving range",
       "doc_url": "http://www.wikidata.org/entity/Q3177122#P1282"
-    },
-    {
-      "key": "golf_cart",
-      "description": "[Q1431095] golf cart",
-      "doc_url": "http://www.wikidata.org/entity/Q1431095#P13786"
     },
     {
       "key": "goods",
@@ -9674,6 +9618,11 @@
       "key": "hazmat:explosive",
       "description": "[Q12870] explosive chemicals",
       "doc_url": "http://www.wikidata.org/entity/Q12870#P13786"
+    },
+    {
+      "key": "HE_ref",
+      "description": "[P1216] National Heritage List for England number",
+      "doc_url": "http://www.wikidata.org/entity/P1216#P13786"
     },
     {
       "key": "headframe",
@@ -10399,6 +10348,11 @@
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/World%20Heritage%20Logo%20global.svg"
     },
     {
+      "key": "HFCS",
+      "description": "[Q800125] functional classification",
+      "doc_url": "http://www.wikidata.org/entity/Q800125#P13786"
+    },
+    {
       "key": "hgv",
       "description": "[Q2449732] large goods vehicle",
       "doc_url": "http://www.wikidata.org/entity/Q2449732#P13786"
@@ -10415,13 +10369,13 @@
     },
     {
       "key": "highway",
-      "description": "[Q57977870] highway",
-      "doc_url": "http://www.wikidata.org/entity/Q57977870#P13786"
+      "description": "[Q34442] road",
+      "doc_url": "http://www.wikidata.org/entity/Q34442#P13786"
     },
     {
       "key": "highway",
-      "description": "[Q34442] road",
-      "doc_url": "http://www.wikidata.org/entity/Q34442#P13786"
+      "description": "[Q57977870] highway",
+      "doc_url": "http://www.wikidata.org/entity/Q57977870#P13786"
     },
     {
       "key": "highway",
@@ -10582,14 +10536,14 @@
     {
       "key": "highway",
       "value": "motorway",
-      "description": "[Q789026] motorway in Poland",
-      "doc_url": "http://www.wikidata.org/entity/Q789026#P1282"
+      "description": "[Q46622] controlled-access highway",
+      "doc_url": "http://www.wikidata.org/entity/Q46622#P1282"
     },
     {
       "key": "highway",
       "value": "motorway",
-      "description": "[Q46622] controlled-access highway",
-      "doc_url": "http://www.wikidata.org/entity/Q46622#P1282"
+      "description": "[Q789026] motorway in Poland",
+      "doc_url": "http://www.wikidata.org/entity/Q789026#P1282"
     },
     {
       "key": "highway",
@@ -11756,6 +11710,21 @@
       "doc_url": "http://www.wikidata.org/entity/Q823196#P1282"
     },
     {
+      "key": "INEGI:cve_loc",
+      "description": "[P1976] INEGI locality ID",
+      "doc_url": "http://www.wikidata.org/entity/P1976#P13786"
+    },
+    {
+      "key": "INEGI:cve_loc",
+      "description": "[Q20202337] INEGI locality code",
+      "doc_url": "http://www.wikidata.org/entity/Q20202337#P13786"
+    },
+    {
+      "key": "INEGI:MUNID",
+      "description": "[P3801] INEGI municipality ID",
+      "doc_url": "http://www.wikidata.org/entity/P3801#P13786"
+    },
+    {
       "key": "infant_bed",
       "description": "[Q412770] infant bed",
       "doc_url": "http://www.wikidata.org/entity/Q412770#P13786"
@@ -11907,6 +11876,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q1233766#P13786"
     },
     {
+      "key": "ISO3166-2",
+      "description": "[P300] ISO 3166-2 code",
+      "doc_url": "http://www.wikidata.org/entity/P300#P13786"
+    },
+    {
       "key": "iucn_level",
       "value": "II",
       "description": "[Q14545628] IUCN category II: National Park",
@@ -12006,6 +11980,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q2891126#P1282"
     },
     {
+      "key": "Key:communication:amateur_radio:pota",
+      "description": "[Q115392398] Parks on the Air",
+      "doc_url": "http://www.wikidata.org/entity/Q115392398#P13786"
+    },
+    {
       "key": "kiln",
       "value": "lime",
       "description": "[Q59772] lime kiln",
@@ -12053,14 +12032,14 @@
     {
       "key": "landform",
       "value": "dune_system",
-      "description": "[Q89021074] dune system",
-      "doc_url": "http://www.wikidata.org/entity/Q89021074#P1282"
+      "description": "[Q25391] dune",
+      "doc_url": "http://www.wikidata.org/entity/Q25391#P1282"
     },
     {
       "key": "landform",
       "value": "dune_system",
-      "description": "[Q25391] dune",
-      "doc_url": "http://www.wikidata.org/entity/Q25391#P1282"
+      "description": "[Q89021074] dune system",
+      "doc_url": "http://www.wikidata.org/entity/Q89021074#P1282"
     },
     {
       "key": "landform",
@@ -12280,14 +12259,14 @@
     {
       "key": "landuse",
       "value": "railway",
-      "description": "[Q800279] railway facility",
-      "doc_url": "http://www.wikidata.org/entity/Q800279#P1282"
+      "description": "[Q55493] goods station",
+      "doc_url": "http://www.wikidata.org/entity/Q55493#P1282"
     },
     {
       "key": "landuse",
       "value": "railway",
-      "description": "[Q55493] goods station",
-      "doc_url": "http://www.wikidata.org/entity/Q55493#P1282"
+      "description": "[Q800279] railway facility",
+      "doc_url": "http://www.wikidata.org/entity/Q800279#P1282"
     },
     {
       "key": "landuse",
@@ -12361,13 +12340,13 @@
     },
     {
       "key": "language",
-      "description": "[Q6807178] medium of instruction",
-      "doc_url": "http://www.wikidata.org/entity/Q6807178#P13786"
+      "description": "[Q34770] language",
+      "doc_url": "http://www.wikidata.org/entity/Q34770#P13786"
     },
     {
       "key": "language",
-      "description": "[Q34770] language",
-      "doc_url": "http://www.wikidata.org/entity/Q34770#P13786"
+      "description": "[Q6807178] medium of instruction",
+      "doc_url": "http://www.wikidata.org/entity/Q6807178#P13786"
     },
     {
       "key": "language:de",
@@ -12605,14 +12584,14 @@
     {
       "key": "leisure",
       "value": "fishing",
-      "description": "[Q47521850] fishing spot",
-      "doc_url": "http://www.wikidata.org/entity/Q47521850#P1282"
+      "description": "[Q14373] fishing",
+      "doc_url": "http://www.wikidata.org/entity/Q14373#P1282"
     },
     {
       "key": "leisure",
       "value": "fishing",
-      "description": "[Q14373] fishing",
-      "doc_url": "http://www.wikidata.org/entity/Q14373#P1282"
+      "description": "[Q47521850] fishing spot",
+      "doc_url": "http://www.wikidata.org/entity/Q47521850#P1282"
     },
     {
       "key": "leisure",
@@ -12737,6 +12716,12 @@
     {
       "key": "leisure",
       "value": "pitch",
+      "description": "[Q8524] association football pitch",
+      "doc_url": "http://www.wikidata.org/entity/Q8524#P1282"
+    },
+    {
+      "key": "leisure",
+      "value": "pitch",
       "description": "[Q860007] bikepark",
       "doc_url": "http://www.wikidata.org/entity/Q860007#P1282"
     },
@@ -12745,12 +12730,6 @@
       "value": "pitch",
       "description": "[Q891698] Bolzplatz",
       "doc_url": "http://www.wikidata.org/entity/Q891698#P1282"
-    },
-    {
-      "key": "leisure",
-      "value": "pitch",
-      "description": "[Q8524] association football pitch",
-      "doc_url": "http://www.wikidata.org/entity/Q8524#P1282"
     },
     {
       "key": "leisure",
@@ -12899,16 +12878,16 @@
       "doc_url": "http://www.wikidata.org/entity/Q17884#P13786"
     },
     {
-      "key": "lgbtq",
-      "value": "primary",
-      "description": "[Q64364539] LGBT place",
-      "doc_url": "http://www.wikidata.org/entity/Q64364539#P1282"
-    },
-    {
       "key": "lgbtq_owned",
       "value": "yes",
       "description": "[Q126264475] LGBTQ-owned business",
       "doc_url": "http://www.wikidata.org/entity/Q126264475#P1282"
+    },
+    {
+      "key": "lgbtq",
+      "value": "primary",
+      "description": "[Q64364539] LGBT place",
+      "doc_url": "http://www.wikidata.org/entity/Q64364539#P1282"
     },
     {
       "key": "lhv",
@@ -14127,6 +14106,36 @@
       "doc_url": "http://www.wikidata.org/entity/Q8473#P13786"
     },
     {
+      "key": "military_service",
+      "value": "air_force",
+      "description": "[Q61883] air force",
+      "doc_url": "http://www.wikidata.org/entity/Q61883#P1282"
+    },
+    {
+      "key": "military_service",
+      "value": "army",
+      "description": "[Q37726] army",
+      "doc_url": "http://www.wikidata.org/entity/Q37726#P1282"
+    },
+    {
+      "key": "military_service",
+      "value": "marines",
+      "description": "[Q1898583] marine force",
+      "doc_url": "http://www.wikidata.org/entity/Q1898583#P1282"
+    },
+    {
+      "key": "military_service",
+      "value": "navy",
+      "description": "[Q4508] navy",
+      "doc_url": "http://www.wikidata.org/entity/Q4508#P1282"
+    },
+    {
+      "key": "military_service",
+      "value": "rocket_force",
+      "description": "[Q137259222] rocket force",
+      "doc_url": "http://www.wikidata.org/entity/Q137259222#P1282"
+    },
+    {
       "key": "military",
       "value": "academy",
       "description": "[Q917182] military academy",
@@ -14193,36 +14202,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q91764#P1282"
     },
     {
-      "key": "military_service",
-      "value": "air_force",
-      "description": "[Q61883] air force",
-      "doc_url": "http://www.wikidata.org/entity/Q61883#P1282"
-    },
-    {
-      "key": "military_service",
-      "value": "army",
-      "description": "[Q37726] army",
-      "doc_url": "http://www.wikidata.org/entity/Q37726#P1282"
-    },
-    {
-      "key": "military_service",
-      "value": "marines",
-      "description": "[Q1898583] marine force",
-      "doc_url": "http://www.wikidata.org/entity/Q1898583#P1282"
-    },
-    {
-      "key": "military_service",
-      "value": "navy",
-      "description": "[Q4508] navy",
-      "doc_url": "http://www.wikidata.org/entity/Q4508#P1282"
-    },
-    {
-      "key": "military_service",
-      "value": "rocket_force",
-      "description": "[Q137259222] rocket force",
-      "doc_url": "http://www.wikidata.org/entity/Q137259222#P1282"
-    },
-    {
       "key": "mimics",
       "description": "[Q98158660] building camouflage",
       "doc_url": "http://www.wikidata.org/entity/Q98158660#P13786"
@@ -14258,6 +14237,11 @@
       "value": "EK87-00",
       "description": "[Q139929142] EK8700",
       "doc_url": "http://www.wikidata.org/entity/Q139929142#P1282"
+    },
+    {
+      "key": "MOE:id",
+      "description": "[P9360] Ministry of Education New Zealand school ID",
+      "doc_url": "http://www.wikidata.org/entity/P9360#P13786"
     },
     {
       "key": "mofa",
@@ -14374,9 +14358,32 @@
       "doc_url": "http://www.wikidata.org/entity/Q223705#P13786"
     },
     {
+      "key": "MUCD",
+      "description": "[Q115814868] military unit cover designator",
+      "doc_url": "http://www.wikidata.org/entity/Q115814868#P13786"
+    },
+    {
       "key": "museum",
       "description": "[Q33506] museum",
       "doc_url": "http://www.wikidata.org/entity/Q33506#P13786"
+    },
+    {
+      "key": "museum_type",
+      "value": "municipal",
+      "description": "[Q2327632] city museum",
+      "doc_url": "http://www.wikidata.org/entity/Q2327632#P1282"
+    },
+    {
+      "key": "museum_type",
+      "value": "national",
+      "description": "[Q17431399] national museum",
+      "doc_url": "http://www.wikidata.org/entity/Q17431399#P1282"
+    },
+    {
+      "key": "museum_type",
+      "value": "private",
+      "description": "[Q614316] private museum",
+      "doc_url": "http://www.wikidata.org/entity/Q614316#P1282"
     },
     {
       "key": "museum",
@@ -14473,24 +14480,6 @@
       "value": "transport",
       "description": "[Q2516357] transport museum",
       "doc_url": "http://www.wikidata.org/entity/Q2516357#P1282"
-    },
-    {
-      "key": "museum_type",
-      "value": "municipal",
-      "description": "[Q2327632] city museum",
-      "doc_url": "http://www.wikidata.org/entity/Q2327632#P1282"
-    },
-    {
-      "key": "museum_type",
-      "value": "national",
-      "description": "[Q17431399] national museum",
-      "doc_url": "http://www.wikidata.org/entity/Q17431399#P1282"
-    },
-    {
-      "key": "museum_type",
-      "value": "private",
-      "description": "[Q614316] private museum",
-      "doc_url": "http://www.wikidata.org/entity/Q614316#P1282"
     },
     {
       "key": "musical_instrument",
@@ -15065,14 +15054,14 @@
     {
       "key": "natural",
       "value": "shoal",
-      "description": "[Q478251] char",
-      "doc_url": "http://www.wikidata.org/entity/Q478251#P1282"
+      "description": "[Q28337] shoal",
+      "doc_url": "http://www.wikidata.org/entity/Q28337#P1282"
     },
     {
       "key": "natural",
       "value": "shoal",
-      "description": "[Q28337] shoal",
-      "doc_url": "http://www.wikidata.org/entity/Q28337#P1282"
+      "description": "[Q478251] char",
+      "doc_url": "http://www.wikidata.org/entity/Q478251#P1282"
     },
     {
       "key": "natural",
@@ -15179,14 +15168,14 @@
     {
       "key": "natural",
       "value": "wood",
-      "description": "[Q811600] sacred grove",
-      "doc_url": "http://www.wikidata.org/entity/Q811600#P1282"
+      "description": "[Q4421] forest",
+      "doc_url": "http://www.wikidata.org/entity/Q4421#P1282"
     },
     {
       "key": "natural",
       "value": "wood",
-      "description": "[Q4421] forest",
-      "doc_url": "http://www.wikidata.org/entity/Q4421#P1282"
+      "description": "[Q811600] sacred grove",
+      "doc_url": "http://www.wikidata.org/entity/Q811600#P1282"
     },
     {
       "key": "network",
@@ -15208,6 +15197,12 @@
     },
     {
       "key": "network",
+      "value": "am:national",
+      "description": "[Q115944513] highways of national importance",
+      "doc_url": "http://www.wikidata.org/entity/Q115944513#P1282"
+    },
+    {
+      "key": "network",
       "value": "AR:national",
       "description": "[Q1407379] National Routes of Argentina",
       "doc_url": "http://www.wikidata.org/entity/Q1407379#P1282"
@@ -15217,6 +15212,18 @@
       "value": "AR:provincial",
       "description": "[Q131652120] Provincial road in Argentina",
       "doc_url": "http://www.wikidata.org/entity/Q131652120#P1282"
+    },
+    {
+      "key": "network",
+      "value": "Arab Mashreq International Road Network",
+      "description": "[Q2134168] Arab Mashreq International Road Network",
+      "doc_url": "http://www.wikidata.org/entity/Q2134168#P1282"
+    },
+    {
+      "key": "network",
+      "value": "AsianHighway",
+      "description": "[Q728802] Asian Highway Network",
+      "doc_url": "http://www.wikidata.org/entity/Q728802#P1282"
     },
     {
       "key": "network",
@@ -15256,15 +15263,36 @@
     },
     {
       "key": "network",
-      "value": "Arab Mashreq International Road Network",
-      "description": "[Q2134168] Arab Mashreq International Road Network",
-      "doc_url": "http://www.wikidata.org/entity/Q2134168#P1282"
+      "value": "ba:Autoceste",
+      "description": "[Q115973802] motorways in Bosnia and Herzegovina",
+      "doc_url": "http://www.wikidata.org/entity/Q115973802#P1282"
     },
     {
       "key": "network",
-      "value": "AsianHighway",
-      "description": "[Q728802] Asian Highway Network",
-      "doc_url": "http://www.wikidata.org/entity/Q728802#P1282"
+      "value": "ba:Magistralne_ceste",
+      "description": "[Q115973836] main roads in Bosnia and Herzegovina",
+      "doc_url": "http://www.wikidata.org/entity/Q115973836#P1282"
+    },
+    {
+      "key": "network",
+      "value": "Bajs_Zagreb",
+      "description": "[Q137167497] Bajs",
+      "doc_url": "http://www.wikidata.org/entity/Q137167497#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bajs%20Zagreb%20logo.svg"
+    },
+    {
+      "key": "network",
+      "value": "Baltimore Metro SubwayLink",
+      "description": "[Q805751] Baltimore Metro SubwayLink",
+      "doc_url": "http://www.wikidata.org/entity/Q805751#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Baltimore%20Metro%20SubwayLink%20Logo%20for%20Signage%20%28Blue%29.svg"
+    },
+    {
+      "key": "network",
+      "value": "BaltimoreLink",
+      "description": "[Q6718408] BaltimoreLink",
+      "doc_url": "http://www.wikidata.org/entity/Q6718408#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/BaltimoreLink%20Logo.png"
     },
     {
       "key": "network",
@@ -15304,6 +15332,18 @@
     },
     {
       "key": "network",
+      "value": "Belgrano",
+      "description": "[Q2962336] Ferrocarril General Manuel Belgrano",
+      "doc_url": "http://www.wikidata.org/entity/Q2962336#P1282"
+    },
+    {
+      "key": "network",
+      "value": "bg:motorway",
+      "description": "[Q116447383] motorways in Bulgaria",
+      "doc_url": "http://www.wikidata.org/entity/Q116447383#P1282"
+    },
+    {
+      "key": "network",
       "value": "BO:fundamental",
       "description": "[Q24282625] National Routes of Bolivia",
       "doc_url": "http://www.wikidata.org/entity/Q24282625#P1282"
@@ -15340,42 +15380,21 @@
     },
     {
       "key": "network",
-      "value": "Bajs_Zagreb",
-      "description": "[Q137167497] Bajs",
-      "doc_url": "http://www.wikidata.org/entity/Q137167497#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bajs%20Zagreb%20logo.svg"
-    },
-    {
-      "key": "network",
-      "value": "Baltimore Metro SubwayLink",
-      "description": "[Q805751] Baltimore Metro SubwayLink",
-      "doc_url": "http://www.wikidata.org/entity/Q805751#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Baltimore%20Metro%20SubwayLink%20Logo%20for%20Signage%20%28Blue%29.svg"
-    },
-    {
-      "key": "network",
-      "value": "BaltimoreLink",
-      "description": "[Q6718408] BaltimoreLink",
-      "doc_url": "http://www.wikidata.org/entity/Q6718408#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/BaltimoreLink%20Logo.png"
-    },
-    {
-      "key": "network",
-      "value": "Belgrano",
-      "description": "[Q2962336] Ferrocarril General Manuel Belgrano",
-      "doc_url": "http://www.wikidata.org/entity/Q2962336#P1282"
-    },
-    {
-      "key": "network",
-      "value": "CA:AB:QEII",
-      "description": "[Q118142212] Queen Elizabeth II Highway",
-      "doc_url": "http://www.wikidata.org/entity/Q118142212#P1282"
+      "value": "by:national",
+      "description": "[Q115977466] highways in Belarus",
+      "doc_url": "http://www.wikidata.org/entity/Q115977466#P1282"
     },
     {
       "key": "network",
       "value": "CA:AB:primary",
       "description": "[Q115922629] Alberta provincial highways, 1–216 series",
       "doc_url": "http://www.wikidata.org/entity/Q115922629#P1282"
+    },
+    {
+      "key": "network",
+      "value": "CA:AB:QEII",
+      "description": "[Q118142212] Queen Elizabeth II Highway",
+      "doc_url": "http://www.wikidata.org/entity/Q118142212#P1282"
     },
     {
       "key": "network",
@@ -15475,12 +15494,6 @@
     },
     {
       "key": "network",
-      "value": "CA:ON:York",
-      "description": "[Q115807014] York Regional Roads",
-      "doc_url": "http://www.wikidata.org/entity/Q115807014#P1282"
-    },
-    {
-      "key": "network",
       "value": "CA:ON:primary",
       "description": "[Q115806273] The King's Highway",
       "doc_url": "http://www.wikidata.org/entity/Q115806273#P1282"
@@ -15502,6 +15515,12 @@
       "value": "CA:ON:tertiary",
       "description": "[Q115806637] tertiary highways of Ontario",
       "doc_url": "http://www.wikidata.org/entity/Q115806637#P1282"
+    },
+    {
+      "key": "network",
+      "value": "CA:ON:York",
+      "description": "[Q115807014] York Regional Roads",
+      "doc_url": "http://www.wikidata.org/entity/Q115807014#P1282"
     },
     {
       "key": "network",
@@ -15541,12 +15560,6 @@
     },
     {
       "key": "network",
-      "value": "CA:YT",
-      "description": "[Q24279380] territorial highways in Yukon",
-      "doc_url": "http://www.wikidata.org/entity/Q24279380#P1282"
-    },
-    {
-      "key": "network",
       "value": "CA:transcanada",
       "description": "[Q1061576] Trans-Canada Highway",
       "doc_url": "http://www.wikidata.org/entity/Q1061576#P1282"
@@ -15562,6 +15575,32 @@
       "value": "CA:yellowhead",
       "description": "[Q2036444] Yellowhead Highway",
       "doc_url": "http://www.wikidata.org/entity/Q2036444#P1282"
+    },
+    {
+      "key": "network",
+      "value": "CA:YT",
+      "description": "[Q24279380] territorial highways in Yukon",
+      "doc_url": "http://www.wikidata.org/entity/Q24279380#P1282"
+    },
+    {
+      "key": "network",
+      "value": "call-a-bike",
+      "description": "[Q1060525] Call a Bike",
+      "doc_url": "http://www.wikidata.org/entity/Q1060525#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Call%20a%20Bike%20Logo%20%282022%29.svg"
+    },
+    {
+      "key": "network",
+      "value": "Casals i Ateneus dels Països Catalans",
+      "description": "[Q119411870] Network of Social Centres from the Catalan Countries",
+      "doc_url": "http://www.wikidata.org/entity/Q119411870#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Xarxa%20de%20Casals%20i%20Ateneus%20dels%20Pa%C3%AFsos%20Catalans.jpg"
+    },
+    {
+      "key": "network",
+      "value": "ch:national",
+      "description": "[Q1300787] main roads of Switzerland",
+      "doc_url": "http://www.wikidata.org/entity/Q1300787#P1282"
     },
     {
       "key": "network",
@@ -15598,6 +15637,12 @@
       "value": "CN:CQ:expressway",
       "description": "[Q15903377] expressway network of Chongqing",
       "doc_url": "http://www.wikidata.org/entity/Q15903377#P1282"
+    },
+    {
+      "key": "network",
+      "value": "CN:expressway",
+      "description": "[Q10873415] National Trunk Highway System",
+      "doc_url": "http://www.wikidata.org/entity/Q10873415#P1282"
     },
     {
       "key": "network",
@@ -15670,6 +15715,12 @@
       "value": "CN:LN:expressway",
       "description": "[Q18659786] expressway network of Liaoning",
       "doc_url": "http://www.wikidata.org/entity/Q18659786#P1282"
+    },
+    {
+      "key": "network",
+      "value": "CN:national",
+      "description": "[Q1847533] China National Highways",
+      "doc_url": "http://www.wikidata.org/entity/Q1847533#P1282"
     },
     {
       "key": "network",
@@ -15751,15 +15802,9 @@
     },
     {
       "key": "network",
-      "value": "CN:expressway",
-      "description": "[Q10873415] National Trunk Highway System",
-      "doc_url": "http://www.wikidata.org/entity/Q10873415#P1282"
-    },
-    {
-      "key": "network",
-      "value": "CN:national",
-      "description": "[Q1847533] China National Highways",
-      "doc_url": "http://www.wikidata.org/entity/Q1847533#P1282"
+      "value": "co:national",
+      "description": "[Q115934346] national highways of Colombia",
+      "doc_url": "http://www.wikidata.org/entity/Q115934346#P1282"
     },
     {
       "key": "network",
@@ -15778,13 +15823,6 @@
       "value": "CY:national",
       "description": "[Q140733983] state roads in Northern Cyprus",
       "doc_url": "http://www.wikidata.org/entity/Q140733983#P1282"
-    },
-    {
-      "key": "network",
-      "value": "Casals i Ateneus dels Països Catalans",
-      "description": "[Q119411870] Network of Social Centres from the Catalan Countries",
-      "doc_url": "http://www.wikidata.org/entity/Q119411870#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Xarxa%20de%20Casals%20i%20Ateneus%20dels%20Pa%C3%AFsos%20Catalans.jpg"
     },
     {
       "key": "network",
@@ -15812,6 +15850,12 @@
     },
     {
       "key": "network",
+      "value": "e-road",
+      "description": "[Q106123] international E-road network",
+      "doc_url": "http://www.wikidata.org/entity/Q106123#P1282"
+    },
+    {
+      "key": "network",
       "value": "EC:national",
       "description": "[Q130788157] National Routes of Ecuador",
       "doc_url": "http://www.wikidata.org/entity/Q130788157#P1282"
@@ -15824,9 +15868,45 @@
     },
     {
       "key": "network",
+      "value": "ee:national",
+      "description": "[Q46122855] main road",
+      "doc_url": "http://www.wikidata.org/entity/Q46122855#P1282"
+    },
+    {
+      "key": "network",
+      "value": "fi:link",
+      "description": "[Q3974634] connecting road",
+      "doc_url": "http://www.wikidata.org/entity/Q3974634#P1282"
+    },
+    {
+      "key": "network",
+      "value": "fi:national",
+      "description": "[Q742208] main road (1st class)",
+      "doc_url": "http://www.wikidata.org/entity/Q742208#P1282"
+    },
+    {
+      "key": "network",
+      "value": "fi:regional",
+      "description": "[Q5334199] regional road",
+      "doc_url": "http://www.wikidata.org/entity/Q5334199#P1282"
+    },
+    {
+      "key": "network",
+      "value": "fi:trunk",
+      "description": "[Q15101588] main road (2nd class)",
+      "doc_url": "http://www.wikidata.org/entity/Q15101588#P1282"
+    },
+    {
+      "key": "network",
       "value": "FO",
       "description": "[Q126698065] national highways in the Faroe Islands",
       "doc_url": "http://www.wikidata.org/entity/Q126698065#P1282"
+    },
+    {
+      "key": "network",
+      "value": "Ford_Pass",
+      "description": "[Q90409686] FordPass Bike",
+      "doc_url": "http://www.wikidata.org/entity/Q90409686#P1282"
     },
     {
       "key": "network",
@@ -15839,12 +15919,6 @@
       "value": "FR:N-road",
       "description": "[Q1426271] route nationale",
       "doc_url": "http://www.wikidata.org/entity/Q1426271#P1282"
-    },
-    {
-      "key": "network",
-      "value": "Ford_Pass",
-      "description": "[Q90409686] FordPass Bike",
-      "doc_url": "http://www.wikidata.org/entity/Q90409686#P1282"
     },
     {
       "key": "network",
@@ -16256,6 +16330,12 @@
     },
     {
       "key": "network",
+      "value": "ir:freeways",
+      "description": "[Q115953065] freeways in Iran",
+      "doc_url": "http://www.wikidata.org/entity/Q115953065#P1282"
+    },
+    {
+      "key": "network",
       "value": "IR:national",
       "description": "[Q133280665] highways in Iran",
       "doc_url": "http://www.wikidata.org/entity/Q133280665#P1282"
@@ -16586,6 +16666,18 @@
     },
     {
       "key": "network",
+      "value": "Königlich_sächsischer_Meilenstein",
+      "description": "[Q84163056] Royal Saxon milestone",
+      "doc_url": "http://www.wikidata.org/entity/Q84163056#P1282"
+    },
+    {
+      "key": "network",
+      "value": "Koziołki_Lubelskie",
+      "description": "[Q131738287] Koziołki Lubelskie",
+      "doc_url": "http://www.wikidata.org/entity/Q131738287#P1282"
+    },
+    {
+      "key": "network",
       "value": "KR:11",
       "description": "[Q27146695] Seoul city highway",
       "doc_url": "http://www.wikidata.org/entity/Q27146695#P1282"
@@ -16652,15 +16744,9 @@
     },
     {
       "key": "network",
-      "value": "Koziołki_Lubelskie",
-      "description": "[Q131738287] Koziołki Lubelskie",
-      "doc_url": "http://www.wikidata.org/entity/Q131738287#P1282"
-    },
-    {
-      "key": "network",
-      "value": "Königlich_sächsischer_Meilenstein",
-      "description": "[Q84163056] Royal Saxon milestone",
-      "doc_url": "http://www.wikidata.org/entity/Q84163056#P1282"
+      "value": "lt:national",
+      "description": "[Q115978023] main roads in Lithuania",
+      "doc_url": "http://www.wikidata.org/entity/Q115978023#P1282"
     },
     {
       "key": "network",
@@ -16679,6 +16765,18 @@
       "value": "LU:N-road",
       "description": "[Q104637874] national road",
       "doc_url": "http://www.wikidata.org/entity/Q104637874#P1282"
+    },
+    {
+      "key": "network",
+      "value": "lv:national",
+      "description": "[Q1888633] list of national roads in Latvia",
+      "doc_url": "http://www.wikidata.org/entity/Q1888633#P1282"
+    },
+    {
+      "key": "network",
+      "value": "lv:regional",
+      "description": "[Q115978566] regional road",
+      "doc_url": "http://www.wikidata.org/entity/Q115978566#P1282"
     },
     {
       "key": "network",
@@ -16706,21 +16804,53 @@
     },
     {
       "key": "network",
+      "value": "Metro de Caracas",
+      "description": "[Q1363954] Caracas Metro",
+      "doc_url": "http://www.wikidata.org/entity/Q1363954#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Metro%20de%20Caracas%20%28Venezuela%29%20logo.svg"
+    },
+    {
+      "key": "network",
+      "value": "Metrobus_Caracas",
+      "description": "[Q5037565] Caracas Metrobus",
+      "doc_url": "http://www.wikidata.org/entity/Q5037565#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MetroBus%20Caracas%20logo.svg"
+    },
+    {
+      "key": "network",
       "value": "MG:RN-road",
       "description": "[Q120784150] national road of Madagascar",
       "doc_url": "http://www.wikidata.org/entity/Q120784150#P1282"
     },
     {
       "key": "network",
-      "value": "MM:NH",
-      "description": "[Q136066275] National Highways of Myanmar",
-      "doc_url": "http://www.wikidata.org/entity/Q136066275#P1282"
+      "value": "Mitre",
+      "description": "[Q2962335] Ferrocarril General Bartolomé Mitre",
+      "doc_url": "http://www.wikidata.org/entity/Q2962335#P1282"
+    },
+    {
+      "key": "network",
+      "value": "mk:national",
+      "description": "[Q115924217] motorways in North Macedonia",
+      "doc_url": "http://www.wikidata.org/entity/Q115924217#P1282"
+    },
+    {
+      "key": "network",
+      "value": "mk:regional",
+      "description": "[Q93899879] regional roads in North Macedonia",
+      "doc_url": "http://www.wikidata.org/entity/Q93899879#P1282"
     },
     {
       "key": "network",
       "value": "MM:expressway",
       "description": "[Q135506140] expressways in Myanmar",
       "doc_url": "http://www.wikidata.org/entity/Q135506140#P1282"
+    },
+    {
+      "key": "network",
+      "value": "MM:NH",
+      "description": "[Q136066275] National Highways of Myanmar",
+      "doc_url": "http://www.wikidata.org/entity/Q136066275#P1282"
     },
     {
       "key": "network",
@@ -16754,12 +16884,6 @@
     },
     {
       "key": "network",
-      "value": "MY:Federal",
-      "description": "[Q6741963] Malaysian Federal Roads System",
-      "doc_url": "http://www.wikidata.org/entity/Q6741963#P1282"
-    },
-    {
-      "key": "network",
       "value": "MY:expressway",
       "description": "[Q1521575] Malaysian Expressway System",
       "doc_url": "http://www.wikidata.org/entity/Q1521575#P1282",
@@ -16767,23 +16891,9 @@
     },
     {
       "key": "network",
-      "value": "Metro de Caracas",
-      "description": "[Q1363954] Caracas Metro",
-      "doc_url": "http://www.wikidata.org/entity/Q1363954#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Metro%20de%20Caracas%20%28Venezuela%29%20logo.svg"
-    },
-    {
-      "key": "network",
-      "value": "Metrobus_Caracas",
-      "description": "[Q5037565] Caracas Metrobus",
-      "doc_url": "http://www.wikidata.org/entity/Q5037565#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MetroBus%20Caracas%20logo.svg"
-    },
-    {
-      "key": "network",
-      "value": "Mitre",
-      "description": "[Q2962335] Ferrocarril General Bartolomé Mitre",
-      "doc_url": "http://www.wikidata.org/entity/Q2962335#P1282"
+      "value": "MY:Federal",
+      "description": "[Q6741963] Malaysian Federal Roads System",
+      "doc_url": "http://www.wikidata.org/entity/Q6741963#P1282"
     },
     {
       "key": "network",
@@ -16793,9 +16903,22 @@
     },
     {
       "key": "network",
+      "value": "nextbike",
+      "description": "[Q2351279] Nextbike",
+      "doc_url": "http://www.wikidata.org/entity/Q2351279#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nextbike%20-%20neue%20Marke%202024.png"
+    },
+    {
+      "key": "network",
       "value": "NL:A",
       "description": "[Q115806173] motorway",
       "doc_url": "http://www.wikidata.org/entity/Q115806173#P1282"
+    },
+    {
+      "key": "network",
+      "value": "NL:binnenstedelijke_ring",
+      "description": "[Q115978702] ring roads in the Netherlands",
+      "doc_url": "http://www.wikidata.org/entity/Q115978702#P1282"
     },
     {
       "key": "network",
@@ -16847,9 +16970,9 @@
     },
     {
       "key": "network",
-      "value": "NL:binnenstedelijke_ring",
-      "description": "[Q115978702] ring roads in the Netherlands",
-      "doc_url": "http://www.wikidata.org/entity/Q115978702#P1282"
+      "value": "np:national",
+      "description": "[Q104844481] National Highway System of Nepal",
+      "doc_url": "http://www.wikidata.org/entity/Q104844481#P1282"
     },
     {
       "key": "network",
@@ -16967,12 +17090,6 @@
     },
     {
       "key": "network",
-      "value": "PK:Punjab:LRR",
-      "description": "[Q6473409] Lahore Ring Road",
-      "doc_url": "http://www.wikidata.org/entity/Q6473409#P1282"
-    },
-    {
-      "key": "network",
       "value": "PK:motorway",
       "description": "[Q115915470] motorways of Pakistan",
       "doc_url": "http://www.wikidata.org/entity/Q115915470#P1282"
@@ -16982,6 +17099,55 @@
       "value": "PK:national",
       "description": "[Q115943723] National Highways of Pakistan",
       "doc_url": "http://www.wikidata.org/entity/Q115943723#P1282"
+    },
+    {
+      "key": "network",
+      "value": "PK:Punjab:LRR",
+      "description": "[Q6473409] Lahore Ring Road",
+      "doc_url": "http://www.wikidata.org/entity/Q6473409#P1282"
+    },
+    {
+      "key": "network",
+      "value": "pl:district",
+      "description": "[Q5276135] powiat road",
+      "doc_url": "http://www.wikidata.org/entity/Q5276135#P1282"
+    },
+    {
+      "key": "network",
+      "value": "pl:expressways",
+      "description": "[Q1127434] expressway in Poland",
+      "doc_url": "http://www.wikidata.org/entity/Q1127434#P1282"
+    },
+    {
+      "key": "network",
+      "value": "pl:motorways",
+      "description": "[Q789026] motorway in Poland",
+      "doc_url": "http://www.wikidata.org/entity/Q789026#P1282"
+    },
+    {
+      "key": "network",
+      "value": "pl:municipal",
+      "description": "[Q5276193] municipal road",
+      "doc_url": "http://www.wikidata.org/entity/Q5276193#P1282"
+    },
+    {
+      "key": "network",
+      "value": "pl:national",
+      "description": "[Q1094196] national road in Poland",
+      "doc_url": "http://www.wikidata.org/entity/Q1094196#P1282"
+    },
+    {
+      "key": "network",
+      "value": "pl:regional",
+      "description": "[Q1259617] Voivodeship road",
+      "doc_url": "http://www.wikidata.org/entity/Q1259617#P1282"
+    },
+    {
+      "key": "network",
+      "value": "Regiobus_MV",
+      "description": "[Q141163911] Regiobus MV",
+      "doc_url": "http://www.wikidata.org/entity/Q141163911#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Regiobus%20MV.svg"
     },
     {
       "key": "network",
@@ -16997,34 +17163,21 @@
     },
     {
       "key": "network",
-      "value": "RS:motorway",
-      "description": "[Q115978923] state roads, class IA",
-      "doc_url": "http://www.wikidata.org/entity/Q115978923#P1282"
-    },
-    {
-      "key": "network",
-      "value": "Regiobus_MV",
-      "description": "[Q141163911] Regiobus MV",
-      "doc_url": "http://www.wikidata.org/entity/Q141163911#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Regiobus%20MV.svg"
-    },
-    {
-      "key": "network",
       "value": "Roca",
       "description": "[Q2962337] Ferrocarril General Roca",
       "doc_url": "http://www.wikidata.org/entity/Q2962337#P1282"
     },
     {
       "key": "network",
-      "value": "SI:AC",
-      "description": "[Q115980400] motorways in Slovenia",
-      "doc_url": "http://www.wikidata.org/entity/Q115980400#P1282"
+      "value": "RS:motorway",
+      "description": "[Q115978923] state roads, class IA",
+      "doc_url": "http://www.wikidata.org/entity/Q115978923#P1282"
     },
     {
       "key": "network",
-      "value": "SMTD",
-      "description": "[Q7580990] Sangamon Mass Transit District",
-      "doc_url": "http://www.wikidata.org/entity/Q7580990#P1282"
+      "value": "ru:national",
+      "description": "[Q260792] Russian federal highways",
+      "doc_url": "http://www.wikidata.org/entity/Q260792#P1282"
     },
     {
       "key": "network",
@@ -17037,6 +17190,36 @@
       "value": "Sarmiento",
       "description": "[Q1055213] Ferrocarril Domingo Faustino Sarmiento",
       "doc_url": "http://www.wikidata.org/entity/Q1055213#P1282"
+    },
+    {
+      "key": "network",
+      "value": "SI:AC",
+      "description": "[Q115980400] motorways in Slovenia",
+      "doc_url": "http://www.wikidata.org/entity/Q115980400#P1282"
+    },
+    {
+      "key": "network",
+      "value": "sk:national",
+      "description": "[Q115934465] highway in Slovakia",
+      "doc_url": "http://www.wikidata.org/entity/Q115934465#P1282"
+    },
+    {
+      "key": "network",
+      "value": "SMTD",
+      "description": "[Q7580990] Sangamon Mass Transit District",
+      "doc_url": "http://www.wikidata.org/entity/Q7580990#P1282"
+    },
+    {
+      "key": "network",
+      "value": "stadtradhamburg",
+      "description": "[Q2326366] StadtRAD Hamburg",
+      "doc_url": "http://www.wikidata.org/entity/Q2326366#P1282"
+    },
+    {
+      "key": "network",
+      "value": "stadtradlueneburg",
+      "description": "[Q126007363] StadtRAD Lüneburg",
+      "doc_url": "http://www.wikidata.org/entity/Q126007363#P1282"
     },
     {
       "key": "network",
@@ -17106,6 +17289,42 @@
     },
     {
       "key": "network",
+      "value": "ua:international",
+      "description": "[Q97161264] international highways in Ukraine",
+      "doc_url": "http://www.wikidata.org/entity/Q97161264#P1282"
+    },
+    {
+      "key": "network",
+      "value": "ua:local",
+      "description": "[Q115923847] local roads in Ukraine",
+      "doc_url": "http://www.wikidata.org/entity/Q115923847#P1282"
+    },
+    {
+      "key": "network",
+      "value": "ua:national",
+      "description": "[Q12132974] national roads in Ukraine",
+      "doc_url": "http://www.wikidata.org/entity/Q12132974#P1282"
+    },
+    {
+      "key": "network",
+      "value": "ua:regional",
+      "description": "[Q12147261] regional highways of Ukraine",
+      "doc_url": "http://www.wikidata.org/entity/Q12147261#P1282"
+    },
+    {
+      "key": "network",
+      "value": "ua:territorial",
+      "description": "[Q12160751] territorial automobile route",
+      "doc_url": "http://www.wikidata.org/entity/Q12160751#P1282"
+    },
+    {
+      "key": "network",
+      "value": "Urquiza",
+      "description": "[Q280903] Ferrocarril General Urquiza",
+      "doc_url": "http://www.wikidata.org/entity/Q280903#P1282"
+    },
+    {
+      "key": "network",
       "value": "US:ADHS",
       "description": "[Q800055] Appalachian Development Highway System",
       "doc_url": "http://www.wikidata.org/entity/Q800055#P1282"
@@ -17133,6 +17352,12 @@
       "value": "US:AL:Baldwin:Foley_Beach_Express",
       "description": "[Q28449571] Foley Beach Express",
       "doc_url": "http://www.wikidata.org/entity/Q28449571#P1282"
+    },
+    {
+      "key": "network",
+      "value": "US:AotS",
+      "description": "[Q1192631] Avenue of the Saints",
+      "doc_url": "http://www.wikidata.org/entity/Q1192631#P1282"
     },
     {
       "key": "network",
@@ -17172,12 +17397,6 @@
     },
     {
       "key": "network",
-      "value": "US:AotS",
-      "description": "[Q1192631] Avenue of the Saints",
-      "doc_url": "http://www.wikidata.org/entity/Q1192631#P1282"
-    },
-    {
-      "key": "network",
       "value": "US:BIA",
       "description": "[Q141150264] Bureau of Indian Affairs Road System",
       "doc_url": "http://www.wikidata.org/entity/Q141150264#P1282"
@@ -17199,6 +17418,12 @@
       "value": "US:CA:San_Francisco:49_Mile_Scenic_Drive",
       "description": "[Q237360] 49-Mile Scenic Drive",
       "doc_url": "http://www.wikidata.org/entity/Q237360#P1282"
+    },
+    {
+      "key": "network",
+      "value": "US:Capital_Beltway",
+      "description": "[Q120999662] Capital Beltway",
+      "doc_url": "http://www.wikidata.org/entity/Q120999662#P1282"
     },
     {
       "key": "network",
@@ -17242,12 +17467,6 @@
       "value": "US:CT:Parkway",
       "description": "[Q2113025] Merritt Parkway",
       "doc_url": "http://www.wikidata.org/entity/Q2113025#P1282"
-    },
-    {
-      "key": "network",
-      "value": "US:Capital_Beltway",
-      "description": "[Q120999662] Capital Beltway",
-      "doc_url": "http://www.wikidata.org/entity/Q120999662#P1282"
     },
     {
       "key": "network",
@@ -17547,6 +17766,12 @@
     },
     {
       "key": "network",
+      "value": "US:Navajo",
+      "description": "[Q141155104] Navajo Routes",
+      "doc_url": "http://www.wikidata.org/entity/Q141155104#P1282"
+    },
+    {
+      "key": "network",
       "value": "US:NC",
       "description": "[Q98643631] North Carolina state highways",
       "doc_url": "http://www.wikidata.org/entity/Q98643631#P1282"
@@ -17752,12 +17977,6 @@
     },
     {
       "key": "network",
-      "value": "US:NY:STE",
-      "description": "[Q115943931] Southern Tier Expressway",
-      "doc_url": "http://www.wikidata.org/entity/Q115943931#P1282"
-    },
-    {
-      "key": "network",
       "value": "US:NY:Saratoga",
       "description": "[Q116691536] county routes in Saratoga County",
       "doc_url": "http://www.wikidata.org/entity/Q116691536#P1282"
@@ -17770,6 +17989,12 @@
     },
     {
       "key": "network",
+      "value": "US:NY:STE",
+      "description": "[Q115943931] Southern Tier Expressway",
+      "doc_url": "http://www.wikidata.org/entity/Q115943931#P1282"
+    },
+    {
+      "key": "network",
       "value": "US:NY:Suffolk",
       "description": "[Q115943708] county routes in Suffolk County",
       "doc_url": "http://www.wikidata.org/entity/Q115943708#P1282"
@@ -17779,12 +18004,6 @@
       "value": "US:NY:Thruway",
       "description": "[Q736574] New York State Thruway",
       "doc_url": "http://www.wikidata.org/entity/Q736574#P1282"
-    },
-    {
-      "key": "network",
-      "value": "US:Navajo",
-      "description": "[Q141155104] Navajo Routes",
-      "doc_url": "http://www.wikidata.org/entity/Q141155104#P1282"
     },
     {
       "key": "network",
@@ -18048,15 +18267,15 @@
     },
     {
       "key": "network",
-      "value": "US:OH:TUS",
-      "description": "[Q99658434] Tuscarawas County routes",
-      "doc_url": "http://www.wikidata.org/entity/Q99658434#P1282"
-    },
-    {
-      "key": "network",
       "value": "US:OH:Turnpike",
       "description": "[Q1131020] Ohio Turnpike",
       "doc_url": "http://www.wikidata.org/entity/Q1131020#P1282"
+    },
+    {
+      "key": "network",
+      "value": "US:OH:TUS",
+      "description": "[Q99658434] Tuscarawas County routes",
+      "doc_url": "http://www.wikidata.org/entity/Q99658434#P1282"
     },
     {
       "key": "network",
@@ -18252,6 +18471,12 @@
     },
     {
       "key": "network",
+      "value": "US:TX:Recreational",
+      "description": "[Q97453574] Texas Recreational Roads",
+      "doc_url": "http://www.wikidata.org/entity/Q97453574#P1282"
+    },
+    {
+      "key": "network",
       "value": "US:TX:RM",
       "description": "[Q97453357] Texas Ranch to Market Roads",
       "doc_url": "http://www.wikidata.org/entity/Q97453357#P1282"
@@ -18261,12 +18486,6 @@
       "value": "US:TX:RM",
       "description": "[Q97453432] Texas Ranch Roads",
       "doc_url": "http://www.wikidata.org/entity/Q97453432#P1282"
-    },
-    {
-      "key": "network",
-      "value": "US:TX:Recreational",
-      "description": "[Q97453574] Texas Recreational Roads",
-      "doc_url": "http://www.wikidata.org/entity/Q97453574#P1282"
     },
     {
       "key": "network",
@@ -18384,12 +18603,6 @@
     },
     {
       "key": "network",
-      "value": "Urquiza",
-      "description": "[Q280903] Ferrocarril General Urquiza",
-      "doc_url": "http://www.wikidata.org/entity/Q280903#P1282"
-    },
-    {
-      "key": "network",
       "value": "VN:expressway",
       "description": "[Q65171332] expressways of Vietnam",
       "doc_url": "http://www.wikidata.org/entity/Q65171332#P1282"
@@ -18408,230 +18621,6 @@
     },
     {
       "key": "network",
-      "value": "am:national",
-      "description": "[Q115944513] highways of national importance",
-      "doc_url": "http://www.wikidata.org/entity/Q115944513#P1282"
-    },
-    {
-      "key": "network",
-      "value": "ba:Autoceste",
-      "description": "[Q115973802] motorways in Bosnia and Herzegovina",
-      "doc_url": "http://www.wikidata.org/entity/Q115973802#P1282"
-    },
-    {
-      "key": "network",
-      "value": "ba:Magistralne_ceste",
-      "description": "[Q115973836] main roads in Bosnia and Herzegovina",
-      "doc_url": "http://www.wikidata.org/entity/Q115973836#P1282"
-    },
-    {
-      "key": "network",
-      "value": "bg:motorway",
-      "description": "[Q116447383] motorways in Bulgaria",
-      "doc_url": "http://www.wikidata.org/entity/Q116447383#P1282"
-    },
-    {
-      "key": "network",
-      "value": "by:national",
-      "description": "[Q115977466] highways in Belarus",
-      "doc_url": "http://www.wikidata.org/entity/Q115977466#P1282"
-    },
-    {
-      "key": "network",
-      "value": "call-a-bike",
-      "description": "[Q1060525] Call a Bike",
-      "doc_url": "http://www.wikidata.org/entity/Q1060525#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Call%20a%20Bike%20Logo%20%282022%29.svg"
-    },
-    {
-      "key": "network",
-      "value": "ch:national",
-      "description": "[Q1300787] main roads of Switzerland",
-      "doc_url": "http://www.wikidata.org/entity/Q1300787#P1282"
-    },
-    {
-      "key": "network",
-      "value": "co:national",
-      "description": "[Q115934346] national highways of Colombia",
-      "doc_url": "http://www.wikidata.org/entity/Q115934346#P1282"
-    },
-    {
-      "key": "network",
-      "value": "e-road",
-      "description": "[Q106123] international E-road network",
-      "doc_url": "http://www.wikidata.org/entity/Q106123#P1282"
-    },
-    {
-      "key": "network",
-      "value": "ee:national",
-      "description": "[Q46122855] main road",
-      "doc_url": "http://www.wikidata.org/entity/Q46122855#P1282"
-    },
-    {
-      "key": "network",
-      "value": "fi:link",
-      "description": "[Q3974634] connecting road",
-      "doc_url": "http://www.wikidata.org/entity/Q3974634#P1282"
-    },
-    {
-      "key": "network",
-      "value": "fi:national",
-      "description": "[Q742208] main road (1st class)",
-      "doc_url": "http://www.wikidata.org/entity/Q742208#P1282"
-    },
-    {
-      "key": "network",
-      "value": "fi:regional",
-      "description": "[Q5334199] regional road",
-      "doc_url": "http://www.wikidata.org/entity/Q5334199#P1282"
-    },
-    {
-      "key": "network",
-      "value": "fi:trunk",
-      "description": "[Q15101588] main road (2nd class)",
-      "doc_url": "http://www.wikidata.org/entity/Q15101588#P1282"
-    },
-    {
-      "key": "network",
-      "value": "ir:freeways",
-      "description": "[Q115953065] freeways in Iran",
-      "doc_url": "http://www.wikidata.org/entity/Q115953065#P1282"
-    },
-    {
-      "key": "network",
-      "value": "lt:national",
-      "description": "[Q115978023] main roads in Lithuania",
-      "doc_url": "http://www.wikidata.org/entity/Q115978023#P1282"
-    },
-    {
-      "key": "network",
-      "value": "lv:national",
-      "description": "[Q1888633] list of national roads in Latvia",
-      "doc_url": "http://www.wikidata.org/entity/Q1888633#P1282"
-    },
-    {
-      "key": "network",
-      "value": "lv:regional",
-      "description": "[Q115978566] regional road",
-      "doc_url": "http://www.wikidata.org/entity/Q115978566#P1282"
-    },
-    {
-      "key": "network",
-      "value": "mk:national",
-      "description": "[Q115924217] motorways in North Macedonia",
-      "doc_url": "http://www.wikidata.org/entity/Q115924217#P1282"
-    },
-    {
-      "key": "network",
-      "value": "mk:regional",
-      "description": "[Q93899879] regional roads in North Macedonia",
-      "doc_url": "http://www.wikidata.org/entity/Q93899879#P1282"
-    },
-    {
-      "key": "network",
-      "value": "nextbike",
-      "description": "[Q2351279] Nextbike",
-      "doc_url": "http://www.wikidata.org/entity/Q2351279#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nextbike%20-%20neue%20Marke%202024.png"
-    },
-    {
-      "key": "network",
-      "value": "np:national",
-      "description": "[Q104844481] National Highway System of Nepal",
-      "doc_url": "http://www.wikidata.org/entity/Q104844481#P1282"
-    },
-    {
-      "key": "network",
-      "value": "pl:district",
-      "description": "[Q5276135] powiat road",
-      "doc_url": "http://www.wikidata.org/entity/Q5276135#P1282"
-    },
-    {
-      "key": "network",
-      "value": "pl:expressways",
-      "description": "[Q1127434] expressway in Poland",
-      "doc_url": "http://www.wikidata.org/entity/Q1127434#P1282"
-    },
-    {
-      "key": "network",
-      "value": "pl:motorways",
-      "description": "[Q789026] motorway in Poland",
-      "doc_url": "http://www.wikidata.org/entity/Q789026#P1282"
-    },
-    {
-      "key": "network",
-      "value": "pl:municipal",
-      "description": "[Q5276193] municipal road",
-      "doc_url": "http://www.wikidata.org/entity/Q5276193#P1282"
-    },
-    {
-      "key": "network",
-      "value": "pl:national",
-      "description": "[Q1094196] national road in Poland",
-      "doc_url": "http://www.wikidata.org/entity/Q1094196#P1282"
-    },
-    {
-      "key": "network",
-      "value": "pl:regional",
-      "description": "[Q1259617] Voivodeship road",
-      "doc_url": "http://www.wikidata.org/entity/Q1259617#P1282"
-    },
-    {
-      "key": "network",
-      "value": "ru:national",
-      "description": "[Q260792] Russian federal highways",
-      "doc_url": "http://www.wikidata.org/entity/Q260792#P1282"
-    },
-    {
-      "key": "network",
-      "value": "sk:national",
-      "description": "[Q115934465] highway in Slovakia",
-      "doc_url": "http://www.wikidata.org/entity/Q115934465#P1282"
-    },
-    {
-      "key": "network",
-      "value": "stadtradhamburg",
-      "description": "[Q2326366] StadtRAD Hamburg",
-      "doc_url": "http://www.wikidata.org/entity/Q2326366#P1282"
-    },
-    {
-      "key": "network",
-      "value": "stadtradlueneburg",
-      "description": "[Q126007363] StadtRAD Lüneburg",
-      "doc_url": "http://www.wikidata.org/entity/Q126007363#P1282"
-    },
-    {
-      "key": "network",
-      "value": "ua:international",
-      "description": "[Q97161264] international highways in Ukraine",
-      "doc_url": "http://www.wikidata.org/entity/Q97161264#P1282"
-    },
-    {
-      "key": "network",
-      "value": "ua:local",
-      "description": "[Q115923847] local roads in Ukraine",
-      "doc_url": "http://www.wikidata.org/entity/Q115923847#P1282"
-    },
-    {
-      "key": "network",
-      "value": "ua:national",
-      "description": "[Q12132974] national roads in Ukraine",
-      "doc_url": "http://www.wikidata.org/entity/Q12132974#P1282"
-    },
-    {
-      "key": "network",
-      "value": "ua:regional",
-      "description": "[Q12147261] regional highways of Ukraine",
-      "doc_url": "http://www.wikidata.org/entity/Q12147261#P1282"
-    },
-    {
-      "key": "network",
-      "value": "ua:territorial",
-      "description": "[Q12160751] territorial automobile route",
-      "doc_url": "http://www.wikidata.org/entity/Q12160751#P1282"
-    },
-    {
-      "key": "network",
       "value": "za:capetown",
       "description": "[Q24234074] Metropolitan Routes in Cape Town",
       "doc_url": "http://www.wikidata.org/entity/Q24234074#P1282"
@@ -18641,6 +18630,12 @@
       "value": "za:regional",
       "description": "[Q18109004] provincial routes",
       "doc_url": "http://www.wikidata.org/entity/Q18109004#P1282"
+    },
+    {
+      "key": "NHS",
+      "value": "STRAHNET",
+      "description": "[Q57830222] Strategic Highway Network",
+      "doc_url": "http://www.wikidata.org/entity/Q57830222#P1282"
     },
     {
       "key": "nist:fips_code",
@@ -19097,7 +19092,7 @@
     {
       "key": "operator:wikidata",
       "value": "Q138826424",
-      "description": "[Q138826424] Q138826424",
+      "description": "[Q138826424] Egererdő Zrt.",
       "doc_url": "http://www.wikidata.org/entity/Q138826424#P1282"
     },
     {
@@ -19122,7 +19117,7 @@
     {
       "key": "operator",
       "value": "EGERERDŐ Erdészeti Zrt.",
-      "description": "[Q138826424] Q138826424",
+      "description": "[Q138826424] Egererdő Zrt.",
       "doc_url": "http://www.wikidata.org/entity/Q138826424#P1282"
     },
     {
@@ -19194,6 +19189,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q102496#P13786"
     },
     {
+      "key": "park_ride",
+      "description": "[Q738031] park and ride",
+      "doc_url": "http://www.wikidata.org/entity/Q738031#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/IP13dcr.jpg"
+    },
+    {
       "key": "park:type",
       "value": "state_beach",
       "description": "[Q35800652] state beach",
@@ -19206,15 +19207,40 @@
       "doc_url": "http://www.wikidata.org/entity/Q1761072#P1282"
     },
     {
-      "key": "park_ride",
-      "description": "[Q738031] park and ride",
-      "doc_url": "http://www.wikidata.org/entity/Q738031#P13786",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/IP13dcr.jpg"
-    },
-    {
       "key": "parking",
       "description": "[Q110543011] parking sign",
       "doc_url": "http://www.wikidata.org/entity/Q110543011#P13786"
+    },
+    {
+      "key": "parking_space",
+      "value": "disabled",
+      "description": "[Q11945119] accessible parking spot",
+      "doc_url": "http://www.wikidata.org/entity/Q11945119#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Indonesian%20Road%20Sign%20Info%205f2.png"
+    },
+    {
+      "key": "parking_space",
+      "value": "men",
+      "description": "[Q1117380] men's parking space",
+      "doc_url": "http://www.wikidata.org/entity/Q1117380#P1282"
+    },
+    {
+      "key": "parking_space",
+      "value": "parent",
+      "description": "[Q1955939] parent parking",
+      "doc_url": "http://www.wikidata.org/entity/Q1955939#P1282"
+    },
+    {
+      "key": "parking_space",
+      "value": "veteran",
+      "description": "[Q130479052] veteran's parking space",
+      "doc_url": "http://www.wikidata.org/entity/Q130479052#P1282"
+    },
+    {
+      "key": "parking_space",
+      "value": "women",
+      "description": "[Q354170] women's parking space",
+      "doc_url": "http://www.wikidata.org/entity/Q354170#P1282"
     },
     {
       "key": "parking:condition",
@@ -19263,37 +19289,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q2431970#P1282"
     },
     {
-      "key": "parking_space",
-      "value": "disabled",
-      "description": "[Q11945119] accessible parking spot",
-      "doc_url": "http://www.wikidata.org/entity/Q11945119#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Indonesian%20Road%20Sign%20Info%205f2.png"
-    },
-    {
-      "key": "parking_space",
-      "value": "men",
-      "description": "[Q1117380] men's parking space",
-      "doc_url": "http://www.wikidata.org/entity/Q1117380#P1282"
-    },
-    {
-      "key": "parking_space",
-      "value": "parent",
-      "description": "[Q1955939] parent parking",
-      "doc_url": "http://www.wikidata.org/entity/Q1955939#P1282"
-    },
-    {
-      "key": "parking_space",
-      "value": "veteran",
-      "description": "[Q130479052] veteran's parking space",
-      "doc_url": "http://www.wikidata.org/entity/Q130479052#P1282"
-    },
-    {
-      "key": "parking_space",
-      "value": "women",
-      "description": "[Q354170] women's parking space",
-      "doc_url": "http://www.wikidata.org/entity/Q354170#P1282"
-    },
-    {
       "key": "passenger",
       "description": "[Q319604] passenger",
       "doc_url": "http://www.wikidata.org/entity/Q319604#P13786"
@@ -19310,17 +19305,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q1912682#P13786"
     },
     {
-      "key": "payment:Apple Pay",
-      "description": "[Q18010990] Apple Pay",
-      "doc_url": "http://www.wikidata.org/entity/Q18010990#P13786",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Apple%20Pay%20logo.svg"
-    },
-    {
-      "key": "payment:LINE_Pay",
-      "description": "[Q138732463] LINE Pay",
-      "doc_url": "http://www.wikidata.org/entity/Q138732463#P13786"
-    },
-    {
       "key": "payment:alipay",
       "description": "[Q493556] Alipay",
       "doc_url": "http://www.wikidata.org/entity/Q493556#P13786"
@@ -19332,6 +19316,12 @@
     },
     {
       "key": "payment:apple",
+      "description": "[Q18010990] Apple Pay",
+      "doc_url": "http://www.wikidata.org/entity/Q18010990#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Apple%20Pay%20logo.svg"
+    },
+    {
+      "key": "payment:Apple Pay",
       "description": "[Q18010990] Apple Pay",
       "doc_url": "http://www.wikidata.org/entity/Q18010990#P13786",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Apple%20Pay%20logo.svg"
@@ -19505,6 +19495,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q50612088#P13786"
     },
     {
+      "key": "payment:LINE_Pay",
+      "description": "[Q138732463] LINE Pay",
+      "doc_url": "http://www.wikidata.org/entity/Q138732463#P13786"
+    },
+    {
       "key": "payment:linepay",
       "description": "[Q138732463] LINE Pay",
       "doc_url": "http://www.wikidata.org/entity/Q138732463#P13786"
@@ -19666,7 +19661,7 @@
     },
     {
       "key": "payment:szep",
-      "description": "[Q1301892] Q1301892",
+      "description": "[Q1301892] Széchenyi Pihenőkártya",
       "doc_url": "http://www.wikidata.org/entity/Q1301892#P13786"
     },
     {
@@ -20584,9 +20579,9 @@
     },
     {
       "key": "political_division",
-      "value": "SG:ward",
-      "description": "[Q138698843] ward of the Parliament of Singapore",
-      "doc_url": "http://www.wikidata.org/entity/Q138698843#P1282"
+      "value": "àmbit_funcional_territorial",
+      "description": "[Q113303812] functional territorial area",
+      "doc_url": "http://www.wikidata.org/entity/Q113303812#P1282"
     },
     {
       "key": "political_division",
@@ -20608,6 +20603,12 @@
     },
     {
       "key": "political_division",
+      "value": "SG:ward",
+      "description": "[Q138698843] ward of the Parliament of Singapore",
+      "doc_url": "http://www.wikidata.org/entity/Q138698843#P1282"
+    },
+    {
+      "key": "political_division",
       "value": "subregion",
       "description": "[Q7631923] subregion",
       "doc_url": "http://www.wikidata.org/entity/Q7631923#P1282"
@@ -20623,12 +20624,6 @@
       "value": "ward",
       "description": "[Q589282] ward or electoral division of the United Kingdom",
       "doc_url": "http://www.wikidata.org/entity/Q589282#P1282"
-    },
-    {
-      "key": "political_division",
-      "value": "àmbit_funcional_territorial",
-      "description": "[Q113303812] functional territorial area",
-      "doc_url": "http://www.wikidata.org/entity/Q113303812#P1282"
     },
     {
       "key": "political_party",
@@ -21031,6 +21026,12 @@
     {
       "key": "power",
       "value": "transformer",
+      "description": "[Q11658] transformer",
+      "doc_url": "http://www.wikidata.org/entity/Q11658#P1282"
+    },
+    {
+      "key": "power",
+      "value": "transformer",
       "description": "[Q1907989] distribution transformer",
       "doc_url": "http://www.wikidata.org/entity/Q1907989#P1282"
     },
@@ -21045,12 +21046,6 @@
       "value": "transformer",
       "description": "[Q4419282] power transformer",
       "doc_url": "http://www.wikidata.org/entity/Q4419282#P1282"
-    },
-    {
-      "key": "power",
-      "value": "transformer",
-      "description": "[Q11658] transformer",
-      "doc_url": "http://www.wikidata.org/entity/Q11658#P1282"
     },
     {
       "key": "preschool",
@@ -21197,6 +21192,12 @@
     },
     {
       "key": "protection_title",
+      "value": "landskapsvernområde",
+      "description": "[Q759882] protected landscape area",
+      "doc_url": "http://www.wikidata.org/entity/Q759882#P1282"
+    },
+    {
+      "key": "protection_title",
       "value": "National Wildlife Refuge",
       "description": "[Q1410668] National Wildlife Refuge",
       "doc_url": "http://www.wikidata.org/entity/Q1410668#P1282",
@@ -21237,12 +21238,6 @@
       "value": "Wilderness_Area",
       "description": "[Q2445527] wilderness area",
       "doc_url": "http://www.wikidata.org/entity/Q2445527#P1282"
-    },
-    {
-      "key": "protection_title",
-      "value": "landskapsvernområde",
-      "description": "[Q759882] protected landscape area",
-      "doc_url": "http://www.wikidata.org/entity/Q759882#P1282"
     },
     {
       "key": "public_transport",
@@ -21471,6 +21466,30 @@
       "doc_url": "http://www.wikidata.org/entity/Q1505359#P13786"
     },
     {
+      "key": "railway:signal_box",
+      "value": "electric",
+      "description": "[Q2008263] relay interlocking",
+      "doc_url": "http://www.wikidata.org/entity/Q2008263#P1282"
+    },
+    {
+      "key": "railway:signal_box",
+      "value": "electronic",
+      "description": "[Q59384080] electronic interlocking",
+      "doc_url": "http://www.wikidata.org/entity/Q59384080#P1282"
+    },
+    {
+      "key": "railway:signal_box",
+      "value": "mechanical",
+      "description": "[Q914057] lever frame",
+      "doc_url": "http://www.wikidata.org/entity/Q914057#P1282"
+    },
+    {
+      "key": "railway:signal_box",
+      "value": "track_diagram",
+      "description": "[Q630950] interlocking",
+      "doc_url": "http://www.wikidata.org/entity/Q630950#P1282"
+    },
+    {
       "key": "railway:signal:crossing_distant",
       "value": "DE-ESO:bü3",
       "description": "[Q136353216] Bü 3",
@@ -21584,6 +21603,24 @@
       "doc_url": "http://www.wikidata.org/entity/Q140640004#P1282"
     },
     {
+      "key": "railway:signal:main_repeated",
+      "value": "CH-FDV:559",
+      "description": "[Q139602908] Fahrtstellungsmelder",
+      "doc_url": "http://www.wikidata.org/entity/Q139602908#P1282"
+    },
+    {
+      "key": "railway:signal:main_repeated",
+      "value": "DE-ESO:fahrtanzeiger",
+      "description": "[Q1392692] Fahrtanzeiger",
+      "doc_url": "http://www.wikidata.org/entity/Q1392692#P1282"
+    },
+    {
+      "key": "railway:signal:main_repeated",
+      "value": "LU-CFL:SFID",
+      "description": "[Q139601795] signal fixe indicateur de départ",
+      "doc_url": "http://www.wikidata.org/entity/Q139601795#P1282"
+    },
+    {
       "key": "railway:signal:main:function",
       "value": "exit",
       "description": "[Q778414] Ausfahrsignal",
@@ -21606,24 +21643,6 @@
       "value": "LU-CFL:SFA",
       "description": "[Q139672530] signal fixe d’autorisation",
       "doc_url": "http://www.wikidata.org/entity/Q139672530#P1282"
-    },
-    {
-      "key": "railway:signal:main_repeated",
-      "value": "CH-FDV:559",
-      "description": "[Q139602908] Fahrtstellungsmelder",
-      "doc_url": "http://www.wikidata.org/entity/Q139602908#P1282"
-    },
-    {
-      "key": "railway:signal:main_repeated",
-      "value": "DE-ESO:fahrtanzeiger",
-      "description": "[Q1392692] Fahrtanzeiger",
-      "doc_url": "http://www.wikidata.org/entity/Q1392692#P1282"
-    },
-    {
-      "key": "railway:signal:main_repeated",
-      "value": "LU-CFL:SFID",
-      "description": "[Q139601795] signal fixe indicateur de départ",
-      "doc_url": "http://www.wikidata.org/entity/Q139601795#P1282"
     },
     {
       "key": "railway:signal:minor",
@@ -21668,16 +21687,16 @@
       "doc_url": "http://www.wikidata.org/entity/Q136091519#P1282"
     },
     {
-      "key": "railway:signal:route",
-      "value": "DE-ESO:zs2",
-      "description": "[Q1752095] Zs 2",
-      "doc_url": "http://www.wikidata.org/entity/Q1752095#P1282"
-    },
-    {
       "key": "railway:signal:route_distant",
       "value": "DE-ESO:zs2v",
       "description": "[Q136812632] Zs 2v",
       "doc_url": "http://www.wikidata.org/entity/Q136812632#P1282"
+    },
+    {
+      "key": "railway:signal:route",
+      "value": "DE-ESO:zs2",
+      "description": "[Q1752095] Zs 2",
+      "doc_url": "http://www.wikidata.org/entity/Q1752095#P1282"
     },
     {
       "key": "railway:signal:shunting",
@@ -21713,6 +21732,36 @@
       "value": "CH-FDV:271",
       "description": "[Q138827967] Beginn der Horizontalen",
       "doc_url": "http://www.wikidata.org/entity/Q138827967#P1282"
+    },
+    {
+      "key": "railway:signal:speed_limit_distant",
+      "value": "DE-ESO:db:lf4",
+      "description": "[Q136222588] Lf 4",
+      "doc_url": "http://www.wikidata.org/entity/Q136222588#P1282"
+    },
+    {
+      "key": "railway:signal:speed_limit_distant",
+      "value": "DE-ESO:dr:lf4",
+      "description": "[Q136222589] Lf 4",
+      "doc_url": "http://www.wikidata.org/entity/Q136222589#P1282"
+    },
+    {
+      "key": "railway:signal:speed_limit_distant",
+      "value": "DE-ESO:lf1",
+      "description": "[Q136222584] Lf 1",
+      "doc_url": "http://www.wikidata.org/entity/Q136222584#P1282"
+    },
+    {
+      "key": "railway:signal:speed_limit_distant",
+      "value": "DE-ESO:lf6",
+      "description": "[Q136222590] Lf 6",
+      "doc_url": "http://www.wikidata.org/entity/Q136222590#P1282"
+    },
+    {
+      "key": "railway:signal:speed_limit_distant",
+      "value": "DE-ESO:zs3v",
+      "description": "[Q108319708] Zs 3v",
+      "doc_url": "http://www.wikidata.org/entity/Q108319708#P1282"
     },
     {
       "key": "railway:signal:speed_limit",
@@ -21781,40 +21830,16 @@
       "doc_url": "http://www.wikidata.org/entity/Q135710786#P1282"
     },
     {
-      "key": "railway:signal:speed_limit_distant",
-      "value": "DE-ESO:db:lf4",
-      "description": "[Q136222588] Lf 4",
-      "doc_url": "http://www.wikidata.org/entity/Q136222588#P1282"
-    },
-    {
-      "key": "railway:signal:speed_limit_distant",
-      "value": "DE-ESO:dr:lf4",
-      "description": "[Q136222589] Lf 4",
-      "doc_url": "http://www.wikidata.org/entity/Q136222589#P1282"
-    },
-    {
-      "key": "railway:signal:speed_limit_distant",
-      "value": "DE-ESO:lf1",
-      "description": "[Q136222584] Lf 1",
-      "doc_url": "http://www.wikidata.org/entity/Q136222584#P1282"
-    },
-    {
-      "key": "railway:signal:speed_limit_distant",
-      "value": "DE-ESO:lf6",
-      "description": "[Q136222590] Lf 6",
-      "doc_url": "http://www.wikidata.org/entity/Q136222590#P1282"
-    },
-    {
-      "key": "railway:signal:speed_limit_distant",
-      "value": "DE-ESO:zs3v",
-      "description": "[Q108319708] Zs 3v",
-      "doc_url": "http://www.wikidata.org/entity/Q108319708#P1282"
-    },
-    {
       "key": "railway:signal:station_distant",
       "value": "DE-ESO:ne6",
       "description": "[Q136696607] Ne 6",
       "doc_url": "http://www.wikidata.org/entity/Q136696607#P1282"
+    },
+    {
+      "key": "railway:signal:stop_demand",
+      "value": "CH-FDV:566",
+      "description": "[Q141052335] arrêt facultatif",
+      "doc_url": "http://www.wikidata.org/entity/Q141052335#P1282"
     },
     {
       "key": "railway:signal:stop",
@@ -21834,12 +21859,6 @@
       "value": "DE-ESO:zuglänge",
       "description": "[Q135713864] Zuglängentafel",
       "doc_url": "http://www.wikidata.org/entity/Q135713864#P1282"
-    },
-    {
-      "key": "railway:signal:stop_demand",
-      "value": "CH-FDV:566",
-      "description": "[Q141052335] Bedarfshalt",
-      "doc_url": "http://www.wikidata.org/entity/Q141052335#P1282"
     },
     {
       "key": "railway:signal:train_protection:main",
@@ -21888,30 +21907,6 @@
       "value": "DE-ESO:mastschild_schwarz-weiss-punkte",
       "description": "[Q138634152] weißes Mastschild mit zwei schwarzen Punkten",
       "doc_url": "http://www.wikidata.org/entity/Q138634152#P1282"
-    },
-    {
-      "key": "railway:signal_box",
-      "value": "electric",
-      "description": "[Q2008263] relay interlocking",
-      "doc_url": "http://www.wikidata.org/entity/Q2008263#P1282"
-    },
-    {
-      "key": "railway:signal_box",
-      "value": "electronic",
-      "description": "[Q59384080] electronic interlocking",
-      "doc_url": "http://www.wikidata.org/entity/Q59384080#P1282"
-    },
-    {
-      "key": "railway:signal_box",
-      "value": "mechanical",
-      "description": "[Q914057] lever frame",
-      "doc_url": "http://www.wikidata.org/entity/Q914057#P1282"
-    },
-    {
-      "key": "railway:signal_box",
-      "value": "track_diagram",
-      "description": "[Q630950] interlocking",
-      "doc_url": "http://www.wikidata.org/entity/Q630950#P1282"
     },
     {
       "key": "railway:station_category",
@@ -22110,14 +22105,14 @@
     {
       "key": "railway",
       "value": "ferry",
-      "description": "[Q20180855] train ferry route",
-      "doc_url": "http://www.wikidata.org/entity/Q20180855#P1282"
+      "description": "[Q15262] train ferry",
+      "doc_url": "http://www.wikidata.org/entity/Q15262#P1282"
     },
     {
       "key": "railway",
       "value": "ferry",
-      "description": "[Q15262] train ferry",
-      "doc_url": "http://www.wikidata.org/entity/Q15262#P1282"
+      "description": "[Q20180855] train ferry route",
+      "doc_url": "http://www.wikidata.org/entity/Q20180855#P1282"
     },
     {
       "key": "railway",
@@ -22480,10 +22475,16 @@
       "doc_url": "http://www.wikidata.org/entity/Q13557414#P13786"
     },
     {
-      "key": "recycling:Paca_Biodigestora_Silva",
-      "value": "yes",
-      "description": "[Q135487938] Paca Digestora Silva",
-      "doc_url": "http://www.wikidata.org/entity/Q135487938#P1282"
+      "key": "recycling_type",
+      "value": "centre",
+      "description": "[Q27106436] recycling center",
+      "doc_url": "http://www.wikidata.org/entity/Q27106436#P1282"
+    },
+    {
+      "key": "recycling_type",
+      "value": "container",
+      "description": "[Q4743886] recycling bin",
+      "doc_url": "http://www.wikidata.org/entity/Q4743886#P1282"
     },
     {
       "key": "recycling:clothes",
@@ -22502,6 +22503,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q137510029#P1282"
     },
     {
+      "key": "recycling:Paca_Biodigestora_Silva",
+      "value": "yes",
+      "description": "[Q135487938] Paca Digestora Silva",
+      "doc_url": "http://www.wikidata.org/entity/Q135487938#P1282"
+    },
+    {
       "key": "recycling:pmd",
       "description": "[Q1499333] yellow bags",
       "doc_url": "http://www.wikidata.org/entity/Q1499333#P13786"
@@ -22511,18 +22518,6 @@
       "value": "yes",
       "description": "[Q1499333] yellow bags",
       "doc_url": "http://www.wikidata.org/entity/Q1499333#P1282"
-    },
-    {
-      "key": "recycling_type",
-      "value": "centre",
-      "description": "[Q27106436] recycling center",
-      "doc_url": "http://www.wikidata.org/entity/Q27106436#P1282"
-    },
-    {
-      "key": "recycling_type",
-      "value": "container",
-      "description": "[Q4743886] recycling bin",
-      "doc_url": "http://www.wikidata.org/entity/Q4743886#P1282"
     },
     {
       "key": "reef",
@@ -22556,237 +22551,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q1334113#P13786"
     },
     {
-      "key": "ref:AQ:apa",
-      "description": "[Q4771003] Antarctic Protected Area",
-      "doc_url": "http://www.wikidata.org/entity/Q4771003#P13786"
-    },
-    {
-      "key": "ref:AT:bda",
-      "description": "[P2951] Cultural heritage database in Austria ObjektID",
-      "doc_url": "http://www.wikidata.org/entity/P2951#P13786"
-    },
-    {
-      "key": "ref:BFlD",
-      "description": "[P4244] Bavarian monument authority ID",
-      "doc_url": "http://www.wikidata.org/entity/P4244#P13786"
-    },
-    {
-      "key": "ref:BG:EIK",
-      "description": "[P8894] BG EIK",
-      "doc_url": "http://www.wikidata.org/entity/P8894#P13786"
-    },
-    {
-      "key": "ref:BG:eik",
-      "description": "[Q24574607] Unified Identification code",
-      "doc_url": "http://www.wikidata.org/entity/Q24574607#P13786"
-    },
-    {
-      "key": "ref:BG:neispuo",
-      "description": "[P9034] BG School ID",
-      "doc_url": "http://www.wikidata.org/entity/P9034#P13786"
-    },
-    {
-      "key": "ref:BG:rhm_sofia",
-      "description": "[P14797] Sofia monuments register ID",
-      "doc_url": "http://www.wikidata.org/entity/P14797#P13786"
-    },
-    {
-      "key": "ref:EGID",
-      "description": "[P9665] EGID",
-      "doc_url": "http://www.wikidata.org/entity/P9665#P13786"
-    },
-    {
-      "key": "ref:EU:ENTSOE_EIC",
-      "description": "[P8645] Energy Identification Code",
-      "doc_url": "http://www.wikidata.org/entity/P8645#P13786"
-    },
-    {
-      "key": "ref:EU:ENTSOE_EIC",
-      "description": "[Q15680041] Energy Identification Code",
-      "doc_url": "http://www.wikidata.org/entity/Q15680041#P13786"
-    },
-    {
-      "key": "ref:EU:PLC",
-      "description": "[Q137713590] Primary Location Code",
-      "doc_url": "http://www.wikidata.org/entity/Q137713590#P13786"
-    },
-    {
-      "key": "ref:EU:bwid",
-      "description": "[P9616] Eionet bathing Water ID",
-      "doc_url": "http://www.wikidata.org/entity/P9616#P13786"
-    },
-    {
-      "key": "ref:FR:Allocine",
-      "description": "[P8414] AlloCiné theater ID",
-      "doc_url": "http://www.wikidata.org/entity/P8414#P13786"
-    },
-    {
-      "key": "ref:FR:BAN",
-      "description": "[P12053] National Address Base ID",
-      "doc_url": "http://www.wikidata.org/entity/P12053#P13786"
-    },
-    {
-      "key": "ref:FR:FINESS",
-      "description": "[P4058] FINESS ID",
-      "doc_url": "http://www.wikidata.org/entity/P4058#P13786"
-    },
-    {
-      "key": "ref:FR:INPN",
-      "description": "[P1848] protected areas INPN Code",
-      "doc_url": "http://www.wikidata.org/entity/P1848#P13786"
-    },
-    {
-      "key": "ref:FR:MemorialGenWeb",
-      "description": "[P8157] MémorialGenWeb monument ID",
-      "doc_url": "http://www.wikidata.org/entity/P8157#P13786"
-    },
-    {
-      "key": "ref:FR:MemorialGenWeb",
-      "description": "[Q25387536] MémorialGenWeb",
-      "doc_url": "http://www.wikidata.org/entity/Q25387536#P13786"
-    },
-    {
-      "key": "ref:FR:RNA",
-      "description": "[P3918] Répertoire national des associations ID",
-      "doc_url": "http://www.wikidata.org/entity/P3918#P13786"
-    },
-    {
-      "key": "ref:FR:RTE",
-      "description": "[P12583] RTE substation ID",
-      "doc_url": "http://www.wikidata.org/entity/P12583#P13786"
-    },
-    {
-      "key": "ref:FR:SIREN",
-      "description": "[P1616] SIREN number",
-      "doc_url": "http://www.wikidata.org/entity/P1616#P13786"
-    },
-    {
-      "key": "ref:FR:SIRET",
-      "description": "[P3215] SIRET number",
-      "doc_url": "http://www.wikidata.org/entity/P3215#P13786"
-    },
-    {
-      "key": "ref:FR:SNCF-Réseau",
-      "description": "[Q21605526] SNCF Réseau",
-      "doc_url": "http://www.wikidata.org/entity/Q21605526#P13786",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SNCF%20R%C3%A9seau.png"
-    },
-    {
-      "key": "ref:FR:museofile",
-      "description": "[P539] Museofile ID",
-      "doc_url": "http://www.wikidata.org/entity/P539#P13786"
-    },
-    {
-      "key": "ref:GB:nhle",
-      "description": "[P1216] National Heritage List for England number",
-      "doc_url": "http://www.wikidata.org/entity/P1216#P13786"
-    },
-    {
-      "key": "ref:GB:nhs_ods",
-      "description": "[P9372] NHS Organisation Data Service ID",
-      "doc_url": "http://www.wikidata.org/entity/P9372#P13786"
-    },
-    {
-      "key": "ref:GB:ukprn",
-      "description": "[P4971] UK Provider Reference Number",
-      "doc_url": "http://www.wikidata.org/entity/P4971#P13786"
-    },
-    {
-      "key": "ref:GB:uprn",
-      "description": "[P8399] Unique Property Reference Number",
-      "doc_url": "http://www.wikidata.org/entity/P8399#P13786"
-    },
-    {
-      "key": "ref:GB:usrn",
-      "description": "[P8447] Unique Street Reference Number",
-      "doc_url": "http://www.wikidata.org/entity/P8447#P13786"
-    },
-    {
-      "key": "ref:HU:company",
-      "description": "[P2619] Hungarian company ID",
-      "doc_url": "http://www.wikidata.org/entity/P2619#P13786"
-    },
-    {
-      "key": "ref:IE:niah",
-      "description": "[P4088] Irish National Inventory of Architectural Heritage ID",
-      "doc_url": "http://www.wikidata.org/entity/P4088#P13786"
-    },
-    {
-      "key": "ref:IE:smr",
-      "description": "[P4057] Irish Sites and Monuments Record ID",
-      "doc_url": "http://www.wikidata.org/entity/P4057#P13786"
-    },
-    {
-      "key": "ref:IFOPT",
-      "description": "[Q5988215] Identification of Fixed Objects in Public Transport",
-      "doc_url": "http://www.wikidata.org/entity/Q5988215#P13786"
-    },
-    {
-      "key": "ref:INEP",
-      "description": "[P11704] INEP ID",
-      "doc_url": "http://www.wikidata.org/entity/P11704#P13786"
-    },
-    {
-      "key": "ref:INSEE",
-      "description": "[P374] Insee municipality code",
-      "doc_url": "http://www.wikidata.org/entity/P374#P13786"
-    },
-    {
-      "key": "ref:INSEE",
-      "description": "[Q156705] INSEE code",
-      "doc_url": "http://www.wikidata.org/entity/Q156705#P13786"
-    },
-    {
-      "key": "ref:KGS-PBC",
-      "description": "[P381] KGS-PBC",
-      "doc_url": "http://www.wikidata.org/entity/P381#P13786"
-    },
-    {
-      "key": "ref:LOCODE",
-      "description": "[P1937] UN/LOCODE",
-      "doc_url": "http://www.wikidata.org/entity/P1937#P13786"
-    },
-    {
-      "key": "ref:NVRID",
-      "description": "[P3613] Naturvårdsregistret ID",
-      "doc_url": "http://www.wikidata.org/entity/P3613#P13786"
-    },
-    {
-      "key": "ref:OnroerendErfgoed",
-      "description": "[P1764] Flemish Heritage Object ID",
-      "doc_url": "http://www.wikidata.org/entity/P1764#P13786"
-    },
-    {
-      "key": "ref:RS:nkd",
-      "description": "[P4245] cultural heritage monument in Serbia ID",
-      "doc_url": "http://www.wikidata.org/entity/P4245#P13786"
-    },
-    {
-      "key": "ref:UAI",
-      "description": "[P3202] UAI code",
-      "doc_url": "http://www.wikidata.org/entity/P3202#P13786"
-    },
-    {
-      "key": "ref:US-MA:mhc",
-      "description": "[P8239] MACRIS ID",
-      "doc_url": "http://www.wikidata.org/entity/P8239#P13786"
-    },
-    {
-      "key": "ref:US:EIA",
-      "description": "[P10682] EIA plant ID",
-      "doc_url": "http://www.wikidata.org/entity/P10682#P13786"
-    },
-    {
-      "key": "ref:US:NID",
-      "description": "[P9439] National Inventory of Dams ID",
-      "doc_url": "http://www.wikidata.org/entity/P9439#P13786"
-    },
-    {
-      "key": "ref:WDPA",
-      "description": "[P809] WDPA ID",
-      "doc_url": "http://www.wikidata.org/entity/P809#P13786"
-    },
-    {
       "key": "ref:admin:CN:mca",
       "description": "[Q4683503] MCA division code in PRC",
       "doc_url": "http://www.wikidata.org/entity/Q4683503#P13786"
@@ -22802,12 +22566,22 @@
       "doc_url": "http://www.wikidata.org/entity/P3562#P13786"
     },
     {
+      "key": "ref:AQ:apa",
+      "description": "[Q4771003] Antarctic Protected Area",
+      "doc_url": "http://www.wikidata.org/entity/Q4771003#P13786"
+    },
+    {
       "key": "ref:arlhs",
       "description": "[P2980] ARLHS lighthouse ID",
       "doc_url": "http://www.wikidata.org/entity/P2980#P13786"
     },
     {
       "key": "ref:at:bda",
+      "description": "[P2951] Cultural heritage database in Austria ObjektID",
+      "doc_url": "http://www.wikidata.org/entity/P2951#P13786"
+    },
+    {
+      "key": "ref:AT:bda",
       "description": "[P2951] Cultural heritage database in Austria ObjektID",
       "doc_url": "http://www.wikidata.org/entity/P2951#P13786"
     },
@@ -22835,6 +22609,31 @@
       "key": "ref:bag",
       "description": "[P5208] BAG building ID",
       "doc_url": "http://www.wikidata.org/entity/P5208#P13786"
+    },
+    {
+      "key": "ref:BFlD",
+      "description": "[P4244] Bavarian monument authority ID",
+      "doc_url": "http://www.wikidata.org/entity/P4244#P13786"
+    },
+    {
+      "key": "ref:BG:eik",
+      "description": "[Q24574607] Unified Identification code",
+      "doc_url": "http://www.wikidata.org/entity/Q24574607#P13786"
+    },
+    {
+      "key": "ref:BG:EIK",
+      "description": "[P8894] BG EIK",
+      "doc_url": "http://www.wikidata.org/entity/P8894#P13786"
+    },
+    {
+      "key": "ref:BG:neispuo",
+      "description": "[P9034] BG School ID",
+      "doc_url": "http://www.wikidata.org/entity/P9034#P13786"
+    },
+    {
+      "key": "ref:BG:rhm_sofia",
+      "description": "[P14797] Sofia monuments register ID",
+      "doc_url": "http://www.wikidata.org/entity/P14797#P13786"
     },
     {
       "key": "ref:bic",
@@ -22882,6 +22681,117 @@
       "doc_url": "http://www.wikidata.org/entity/P3863#P13786"
     },
     {
+      "key": "ref:EGID",
+      "description": "[P9665] EGID",
+      "doc_url": "http://www.wikidata.org/entity/P9665#P13786"
+    },
+    {
+      "key": "ref:EU:bwid",
+      "description": "[P9616] Eionet bathing Water ID",
+      "doc_url": "http://www.wikidata.org/entity/P9616#P13786"
+    },
+    {
+      "key": "ref:EU:ENTSOE_EIC",
+      "description": "[P8645] Energy Identification Code",
+      "doc_url": "http://www.wikidata.org/entity/P8645#P13786"
+    },
+    {
+      "key": "ref:EU:ENTSOE_EIC",
+      "description": "[Q15680041] Energy Identification Code",
+      "doc_url": "http://www.wikidata.org/entity/Q15680041#P13786"
+    },
+    {
+      "key": "ref:EU:PLC",
+      "description": "[Q137713590] Primary Location Code",
+      "doc_url": "http://www.wikidata.org/entity/Q137713590#P13786"
+    },
+    {
+      "key": "ref:FR:Allocine",
+      "description": "[P8414] AlloCiné theater ID",
+      "doc_url": "http://www.wikidata.org/entity/P8414#P13786"
+    },
+    {
+      "key": "ref:FR:BAN",
+      "description": "[P12053] National Address Base ID",
+      "doc_url": "http://www.wikidata.org/entity/P12053#P13786"
+    },
+    {
+      "key": "ref:FR:FINESS",
+      "description": "[P4058] FINESS ID",
+      "doc_url": "http://www.wikidata.org/entity/P4058#P13786"
+    },
+    {
+      "key": "ref:FR:INPN",
+      "description": "[P1848] protected areas INPN Code",
+      "doc_url": "http://www.wikidata.org/entity/P1848#P13786"
+    },
+    {
+      "key": "ref:FR:MemorialGenWeb",
+      "description": "[P8157] MémorialGenWeb monument ID",
+      "doc_url": "http://www.wikidata.org/entity/P8157#P13786"
+    },
+    {
+      "key": "ref:FR:MemorialGenWeb",
+      "description": "[Q25387536] MémorialGenWeb",
+      "doc_url": "http://www.wikidata.org/entity/Q25387536#P13786"
+    },
+    {
+      "key": "ref:FR:museofile",
+      "description": "[P539] Museofile ID",
+      "doc_url": "http://www.wikidata.org/entity/P539#P13786"
+    },
+    {
+      "key": "ref:FR:RNA",
+      "description": "[P3918] Répertoire national des associations ID",
+      "doc_url": "http://www.wikidata.org/entity/P3918#P13786"
+    },
+    {
+      "key": "ref:FR:RTE",
+      "description": "[P12583] RTE substation ID",
+      "doc_url": "http://www.wikidata.org/entity/P12583#P13786"
+    },
+    {
+      "key": "ref:FR:SIREN",
+      "description": "[P1616] SIREN number",
+      "doc_url": "http://www.wikidata.org/entity/P1616#P13786"
+    },
+    {
+      "key": "ref:FR:SIRET",
+      "description": "[P3215] SIRET number",
+      "doc_url": "http://www.wikidata.org/entity/P3215#P13786"
+    },
+    {
+      "key": "ref:FR:SNCF-Réseau",
+      "description": "[Q21605526] SNCF Réseau",
+      "doc_url": "http://www.wikidata.org/entity/Q21605526#P13786",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/SNCF%20R%C3%A9seau.png"
+    },
+    {
+      "key": "ref:GB:nhle",
+      "description": "[P1216] National Heritage List for England number",
+      "doc_url": "http://www.wikidata.org/entity/P1216#P13786"
+    },
+    {
+      "key": "ref:GB:nhs_ods",
+      "description": "[P9372] NHS Organisation Data Service ID",
+      "doc_url": "http://www.wikidata.org/entity/P9372#P13786"
+    },
+    {
+      "key": "ref:GB:ukprn",
+      "description": "[P4971] UK Provider Reference Number",
+      "doc_url": "http://www.wikidata.org/entity/P4971#P13786"
+    },
+    {
+      "key": "ref:GB:uprn",
+      "description": "[P8399] Unique Property Reference Number",
+      "doc_url": "http://www.wikidata.org/entity/P8399#P13786"
+    },
+    {
+      "key": "ref:GB:usrn",
+      "description": "[P8447] Unique Street Reference Number",
+      "doc_url": "http://www.wikidata.org/entity/P8447#P13786"
+    },
+    {
       "key": "ref:gnbc",
       "description": "[P821] CGNDB unique ID",
       "doc_url": "http://www.wikidata.org/entity/P821#P13786"
@@ -22917,6 +22827,11 @@
       "doc_url": "http://www.wikidata.org/entity/Q21013851#P13786"
     },
     {
+      "key": "ref:HU:company",
+      "description": "[P2619] Hungarian company ID",
+      "doc_url": "http://www.wikidata.org/entity/P2619#P13786"
+    },
+    {
       "key": "ref:ibnr",
       "description": "[P954] IBNR ID",
       "doc_url": "http://www.wikidata.org/entity/P954#P13786"
@@ -22925,6 +22840,21 @@
       "key": "ref:idescat",
       "description": "[P4335] IDESCAT territorial code in Catalonia",
       "doc_url": "http://www.wikidata.org/entity/P4335#P13786"
+    },
+    {
+      "key": "ref:IE:niah",
+      "description": "[P4088] Irish National Inventory of Architectural Heritage ID",
+      "doc_url": "http://www.wikidata.org/entity/P4088#P13786"
+    },
+    {
+      "key": "ref:IE:smr",
+      "description": "[P4057] Irish Sites and Monuments Record ID",
+      "doc_url": "http://www.wikidata.org/entity/P4057#P13786"
+    },
+    {
+      "key": "ref:IFOPT",
+      "description": "[Q5988215] Identification of Fixed Objects in Public Transport",
+      "doc_url": "http://www.wikidata.org/entity/Q5988215#P13786"
     },
     {
       "key": "ref:inaturalist.org",
@@ -22937,6 +22867,21 @@
       "doc_url": "http://www.wikidata.org/entity/P772#P13786"
     },
     {
+      "key": "ref:INEP",
+      "description": "[P11704] INEP ID",
+      "doc_url": "http://www.wikidata.org/entity/P11704#P13786"
+    },
+    {
+      "key": "ref:INSEE",
+      "description": "[P374] Insee municipality code",
+      "doc_url": "http://www.wikidata.org/entity/P374#P13786"
+    },
+    {
+      "key": "ref:INSEE",
+      "description": "[Q156705] INSEE code",
+      "doc_url": "http://www.wikidata.org/entity/Q156705#P13786"
+    },
+    {
       "key": "ref:isil",
       "description": "[P791] ISIL",
       "doc_url": "http://www.wikidata.org/entity/P791#P13786"
@@ -22945,6 +22890,11 @@
       "key": "ref:isil",
       "description": "[Q470458] International Standard Identifier for Libraries and Related Organizations",
       "doc_url": "http://www.wikidata.org/entity/Q470458#P13786"
+    },
+    {
+      "key": "ref:KGS-PBC",
+      "description": "[P381] KGS-PBC",
+      "doc_url": "http://www.wikidata.org/entity/P381#P13786"
     },
     {
       "key": "ref:kons",
@@ -22966,6 +22916,11 @@
       "key": "ref:linz:place_id",
       "description": "[P5104] New Zealand Gazetteer place ID",
       "doc_url": "http://www.wikidata.org/entity/P5104#P13786"
+    },
+    {
+      "key": "ref:LOCODE",
+      "description": "[P1937] UN/LOCODE",
+      "doc_url": "http://www.wikidata.org/entity/P1937#P13786"
     },
     {
       "key": "ref:mastr",
@@ -23018,9 +22973,19 @@
       "doc_url": "http://www.wikidata.org/entity/P649#P13786"
     },
     {
+      "key": "ref:NVRID",
+      "description": "[P3613] Naturvårdsregistret ID",
+      "doc_url": "http://www.wikidata.org/entity/P3613#P13786"
+    },
+    {
       "key": "ref:nz:heritage",
       "description": "[P3728] New Zealand Heritage List number",
       "doc_url": "http://www.wikidata.org/entity/P3728#P13786"
+    },
+    {
+      "key": "ref:OnroerendErfgoed",
+      "description": "[P1764] Flemish Heritage Object ID",
+      "doc_url": "http://www.wikidata.org/entity/P1764#P13786"
     },
     {
       "key": "ref:osid",
@@ -23047,6 +23012,11 @@
       "key": "ref:refuges.info",
       "description": "[P10016] Refuges.info ID",
       "doc_url": "http://www.wikidata.org/entity/P10016#P13786"
+    },
+    {
+      "key": "ref:RS:nkd",
+      "description": "[P4245] cultural heritage monument in Serbia ID",
+      "doc_url": "http://www.wikidata.org/entity/P4245#P13786"
     },
     {
       "key": "ref:ruian",
@@ -23110,6 +23080,26 @@
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/THW.svg"
     },
     {
+      "key": "ref:UAI",
+      "description": "[P3202] UAI code",
+      "doc_url": "http://www.wikidata.org/entity/P3202#P13786"
+    },
+    {
+      "key": "ref:US-MA:mhc",
+      "description": "[P8239] MACRIS ID",
+      "doc_url": "http://www.wikidata.org/entity/P8239#P13786"
+    },
+    {
+      "key": "ref:US:EIA",
+      "description": "[P10682] EIA plant ID",
+      "doc_url": "http://www.wikidata.org/entity/P10682#P13786"
+    },
+    {
+      "key": "ref:US:NID",
+      "description": "[P9439] National Inventory of Dams ID",
+      "doc_url": "http://www.wikidata.org/entity/P9439#P13786"
+    },
+    {
       "key": "ref:uscg",
       "description": "[P3723] USCG lighthouse ID",
       "doc_url": "http://www.wikidata.org/entity/P3723#P13786"
@@ -23129,6 +23119,11 @@
       "description": "[Q1740534] Vinmonopolet",
       "doc_url": "http://www.wikidata.org/entity/Q1740534#P13786",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vinmonopolets%20logo.jpg"
+    },
+    {
+      "key": "ref:WDPA",
+      "description": "[P809] WDPA ID",
+      "doc_url": "http://www.wikidata.org/entity/P809#P13786"
     },
     {
       "key": "ref:whc",
@@ -23192,12 +23187,6 @@
     },
     {
       "key": "religion",
-      "value": "Gonabadi_Dervish",
-      "description": "[Q16050852] Gonabadi Dervish",
-      "doc_url": "http://www.wikidata.org/entity/Q16050852#P1282"
-    },
-    {
-      "key": "religion",
       "value": "animist",
       "description": "[Q43004] animism",
       "doc_url": "http://www.wikidata.org/entity/Q43004#P1282"
@@ -23251,6 +23240,12 @@
       "value": "fujiko",
       "description": "[Q11456201] Fujikō",
       "doc_url": "http://www.wikidata.org/entity/Q11456201#P1282"
+    },
+    {
+      "key": "religion",
+      "value": "Gonabadi_Dervish",
+      "description": "[Q16050852] Gonabadi Dervish",
+      "doc_url": "http://www.wikidata.org/entity/Q16050852#P1282"
     },
     {
       "key": "religion",
@@ -23390,7 +23385,7 @@
     {
       "key": "rescue_equipment",
       "value": "rescue_pole",
-      "description": "[Q2146460] Rettungsstange",
+      "description": "[Q2146460] reddingshaak",
       "doc_url": "http://www.wikidata.org/entity/Q2146460#P1282"
     },
     {
@@ -23514,14 +23509,14 @@
     {
       "key": "resource",
       "value": "water",
-      "description": "[Q29053744] liquid water",
-      "doc_url": "http://www.wikidata.org/entity/Q29053744#P1282"
+      "description": "[Q283] water",
+      "doc_url": "http://www.wikidata.org/entity/Q283#P1282"
     },
     {
       "key": "resource",
       "value": "water",
-      "description": "[Q283] water",
-      "doc_url": "http://www.wikidata.org/entity/Q283#P1282"
+      "description": "[Q29053744] liquid water",
+      "doc_url": "http://www.wikidata.org/entity/Q29053744#P1282"
     },
     {
       "key": "restaurant",
@@ -23854,30 +23849,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q1579009#P1282"
     },
     {
-      "key": "school:DZ",
-      "value": "primaire",
-      "description": "[Q133501799] primary school in Algeria",
-      "doc_url": "http://www.wikidata.org/entity/Q133501799#P1282"
-    },
-    {
-      "key": "school:FR",
-      "value": "maternelle",
-      "description": "[Q126807] kindergarten",
-      "doc_url": "http://www.wikidata.org/entity/Q126807#P1282"
-    },
-    {
-      "key": "school:FR",
-      "value": "primaire",
-      "description": "[Q3578324] primary school in France",
-      "doc_url": "http://www.wikidata.org/entity/Q3578324#P1282"
-    },
-    {
-      "key": "school:FR",
-      "value": "élémentaire",
-      "description": "[Q9842] primary school",
-      "doc_url": "http://www.wikidata.org/entity/Q9842#P1282"
-    },
-    {
       "key": "school:de",
       "value": "Förderschule",
       "description": "[Q1110689] special education school",
@@ -23894,6 +23865,30 @@
       "value": "Realschule",
       "description": "[Q667471] Realschule",
       "doc_url": "http://www.wikidata.org/entity/Q667471#P1282"
+    },
+    {
+      "key": "school:DZ",
+      "value": "primaire",
+      "description": "[Q133501799] primary school in Algeria",
+      "doc_url": "http://www.wikidata.org/entity/Q133501799#P1282"
+    },
+    {
+      "key": "school:FR",
+      "value": "élémentaire",
+      "description": "[Q9842] primary school",
+      "doc_url": "http://www.wikidata.org/entity/Q9842#P1282"
+    },
+    {
+      "key": "school:FR",
+      "value": "maternelle",
+      "description": "[Q126807] kindergarten",
+      "doc_url": "http://www.wikidata.org/entity/Q126807#P1282"
+    },
+    {
+      "key": "school:FR",
+      "value": "primaire",
+      "description": "[Q3578324] primary school in France",
+      "doc_url": "http://www.wikidata.org/entity/Q3578324#P1282"
     },
     {
       "key": "school:gender",
@@ -24158,14 +24153,14 @@
     {
       "key": "shop",
       "value": "alcohol",
-      "description": "[Q2632011] liquor store",
-      "doc_url": "http://www.wikidata.org/entity/Q2632011#P1282"
+      "description": "[Q22995] wine room",
+      "doc_url": "http://www.wikidata.org/entity/Q22995#P1282"
     },
     {
       "key": "shop",
       "value": "alcohol",
-      "description": "[Q22995] wine room",
-      "doc_url": "http://www.wikidata.org/entity/Q22995#P1282"
+      "description": "[Q2632011] liquor store",
+      "doc_url": "http://www.wikidata.org/entity/Q2632011#P1282"
     },
     {
       "key": "shop",
@@ -24818,14 +24813,14 @@
     {
       "key": "shop",
       "value": "mall",
-      "description": "[Q31374404] shopping mall",
-      "doc_url": "http://www.wikidata.org/entity/Q31374404#P1282"
+      "description": "[Q11315] shopping center",
+      "doc_url": "http://www.wikidata.org/entity/Q11315#P1282"
     },
     {
       "key": "shop",
       "value": "mall",
-      "description": "[Q11315] shopping center",
-      "doc_url": "http://www.wikidata.org/entity/Q11315#P1282"
+      "description": "[Q31374404] shopping mall",
+      "doc_url": "http://www.wikidata.org/entity/Q31374404#P1282"
     },
     {
       "key": "shop",
@@ -24854,7 +24849,7 @@
     {
       "key": "shop",
       "value": "mobile_phone",
-      "description": "[Q47516435] mobile phone shop",
+      "description": "[Q47516435] mobile phone repair shop",
       "doc_url": "http://www.wikidata.org/entity/Q47516435#P1282"
     },
     {
@@ -25298,6 +25293,12 @@
       "doc_url": "http://www.wikidata.org/entity/Q136342849#P1282"
     },
     {
+      "key": "site_type",
+      "value": "minilith",
+      "description": "[Q98596750] minilith",
+      "doc_url": "http://www.wikidata.org/entity/Q98596750#P1282"
+    },
+    {
       "key": "site",
       "value": "planet_trail",
       "description": "[Q174713] planet trail",
@@ -25308,12 +25309,6 @@
       "value": "wind_farm",
       "description": "[Q194356] wind farm",
       "doc_url": "http://www.wikidata.org/entity/Q194356#P1282"
-    },
-    {
-      "key": "site_type",
-      "value": "minilith",
-      "description": "[Q98596750] minilith",
-      "doc_url": "http://www.wikidata.org/entity/Q98596750#P1282"
     },
     {
       "key": "ski",
@@ -25444,6 +25439,12 @@
     },
     {
       "key": "source",
+      "value": "aerial_imagery",
+      "description": "[Q191839] aerial photography",
+      "doc_url": "http://www.wikidata.org/entity/Q191839#P1282"
+    },
+    {
+      "key": "source",
       "value": "BAG",
       "description": "[Q2274762] Basisregistratie Adressen en Gebouwen",
       "doc_url": "http://www.wikidata.org/entity/Q2274762#P1282"
@@ -25463,10 +25464,35 @@
     },
     {
       "key": "source",
+      "value": "common_knowledge",
+      "description": "[Q1116133] common knowledge",
+      "doc_url": "http://www.wikidata.org/entity/Q1116133#P1282"
+    },
+    {
+      "key": "source",
+      "value": "digitalglobe",
+      "description": "[Q1224697] DigitalGlobe",
+      "doc_url": "http://www.wikidata.org/entity/Q1224697#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/DigitalGlobe%20ring%20logo.svg"
+    },
+    {
+      "key": "source",
       "value": "DNIT",
       "description": "[Q10265187] National Department of Transport Infrastructure",
       "doc_url": "http://www.wikidata.org/entity/Q10265187#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/DNIT%20Monocrom%C3%A1tico.png"
+    },
+    {
+      "key": "source",
+      "value": "esri",
+      "description": "[Q1045778] Esri",
+      "doc_url": "http://www.wikidata.org/entity/Q1045778#P1282"
+    },
+    {
+      "key": "source",
+      "value": "extrapolation",
+      "description": "[Q744069] mathematical extrapolation",
+      "doc_url": "http://www.wikidata.org/entity/Q744069#P1282"
     },
     {
       "key": "source",
@@ -25480,6 +25506,13 @@
       "description": "[Q18822] Global Positioning System",
       "doc_url": "http://www.wikidata.org/entity/Q18822#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/NAVSTAR%20GPS%20logo.png"
+    },
+    {
+      "key": "source",
+      "value": "http://www.thw.de",
+      "description": "[Q697698] Technisches Hilfswerk",
+      "doc_url": "http://www.wikidata.org/entity/Q697698#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/THW.svg"
     },
     {
       "key": "source",
@@ -25498,7 +25531,7 @@
     {
       "key": "source",
       "value": "IGVSB",
-      "description": "[Q24961802] Instituto Geográfico de Venezuela Simón Bolívar",
+      "description": "[Q24961802] Instituto Geográfico da Venezuela Simón Bolívar",
       "doc_url": "http://www.wikidata.org/entity/Q24961802#P1282"
     },
     {
@@ -25524,6 +25557,13 @@
     },
     {
       "key": "source",
+      "value": "maxar",
+      "description": "[Q48791239] Maxar Technologies",
+      "doc_url": "http://www.wikidata.org/entity/Q48791239#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maxar%20yellow%20logo.svg"
+    },
+    {
+      "key": "source",
       "value": "NHD",
       "description": "[Q6973463] National Hydrography Dataset",
       "doc_url": "http://www.wikidata.org/entity/Q6973463#P1282"
@@ -25536,68 +25576,16 @@
     },
     {
       "key": "source",
-      "value": "PNOA",
-      "description": "[Q16619392] National Aerial Orthophotography Plan",
-      "doc_url": "http://www.wikidata.org/entity/Q16619392#P1282"
-    },
-    {
-      "key": "source",
-      "value": "Yahoo",
-      "description": "[Q29231846] Yahoo Inc.",
-      "doc_url": "http://www.wikidata.org/entity/Q29231846#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Yahoo%21%20%282019%29.svg"
-    },
-    {
-      "key": "source",
-      "value": "aerial_imagery",
-      "description": "[Q191839] aerial photography",
-      "doc_url": "http://www.wikidata.org/entity/Q191839#P1282"
-    },
-    {
-      "key": "source",
-      "value": "common_knowledge",
-      "description": "[Q1116133] common knowledge",
-      "doc_url": "http://www.wikidata.org/entity/Q1116133#P1282"
-    },
-    {
-      "key": "source",
-      "value": "digitalglobe",
-      "description": "[Q1224697] DigitalGlobe",
-      "doc_url": "http://www.wikidata.org/entity/Q1224697#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/DigitalGlobe%20ring%20logo.svg"
-    },
-    {
-      "key": "source",
-      "value": "esri",
-      "description": "[Q1045778] Esri",
-      "doc_url": "http://www.wikidata.org/entity/Q1045778#P1282"
-    },
-    {
-      "key": "source",
-      "value": "extrapolation",
-      "description": "[Q744069] mathematical extrapolation",
-      "doc_url": "http://www.wikidata.org/entity/Q744069#P1282"
-    },
-    {
-      "key": "source",
-      "value": "http://www.thw.de",
-      "description": "[Q697698] Technisches Hilfswerk",
-      "doc_url": "http://www.wikidata.org/entity/Q697698#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/THW.svg"
-    },
-    {
-      "key": "source",
-      "value": "maxar",
-      "description": "[Q48791239] Maxar Technologies",
-      "doc_url": "http://www.wikidata.org/entity/Q48791239#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Maxar%20yellow%20logo.svg"
-    },
-    {
-      "key": "source",
       "value": "pmsp",
       "description": "[Q10351025] Military Police of São Paulo State",
       "doc_url": "http://www.wikidata.org/entity/Q10351025#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/EscudoPMESP.png"
+    },
+    {
+      "key": "source",
+      "value": "PNOA",
+      "description": "[Q16619392] National Aerial Orthophotography Plan",
+      "doc_url": "http://www.wikidata.org/entity/Q16619392#P1282"
     },
     {
       "key": "source",
@@ -25616,6 +25604,13 @@
       "value": "www.geoportal.gov.pl",
       "description": "[Q56338375] National geoportal (Poland)",
       "doc_url": "http://www.wikidata.org/entity/Q56338375#P1282"
+    },
+    {
+      "key": "source",
+      "value": "Yahoo",
+      "description": "[Q29231846] Yahoo Inc.",
+      "doc_url": "http://www.wikidata.org/entity/Q29231846#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Yahoo%21%20%282019%29.svg"
     },
     {
       "key": "special_education_needs",
@@ -25724,13 +25719,6 @@
       "value": "9pin",
       "description": "[Q706199] nine-pin bowling",
       "doc_url": "http://www.wikidata.org/entity/Q706199#P1282"
-    },
-    {
-      "key": "sport",
-      "value": "CrossFit",
-      "description": "[Q2072840] CrossFit",
-      "doc_url": "http://www.wikidata.org/entity/Q2072840#P1282",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20CrossFit.svg"
     },
     {
       "key": "sport",
@@ -25966,6 +25954,13 @@
       "value": "croquet",
       "description": "[Q193387] croquet",
       "doc_url": "http://www.wikidata.org/entity/Q193387#P1282"
+    },
+    {
+      "key": "sport",
+      "value": "CrossFit",
+      "description": "[Q2072840] CrossFit",
+      "doc_url": "http://www.wikidata.org/entity/Q2072840#P1282",
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20CrossFit.svg"
     },
     {
       "key": "sport",
@@ -26264,14 +26259,14 @@
     {
       "key": "sport",
       "value": "multi",
-      "description": "[Q51031626] sport competition at a multi-sport event",
-      "doc_url": "http://www.wikidata.org/entity/Q51031626#P1282"
+      "description": "[Q349] sport",
+      "doc_url": "http://www.wikidata.org/entity/Q349#P1282"
     },
     {
       "key": "sport",
       "value": "multi",
-      "description": "[Q349] sport",
-      "doc_url": "http://www.wikidata.org/entity/Q349#P1282"
+      "description": "[Q51031626] sport competition at a multi-sport event",
+      "doc_url": "http://www.wikidata.org/entity/Q51031626#P1282"
     },
     {
       "key": "sport",
@@ -26433,7 +26428,7 @@
     {
       "key": "sport",
       "value": "russian_skittles",
-      "description": "[Q2177160] Russisches Kegeln",
+      "description": "[Q2177160] ruské kuželky",
       "doc_url": "http://www.wikidata.org/entity/Q2177160#P1282"
     },
     {
@@ -26512,12 +26507,6 @@
     {
       "key": "sport",
       "value": "soccer",
-      "description": "[Q891698] Bolzplatz",
-      "doc_url": "http://www.wikidata.org/entity/Q891698#P1282"
-    },
-    {
-      "key": "sport",
-      "value": "soccer",
       "description": "[Q2736] association football",
       "doc_url": "http://www.wikidata.org/entity/Q2736#P1282"
     },
@@ -26526,6 +26515,12 @@
       "value": "soccer",
       "description": "[Q8524] association football pitch",
       "doc_url": "http://www.wikidata.org/entity/Q8524#P1282"
+    },
+    {
+      "key": "sport",
+      "value": "soccer",
+      "description": "[Q891698] Bolzplatz",
+      "doc_url": "http://www.wikidata.org/entity/Q891698#P1282"
     },
     {
       "key": "sport",
@@ -27653,6 +27648,12 @@
     },
     {
       "key": "traffic_sign",
+      "value": "city_limit",
+      "description": "[Q266488] town sign",
+      "doc_url": "http://www.wikidata.org/entity/Q266488#P1282"
+    },
+    {
+      "key": "traffic_sign",
       "value": "DE:103",
       "description": "[Q126902919] Sign 103",
       "doc_url": "http://www.wikidata.org/entity/Q126902919#P1282"
@@ -27695,6 +27696,12 @@
     },
     {
       "key": "traffic_sign",
+      "value": "maxspeed",
+      "description": "[Q67356821] speed limit sign",
+      "doc_url": "http://www.wikidata.org/entity/Q67356821#P1282"
+    },
+    {
+      "key": "traffic_sign",
       "value": "US:MD:R7-4(9)",
       "description": "[Q112568591] Bus Stop (Symbol) - No Standing Any Time",
       "doc_url": "http://www.wikidata.org/entity/Q112568591#P1282"
@@ -27722,18 +27729,6 @@
       "value": "US:R10-6",
       "description": "[Q111725975] R10-6 Stop Here on Red",
       "doc_url": "http://www.wikidata.org/entity/Q111725975#P1282"
-    },
-    {
-      "key": "traffic_sign",
-      "value": "city_limit",
-      "description": "[Q266488] town sign",
-      "doc_url": "http://www.wikidata.org/entity/Q266488#P1282"
-    },
-    {
-      "key": "traffic_sign",
-      "value": "maxspeed",
-      "description": "[Q67356821] speed limit sign",
-      "doc_url": "http://www.wikidata.org/entity/Q67356821#P1282"
     },
     {
       "key": "trail_visibility",
@@ -27793,6 +27788,11 @@
       "key": "trolleybus",
       "description": "[Q5639] trolleybus",
       "doc_url": "http://www.wikidata.org/entity/Q5639#P13786"
+    },
+    {
+      "key": "TUD",
+      "description": "[Q130283121] true unit designator",
+      "doc_url": "http://www.wikidata.org/entity/Q130283121#P13786"
     },
     {
       "key": "tunnel",
@@ -28076,13 +28076,13 @@
     },
     {
       "key": "voltage",
-      "description": "[Q388201] railway electrification system",
-      "doc_url": "http://www.wikidata.org/entity/Q388201#P13786"
+      "description": "[Q25428] voltage",
+      "doc_url": "http://www.wikidata.org/entity/Q25428#P13786"
     },
     {
       "key": "voltage",
-      "description": "[Q25428] voltage",
-      "doc_url": "http://www.wikidata.org/entity/Q25428#P13786"
+      "description": "[Q388201] railway electrification system",
+      "doc_url": "http://www.wikidata.org/entity/Q388201#P13786"
     },
     {
       "key": "voltage",
@@ -28196,14 +28196,14 @@
     {
       "key": "waterway",
       "value": "canal",
-      "description": "[Q911379] spillway",
-      "doc_url": "http://www.wikidata.org/entity/Q911379#P1282"
+      "description": "[Q12284] canal",
+      "doc_url": "http://www.wikidata.org/entity/Q12284#P1282"
     },
     {
       "key": "waterway",
       "value": "canal",
-      "description": "[Q12284] canal",
-      "doc_url": "http://www.wikidata.org/entity/Q12284#P1282"
+      "description": "[Q911379] spillway",
+      "doc_url": "http://www.wikidata.org/entity/Q911379#P1282"
     },
     {
       "key": "waterway",
@@ -28214,14 +28214,14 @@
     {
       "key": "waterway",
       "value": "dam",
-      "description": "[Q56697283] hydroelectric dam",
-      "doc_url": "http://www.wikidata.org/entity/Q56697283#P1282"
+      "description": "[Q12323] dam",
+      "doc_url": "http://www.wikidata.org/entity/Q12323#P1282"
     },
     {
       "key": "waterway",
       "value": "dam",
-      "description": "[Q12323] dam",
-      "doc_url": "http://www.wikidata.org/entity/Q12323#P1282"
+      "description": "[Q56697283] hydroelectric dam",
+      "doc_url": "http://www.wikidata.org/entity/Q56697283#P1282"
     },
     {
       "key": "waterway",
