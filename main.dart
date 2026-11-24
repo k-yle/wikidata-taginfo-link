@@ -15,7 +15,7 @@ Future<void> main() async {
 
   final response = await http.get(
     Uri.parse(
-      'https://query.wikidata.org/sparql?query=${Uri.encodeComponent(query)}',
+      'https://query-next.wikidata.org/sparql?query=${Uri.encodeComponent(query)}',
     ),
     headers: {
       'Accept': 'application/sparql-results+json',
@@ -23,7 +23,8 @@ Future<void> main() async {
     },
   );
 
-  final tags = (jsonDecode(response.body)['results']['bindings'] as List)
+  final responseBody = utf8.decode(response.bodyBytes);
+  final tags = (jsonDecode(responseBody)['results']['bindings'] as List)
       .map((item) {
         final kv = (item['value']['value'] as String).split('=');
         final qID = (item['item']['value'] as String).split('/').last;
