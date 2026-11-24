@@ -15356,6 +15356,12 @@
     },
     {
       "key": "network",
+      "value": "BR:AC",
+      "description": "[Q142277309] state highway of Acre",
+      "doc_url": "http://www.wikidata.org/entity/Q142277309#P1282"
+    },
+    {
+      "key": "network",
       "value": "BR:ES",
       "description": "[Q98596739] regional highways in Espírito Santo",
       "doc_url": "http://www.wikidata.org/entity/Q98596739#P1282"
@@ -15375,8 +15381,8 @@
     {
       "key": "network",
       "value": "BR:RS",
-      "description": "[Q10363797] list of highways of Rio Grande do Sul",
-      "doc_url": "http://www.wikidata.org/entity/Q10363797#P1282"
+      "description": "[Q142277217] state highway of Rio Grande do Sul",
+      "doc_url": "http://www.wikidata.org/entity/Q142277217#P1282"
     },
     {
       "key": "network",
@@ -24849,7 +24855,7 @@
     {
       "key": "shop",
       "value": "mobile_phone",
-      "description": "[Q47516435] mobile phone repair shop",
+      "description": "[Q47516435] mobile phone shop",
       "doc_url": "http://www.wikidata.org/entity/Q47516435#P1282"
     },
     {
