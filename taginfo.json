@@ -5089,7 +5089,7 @@
       "key": "contact:facebook",
       "description": "[Q355] Facebook",
       "doc_url": "http://www.wikidata.org/entity/Q355#P13786",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Facebook%20icon.svg"
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Facebook%20logo%20and%20wordmark.svg"
     },
     {
       "key": "contact:fax",
@@ -6988,7 +6988,7 @@
     {
       "key": "denomination",
       "value": "iglesia_ni_cristo",
-      "description": "[Q1138908] Iglesia ni Cristo",
+      "description": "[Q1138908] Iglesia Ni Cristo",
       "doc_url": "http://www.wikidata.org/entity/Q1138908#P1282",
       "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Iglesia%20ni%20Cristo%20flag.svg"
     },
@@ -8520,7 +8520,7 @@
       "key": "facebook",
       "description": "[Q355] Facebook",
       "doc_url": "http://www.wikidata.org/entity/Q355#P13786",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Facebook%20icon.svg"
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Facebook%20logo%20and%20wordmark.svg"
     },
     {
       "key": "faculty",
@@ -15362,27 +15362,159 @@
     },
     {
       "key": "network",
+      "value": "BR:AL",
+      "description": "[Q142278493] state highway of Alagoas",
+      "doc_url": "http://www.wikidata.org/entity/Q142278493#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:AM",
+      "description": "[Q142277725] state highway of Amazonas",
+      "doc_url": "http://www.wikidata.org/entity/Q142277725#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:AP",
+      "description": "[Q142278506] state highway of Amapá",
+      "doc_url": "http://www.wikidata.org/entity/Q142278506#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:BA",
+      "description": "[Q142277812] state highway of Bahia",
+      "doc_url": "http://www.wikidata.org/entity/Q142277812#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:CE",
+      "description": "[Q142277929] state highway of Ceará",
+      "doc_url": "http://www.wikidata.org/entity/Q142277929#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:DF",
+      "description": "[Q142277950] district highway of the Federal District",
+      "doc_url": "http://www.wikidata.org/entity/Q142277950#P1282"
+    },
+    {
+      "key": "network",
       "value": "BR:ES",
-      "description": "[Q98596739] regional highways in Espírito Santo",
+      "description": "[Q98596739] state highway of Espírito Santo",
       "doc_url": "http://www.wikidata.org/entity/Q98596739#P1282"
     },
     {
       "key": "network",
+      "value": "BR:GO",
+      "description": "[Q142278002] state highway of Goiás",
+      "doc_url": "http://www.wikidata.org/entity/Q142278002#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:MA",
+      "description": "[Q142278020] state highway in Maranhão",
+      "doc_url": "http://www.wikidata.org/entity/Q142278020#P1282"
+    },
+    {
+      "key": "network",
       "value": "BR:MG",
-      "description": "[Q98596748] regional highways in Minas Gerais",
+      "description": "[Q98596748] state highway of Minas Gerais",
       "doc_url": "http://www.wikidata.org/entity/Q98596748#P1282"
     },
     {
       "key": "network",
+      "value": "BR:MS",
+      "description": "[Q142278402] state highway of Mato Grosso do Sul",
+      "doc_url": "http://www.wikidata.org/entity/Q142278402#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:MT",
+      "description": "[Q142278035] state highway of Mato Grosso",
+      "doc_url": "http://www.wikidata.org/entity/Q142278035#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:PA",
+      "description": "[Q142278123] state highway of Pará",
+      "doc_url": "http://www.wikidata.org/entity/Q142278123#P1282"
+    },
+    {
+      "key": "network",
       "value": "BR:PB",
-      "description": "[Q98596751] regional highways of Paraíba",
+      "description": "[Q98596751] state highway of Paraíba",
       "doc_url": "http://www.wikidata.org/entity/Q98596751#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:PE",
+      "description": "[Q106547615] state highway of Pernambuco",
+      "doc_url": "http://www.wikidata.org/entity/Q106547615#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:PI",
+      "description": "[Q142278259] state highway of Piauí",
+      "doc_url": "http://www.wikidata.org/entity/Q142278259#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:PR",
+      "description": "[Q142278137] state highway of Paraná",
+      "doc_url": "http://www.wikidata.org/entity/Q142278137#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:RJ",
+      "description": "[Q142278281] state highway of Rio de Janeiro",
+      "doc_url": "http://www.wikidata.org/entity/Q142278281#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:RN",
+      "description": "[Q142278292] state highway of Rio Grande do Norte",
+      "doc_url": "http://www.wikidata.org/entity/Q142278292#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:RO",
+      "description": "[Q142278309] state highway of Rondônia",
+      "doc_url": "http://www.wikidata.org/entity/Q142278309#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:RR",
+      "description": "[Q142278327] state highway of Roraima",
+      "doc_url": "http://www.wikidata.org/entity/Q142278327#P1282"
     },
     {
       "key": "network",
       "value": "BR:RS",
       "description": "[Q142277217] state highway of Rio Grande do Sul",
       "doc_url": "http://www.wikidata.org/entity/Q142277217#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:SC",
+      "description": "[Q142278346] state highway of Santa Catarina",
+      "doc_url": "http://www.wikidata.org/entity/Q142278346#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:SE",
+      "description": "[Q142278387] state highway of Sergipe",
+      "doc_url": "http://www.wikidata.org/entity/Q142278387#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:SP",
+      "description": "[Q142278361] state highway of São Paulo",
+      "doc_url": "http://www.wikidata.org/entity/Q142278361#P1282"
+    },
+    {
+      "key": "network",
+      "value": "BR:TO",
+      "description": "[Q142278395] state highway of Tocantins",
+      "doc_url": "http://www.wikidata.org/entity/Q142278395#P1282"
     },
     {
       "key": "network",
@@ -17220,12 +17352,6 @@
       "value": "stadtradhamburg",
       "description": "[Q2326366] StadtRAD Hamburg",
       "doc_url": "http://www.wikidata.org/entity/Q2326366#P1282"
-    },
-    {
-      "key": "network",
-      "value": "stadtradlueneburg",
-      "description": "[Q126007363] StadtRAD Lüneburg",
-      "doc_url": "http://www.wikidata.org/entity/Q126007363#P1282"
     },
     {
       "key": "network",
@@ -28127,7 +28253,7 @@
     },
     {
       "key": "waste",
-      "description": "[Q45701] waste",
+      "description": "[Q45701] Garbage",
       "doc_url": "http://www.wikidata.org/entity/Q45701#P13786"
     },
     {
