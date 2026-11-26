@@ -4143,12 +4143,6 @@
       "doc_url": "http://www.wikidata.org/entity/Q274153#P1282"
     },
     {
-      "key": "building",
-      "value": "yes",
-      "description": "[Q41176] building",
-      "doc_url": "http://www.wikidata.org/entity/Q41176#P1282"
-    },
-    {
       "key": "bulk_purchase",
       "description": "[Q2748365] bulk purchasing",
       "doc_url": "http://www.wikidata.org/entity/Q2748365#P13786"
@@ -8520,7 +8514,7 @@
       "key": "facebook",
       "description": "[Q355] Facebook",
       "doc_url": "http://www.wikidata.org/entity/Q355#P13786",
-      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Facebook%20logo%20and%20wordmark.svg"
+      "icon_url": "http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Facebook%20icon.svg"
     },
     {
       "key": "faculty",
@@ -19152,6 +19146,11 @@
       "doc_url": "http://www.wikidata.org/entity/P1893#P13786"
     },
     {
+      "key": "operational_status",
+      "description": "[Q56557118] use status",
+      "doc_url": "http://www.wikidata.org/entity/Q56557118#P13786"
+    },
+    {
       "key": "operator",
       "description": "[Q29933786] operator",
       "doc_url": "http://www.wikidata.org/entity/Q29933786#P13786"
@@ -24548,12 +24547,6 @@
     },
     {
       "key": "shop",
-      "value": "cosmetics",
-      "description": "[Q47508166] cosmetic shop",
-      "doc_url": "http://www.wikidata.org/entity/Q47508166#P1282"
-    },
-    {
-      "key": "shop",
       "value": "country_store",
       "description": "[Q1244860] general store",
       "doc_url": "http://www.wikidata.org/entity/Q1244860#P1282"
@@ -24980,8 +24973,14 @@
     },
     {
       "key": "shop",
+      "value": "Minerales Aromaterapia Mindfulness",
+      "description": "[Q47508166] Holística shop",
+      "doc_url": "http://www.wikidata.org/entity/Q47508166#P1282"
+    },
+    {
+      "key": "shop",
       "value": "mobile_phone",
-      "description": "[Q47516435] mobile phone shop",
+      "description": "[Q47516435] mobile phone repair shop",
       "doc_url": "http://www.wikidata.org/entity/Q47516435#P1282"
     },
     {
