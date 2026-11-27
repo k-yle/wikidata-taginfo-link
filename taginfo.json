@@ -3755,7 +3755,7 @@
     {
       "key": "building",
       "value": "granary",
-      "description": "[Q114768] granary",
+      "description": "[Q114768] Granary",
       "doc_url": "http://www.wikidata.org/entity/Q114768#P1282"
     },
     {
@@ -14033,7 +14033,7 @@
     {
       "key": "memorial",
       "value": "plaque",
-      "description": "[Q721747] commemorative plaque",
+      "description": "[Q721747] commemorative inscription",
       "doc_url": "http://www.wikidata.org/entity/Q721747#P1282"
     },
     {
@@ -15681,8 +15681,8 @@
     {
       "key": "network",
       "value": "CA:SK:secondary",
-      "description": "[Q115914895] municipal roads in Saskatchewan",
-      "doc_url": "http://www.wikidata.org/entity/Q115914895#P1282"
+      "description": "[Q142307352] Saskatchewan Grid Roads",
+      "doc_url": "http://www.wikidata.org/entity/Q142307352#P1282"
     },
     {
       "key": "network",
@@ -23085,7 +23085,7 @@
     },
     {
       "key": "ref:nces",
-      "description": "[P2484] NCES school ID",
+      "description": "[P2484] NCES public school ID",
       "doc_url": "http://www.wikidata.org/entity/P2484#P13786"
     },
     {
